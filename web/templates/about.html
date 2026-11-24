@@ -1,0 +1,181 @@
+{% extends "base.html" %}
+
+{% block title %}About Us - Ch7al{% endblock %}
+
+{% block content %}
+<!-- Hero Section -->
+<section class="hero-section">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-8 mx-auto text-center">
+                <h1 class="hero-title">About Ch7al</h1>
+                <p class="hero-subtitle">Your trusted partner in vehicle price estimation</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Mission Section -->
+<section class="container my-5">
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <div class="card shadow-sm" data-aos="fade-up">
+                <div class="card-body">
+                    <h2 class="card-title text-center mb-4">Our Mission</h2>
+                    <p class="lead text-center mb-4">
+                        To provide accurate and reliable vehicle price estimates in Morocco, helping buyers and sellers make informed decisions.
+                    </p>
+                    <div class="row g-4">
+                        <div class="col-md-4 text-center">
+                            <i class="fas fa-bullseye fa-3x text-primary mb-3"></i>
+                            <h3 class="h5">Accuracy</h3>
+                            <p>Precise price estimates based on real market data</p>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <i class="fas fa-chart-line fa-3x text-primary mb-3"></i>
+                            <h3 class="h5">Transparency</h3>
+                            <p>Clear and detailed market analysis</p>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <i class="fas fa-users fa-3x text-primary mb-3"></i>
+                            <h3 class="h5">User-Focused</h3>
+                            <p>Easy-to-use platform for everyone</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- How It Works Section -->
+<section class="container my-5">
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <div class="card shadow-sm" data-aos="fade-up">
+                <div class="card-body">
+                    <h2 class="card-title text-center mb-4">How It Works</h2>
+                    <div class="row g-4">
+                        <div class="col-md-4">
+                            <div class="text-center">
+                                <div class="step-number mb-3">1</div>
+                                <h3 class="h5">Enter Details</h3>
+                                <p>Input your vehicle specifications and condition</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="text-center">
+                                <div class="step-number mb-3">2</div>
+                                <h3 class="h5">Get Estimate</h3>
+                                <p>Receive an accurate price estimate instantly</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="text-center">
+                                <div class="step-number mb-3">3</div>
+                                <h3 class="h5">Make Decision</h3>
+                                <p>Use the estimate to make informed decisions</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Team Section -->
+<section class="container my-5">
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <div class="card shadow-sm" data-aos="fade-up">
+                <div class="card-body">
+                    <h2 class="card-title text-center mb-4">Our Team</h2>
+                    <div class="row g-4">
+                        <div class="col-md-4">
+                            <div class="team-member text-center">
+                                <div class="team-member-image mb-3" style="width: 200px; height: 200px; margin: 0 auto; overflow: hidden;">
+                                    <img src="{{ url_for('static', filename='images/team-1.jpg') }}" 
+                                         alt="Bazguioui Mehdi Amine" 
+                                         class="img-fluid rounded-circle"
+                                         style="width: 100%; height: 100%; object-fit: cover;">
+                                </div>
+                                <h3 class="h5">Bazguioui Mehdi Amine</h3>
+                                <p class="text-muted">Project Lead</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="team-member text-center">
+                                <div class="team-member-image mb-3" style="width: 200px; height: 200px; margin: 0 auto; overflow: hidden;">
+                                    <img src="{{ url_for('static', filename='images/team-2.jpg') }}" 
+                                         alt="Boukallaba Yassine" 
+                                         class="img-fluid rounded-circle"
+                                         style="width: 100%; height: 100%; object-fit: cover;">
+                                </div>
+                                <h3 class="h5">Boukallaba Yassine</h3>
+                                <p class="text-muted">Data Analyst</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="team-member text-center">
+                                <div class="team-member-image mb-3" style="width: 200px; height: 200px; margin: 0 auto; overflow: hidden;">
+                                    <img src="{{ url_for('static', filename='images/team-3.jpg') }}" 
+                                         alt="Khouchaf Mohammed Amine" 
+                                         class="img-fluid rounded-circle"
+                                         style="width: 100%; height: 100%; object-fit: cover;">
+                                </div>
+                                <h3 class="h5">Khouchaf Mohammed Amine</h3>
+                                <p class="text-muted">Developer</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Contact Section -->
+<section class="container my-5">
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <div class="card shadow-sm" data-aos="fade-up">
+                <div class="card-body">
+                    <h2 class="card-title text-center mb-4">Contact Us</h2>
+                    <div class="row g-4">
+                        <div class="col-md-6">
+                            <div class="contact-info">
+                                <h3 class="h5 mb-3">Get in Touch</h3>
+                                <p><i class="fas fa-envelope me-2"></i>contact@ch7al.com</p>
+                                <p><i class="fas fa-phone me-2"></i>+212 666 911 123</p>
+                                <p><i class="fas fa-map-marker-alt me-2"></i>Casablanca, Morocco</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="social-links">
+                                <h3 class="h5 mb-3">Follow Us</h3>
+                                <div class="d-flex gap-3">
+                                    <a href="#" class="text-primary"><i class="fab fa-facebook fa-2x"></i></a>
+                                    <a href="#" class="text-primary"><i class="fab fa-twitter fa-2x"></i></a>
+                                    <a href="#" class="text-primary"><i class="fab fa-linkedin fa-2x"></i></a>
+                                    <a href="#" class="text-primary"><i class="fab fa-instagram fa-2x"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    // Initialize AOS
+    AOS.init({
+        duration: 800,
+        once: true
+    });
+</script>
+{% endblock %} 

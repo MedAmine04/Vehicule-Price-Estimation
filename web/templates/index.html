@@ -1,0 +1,732 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- Hero Section -->
+<section class="hero-section">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <h1 class="hero-title">Find Your Perfect Vehicle Price</h1>
+                <p class="hero-subtitle">Get accurate price estimates for cars and motorcycles in Morocco</p>
+                <div class="text-center mb-4">
+                    <div class="d-flex align-items-center justify-content-center mb-3">
+                        <div class="moroccan-divider"></div>
+                        <span class="arabic-phrase mx-3">أفضل الأسعار</span>
+                        <div class="moroccan-divider"></div>
+                    </div>
+                    <a href="#estimator" class="btn btn-light btn-lg position-relative overflow-hidden mt-2">
+                        <i class="fas fa-calculator me-2"></i>Start Estimating
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-6 position-relative">
+                <div class="moroccan-frame-container">
+                    <div class="moroccan-frame"></div>
+                    <img src="{{ url_for('static', filename='images/hero-car.png') }}" alt="Car Illustration" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .moroccan-divider {
+        height: 2px;
+        background-color: var(--accent-color);
+        width: 80px;
+    }
+    
+    .arabic-phrase {
+        font-family: 'Amiri', serif;
+        color: var(--accent-color);
+        font-size: 1.5rem;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    }
+    
+    .moroccan-frame-container {
+        position: relative;
+        display: inline-block;
+        padding: 10px;
+        max-width: 100%;
+    }
+    
+    .moroccan-frame {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        border: 4px solid var(--accent-color);
+        border-radius: 15px;
+        z-index: 0;
+        pointer-events: none;
+        animation: frameShimmer 3s infinite alternate ease-in-out;
+    }
+    
+    @keyframes frameShimmer {
+        0% {
+            border-color: var(--accent-color);
+            box-shadow: 0 0 5px var(--accent-color);
+        }
+        50% {
+            border-color: var(--golden-ocher);
+            box-shadow: 0 0 15px var(--golden-ocher);
+        }
+        100% {
+            border-color: var(--accent-color);
+            box-shadow: 0 0 5px var(--accent-color);
+        }
+    }
+    
+    .moroccan-frame-container img {
+        position: relative;
+        z-index: 1;
+        border-radius: 12px;
+        display: block;
+    }
+    
+    .moroccan-frame::before {
+        content: '';
+        position: absolute;
+        top: -8px;
+        left: -8px;
+        width: 20px;
+        height: 20px;
+        background-color: var(--accent-color);
+        border-radius: 50%;
+        z-index: 1;
+        animation: cornerPulse 3s infinite alternate ease-in-out;
+    }
+    
+    .moroccan-frame::after {
+        content: '';
+        position: absolute;
+        bottom: -8px;
+        right: -8px;
+        width: 20px;
+        height: 20px;
+        background-color: var(--accent-color);
+        border-radius: 50%;
+        z-index: 1;
+        animation: cornerPulse 3s infinite alternate-reverse ease-in-out;
+    }
+    
+    @keyframes cornerPulse {
+        0% {
+            transform: scale(1);
+            background-color: var(--accent-color);
+        }
+        50% {
+            transform: scale(1.2);
+            background-color: var(--golden-ocher);
+        }
+        100% {
+            transform: scale(1);
+            background-color: var(--accent-color);
+        }
+    }
+    
+
+</style>
+
+<!-- Features Section -->
+<section class="container my-5">
+    <div class="text-center mb-4">
+        <h2 class="moroccan-section-title">Our Features</h2>
+        <div class="moroccan-ornament mx-auto mb-4"></div>
+    </div>
+    <div class="row g-4">
+        <div class="col-md-4" data-aos="fade-up">
+            <div class="card h-100 moroccan-card">
+                <div class="card-body text-center">
+                    <div class="moroccan-icon-wrapper mb-3">
+                        <i class="fas fa-chart-line fa-2x"></i>
+                    </div>
+                    <h3 class="card-title h5">Accurate Estimates</h3>
+                    <p class="card-text">Get precise price estimates based on real market data and advanced algorithms.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="card h-100 moroccan-card">
+                <div class="card-body text-center">
+                    <div class="moroccan-icon-wrapper mb-3">
+                        <i class="fas fa-bolt fa-2x"></i>
+                    </div>
+                    <h3 class="card-title h5">Instant Results</h3>
+                    <p class="card-text">Receive price estimates instantly with our fast and efficient calculation system.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="card h-100 moroccan-card">
+                <div class="card-body text-center">
+                    <div class="moroccan-icon-wrapper mb-3">
+                        <i class="fas fa-shield-alt fa-2x"></i>
+                    </div>
+                    <h3 class="card-title h5">Trusted Data</h3>
+                    <p class="card-text">Our estimates are based on verified market data and continuous analysis.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .moroccan-section-title {
+        color: var(--primary-color);
+        font-size: 2.2rem;
+        font-weight: 700;
+        position: relative;
+        display: inline-block;
+    }
+    
+    .moroccan-ornament {
+        height: 15px;
+        width: 200px;
+        background-image: url('data:image/svg+xml;utf8,<svg width="40" height="15" xmlns="http://www.w3.org/2000/svg"><path d="M0 7.5 L10 0 L20 7.5 L30 0 L40 7.5 L30 15 L20 7.5 L10 15 Z" fill="%23c35831"/></svg>');
+        background-repeat: repeat-x;
+        background-size: 40px 15px;
+    }
+    
+    .moroccan-card {
+        border-radius: 15px;
+        overflow: hidden;
+        transition: all 0.3s ease;
+    }
+    
+    .moroccan-card:hover {
+        transform: translateY(-10px);
+    }
+    
+    .moroccan-icon-wrapper {
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        background-color: var(--secondary-color);
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+        position: relative;
+        z-index: 1;
+    }
+    
+    .moroccan-icon-wrapper::before {
+        content: '';
+        position: absolute;
+        top: -5px;
+        left: -5px;
+        right: -5px;
+        bottom: -5px;
+        border: 2px dashed var(--accent-color);
+        border-radius: 50%;
+        animation: spin 20s linear infinite;
+        z-index: -1;
+    }
+    
+    @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+    }
+</style>
+
+<!-- Estimator Section -->
+<section id="estimator" class="container my-5">
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <div class="card shadow moroccan-estimator-card">
+                <div class="card-header position-relative">
+                    <div class="moroccan-arch-pattern"></div>
+                    <h1 class="h3 mb-0 position-relative">
+                        <i class="fas fa-car-side me-2" id="estimator-icon"></i>Vehicle Price Estimator
+                        <span class="arabic-subtitle d-block mt-1" id="arabic-vehicle-phrase">تقدير سعر السيارة</span>
+                    </h1>
+                </div>
+
+<style>
+    .moroccan-estimator-card {
+        border: none;
+        border-radius: 15px;
+        overflow: hidden;
+        position: relative;
+    }
+    
+    .moroccan-estimator-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 10px;
+        background: linear-gradient(to right, var(--accent-color), var(--primary-color), var(--accent-color));
+        z-index: 1;
+    }
+    
+    .moroccan-arch-pattern {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-image: url('data:image/svg+xml;utf8,<svg width="30" height="15" xmlns="http://www.w3.org/2000/svg"><path d="M0 15 Q15 0 30 15" stroke="rgba(255,255,255,0.1)" fill="none" stroke-width="1"/></svg>');
+        background-size: 30px 15px;
+        background-repeat: repeat-x;
+        opacity: 0.5;
+    }
+    
+    .arabic-subtitle {
+        font-family: 'Amiri', serif;
+        font-size: 1rem;
+        color: rgba(255, 255, 255, 0.8);
+        transition: all 0.3s ease;
+    }
+    
+    .icon-transition {
+        animation: iconPop 0.5s ease;
+    }
+    
+    .text-transition {
+        animation: textFade 0.5s ease;
+    }
+    
+    @keyframes iconPop {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.3); }
+        100% { transform: scale(1); }
+    }
+    
+    @keyframes textFade {
+        0% { opacity: 0.5; transform: translateY(5px); }
+        100% { opacity: 1; transform: translateY(0); }
+    }
+    /* Results Section Animations and Effects */
+    .result-card {
+        border: none;
+        border-radius: 15px;
+        overflow: hidden;
+        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+        transform: translateY(0);
+        transition: all 0.5s ease;
+        border-top: 4px solid var(--accent-color);
+        position: relative;
+    }
+    
+    .result-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+    }
+    
+    .moroccan-result-pattern {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 8px;
+        background-image: linear-gradient(to right, var(--accent-color), var(--golden-ocher), var(--accent-color));
+        z-index: 1;
+        animation: shimmerPattern 3s infinite linear;
+        background-size: 200% 100%;
+    }
+    
+    @keyframes shimmerPattern {
+        0% { background-position: 100% 0; }
+        100% { background-position: 0 0; }
+    }
+    
+    .result-title {
+        color: var(--primary-color);
+        font-weight: 700;
+        position: relative;
+        display: inline-block;
+        animation: fadeInDown 0.8s ease;
+    }
+    
+    .result-title::after {
+        content: '';
+        position: absolute;
+        bottom: -8px;
+        left: 50%;
+        width: 60px;
+        height: 2px;
+        background-color: var(--accent-color);
+        transform: translateX(-50%);
+        transition: width 0.3s ease;
+    }
+    
+    .result-card:hover .result-title::after {
+        width: 100px;
+    }
+    
+    .price-container {
+        position: relative;
+        display: inline-block;
+        padding: 10px 30px;
+        margin: 15px 0;
+        animation: pulsePrice 1s ease;
+    }
+    
+    .price-container::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(255, 180, 0, 0.1);
+        border-radius: 15px;
+        z-index: -1;
+        transform: scale(0.9);
+        transition: all 0.3s ease;
+    }
+    
+    .result-card:hover .price-container::before {
+        transform: scale(1.05);
+        background-color: rgba(255, 180, 0, 0.2);
+    }
+    
+    #estimatedPrice {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: var(--primary-color);
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+    }
+    
+    .result-card:hover #estimatedPrice {
+        transform: scale(1.05);
+        color: var(--accent-color);
+    }
+    
+    .confidence-text {
+        font-size: 0.9rem;
+        opacity: 0.8;
+        transition: all 0.3s ease;
+        animation: fadeIn 1.2s ease;
+    }
+    
+    .result-card:hover .confidence-text {
+        opacity: 1;
+    }
+    
+    .vehicle-details-text {
+        animation: fadeIn 1s ease;
+    }
+    
+    .vehicle-details-container {
+        background-color: rgba(255, 255, 255, 0.6);
+        border-radius: 10px;
+        padding: 15px;
+        border-left: 3px solid var(--accent-color);
+        transition: all 0.3s ease;
+        animation: fadeInUp 1.4s ease;
+    }
+    
+    .result-card:hover .vehicle-details-container {
+        background-color: rgba(255, 255, 255, 0.9);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    }
+    
+    .details-title {
+        color: var(--primary-color);
+        font-weight: 600;
+        border-bottom: 1px dashed var(--light-accent);
+        padding-bottom: 5px;
+    }
+    
+    .detail-item {
+        padding: 6px 0;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+        transition: all 0.2s ease;
+        animation: fadeInRight 1.6s ease;
+        animation-fill-mode: both;
+    }
+    
+    .detail-item:last-child {
+        border-bottom: none;
+    }
+    
+    .detail-item:hover {
+        background-color: rgba(255, 180, 0, 0.1);
+        padding-left: 5px;
+        border-radius: 5px;
+    }
+    
+    /* Animation Keyframes */
+    @keyframes fadeInDown {
+        from { opacity: 0; transform: translateY(-20px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+    
+    @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+    
+    @keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+    
+    @keyframes fadeInRight {
+        from { opacity: 0; transform: translateX(-20px); }
+        to { opacity: 1; transform: translateX(0); }
+    }
+    
+    @keyframes pulsePrice {
+        0% { transform: scale(0.9); opacity: 0; }
+        50% { transform: scale(1.05); opacity: 0.8; }
+        100% { transform: scale(1); opacity: 1; }
+    }
+</style>
+                <div class="card-body">
+                    <form id="estimationForm" class="needs-validation" novalidate>
+                        <!-- Vehicle Type -->
+                        <div class="mb-4">
+                            <label class="form-label">Vehicle Type</label>
+                            <div class="btn-group w-100" role="group">
+                                <input type="radio" class="btn-check" name="vehicle_type" id="car" value="Car" checked>
+                                <label class="btn btn-outline-primary" for="car">
+                                    <i class="fas fa-car me-2"></i>Car
+                                </label>
+                                <input type="radio" class="btn-check" name="vehicle_type" id="motorcycle" value="Motorcycle">
+                                <label class="btn btn-outline-primary" for="motorcycle">
+                                    <i class="fas fa-motorcycle me-2"></i>Motorcycle
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <!-- Brand -->
+                            <div class="col-md-6 mb-3">
+                                <label class="form-label">Brand</label>
+                                <select class="form-select" name="brand" required>
+                                    <option value="">Select Brand</option>
+                                    <optgroup label="Car Brands" id="carBrands">
+                                        {% for brand in car_data.keys() %}
+                                        <option value="{{ brand }}">{{ brand }}</option>
+                                        {% endfor %}
+                                    </optgroup>
+                                    <optgroup label="Motorcycle Brands" id="motorcycleBrands" disabled>
+                                        {% for brand in motorcycle_data.keys() %}
+                                        <option value="{{ brand }}">{{ brand }}</option>
+                                        {% endfor %}
+                                    </optgroup>
+                                </select>
+                            </div>
+
+                            <!-- Model -->
+                            <div class="col-md-6 mb-3">
+                                <label class="form-label">Model</label>
+                                <select class="form-select" name="model" required disabled>
+                                    <option value="">Select Brand First</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <!-- Year -->
+                            <div class="col-md-6 mb-3">
+                                <label class="form-label">Year</label>
+                                <select class="form-select" name="year" required>
+                                    <option value="">Select Year</option>
+                                    {% for year in years|reverse %}
+                                    <option value="{{ year }}">{{ year }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+
+                            <!-- Mileage -->
+                            <div class="col-md-6 mb-3">
+                                <label class="form-label">Mileage (km)</label>
+                                <input type="number" class="form-control" name="mileage" required min="0">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <!-- Transmission -->
+                            <div class="col-md-6 mb-3">
+                                <label class="form-label">Transmission</label>
+                                <select class="form-select" name="transmission" required>
+                                    <option value="">Select Transmission</option>
+                                    <option value="Manual">Manual</option>
+                                    <option value="Automatic">Automatic</option>
+                                </select>
+                            </div>
+
+                            <!-- Fuel Type -->
+                            <div class="col-md-6 mb-3">
+                                <label class="form-label">Fuel Type</label>
+                                <select class="form-select" name="fuel" required>
+                                    <option value="">Select Fuel Type</option>
+                                    <optgroup label="Car Fuel Types" id="carFuel">
+                                        <option value="Petrol">Petrol</option>
+                                        <option value="Diesel">Diesel</option>
+                                        <option value="Electric">Electric</option>
+                                        <option value="Hybrid">Hybrid</option>
+                                    </optgroup>
+                                    <optgroup label="Motorcycle Fuel Types" id="motorcycleFuel" disabled>
+                                        <option value="Petrol">Petrol</option>
+                                        <option value="Electric">Electric</option>
+                                    </optgroup>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <!-- Accident History -->
+                            <div class="col-md-6 mb-3">
+                                <label class="form-label">Accident History</label>
+                                <select class="form-select" name="accidents" required>
+                                    <option value="">Select Accident History</option>
+                                    <option value="None">No Accidents</option>
+                                    <option value="Minor">Minor Accidents</option>
+                                    <option value="Major">Major Accidents</option>
+                                </select>
+                            </div>
+
+                            <!-- Previous Owners -->
+                            <div class="col-md-6 mb-3">
+                                <label class="form-label">Previous Owners</label>
+                                <input type="number" class="form-control" name="owners" required min="1" max="10" value="1">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <!-- Seats -->
+                            <div class="col-md-6 mb-3">
+                                <label class="form-label">Seats</label>
+                                <input type="number" class="form-control" name="seats" required>
+                            </div>
+
+                            <!-- Horsepower -->
+                            <div class="col-md-6 mb-3">
+                                <label class="form-label">Horsepower</label>
+                                <input type="number" class="form-control" name="horsepower" required min="1" max="1000">
+                            </div>
+                        </div>
+
+                        <!-- City -->
+                        <div class="mb-4">
+                            <label class="form-label">City</label>
+                            <select class="form-select" name="city" required>
+                                <option value="">Select City</option>
+                                {% for city in cities %}
+                                <option value="{{ city }}">{{ city }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- Submit Button -->
+                        <button type="submit" class="btn btn-primary w-100">
+                            <i class="fas fa-calculator me-2"></i>Estimate Price
+                        </button>
+                    </form>
+
+                    <!-- Results Section -->
+                    <div id="results" class="mt-4" style="display: none;">
+                        <div class="card bg-light result-card">
+                            <div class="moroccan-result-pattern"></div>
+                            <div class="card-body position-relative">
+                                <h4 class="card-title text-center mb-4 result-title">Estimated Price</h4>
+                                <div class="text-center">
+                                    <p class="text-muted mb-2">
+                                        <span id="vehicleDetails" class="fs-5 fw-bold text-primary vehicle-details-text"></span>
+                                    </p>
+                                    <div class="price-container">
+                                        <h2 class="text-primary mb-3" id="estimatedPrice">0 MAD</h2>
+                                    </div>
+                                    <p class="text-muted confidence-text">
+                                        95% Confidence Interval:<br>
+                                        <span id="confidenceInterval">0 - 0 MAD</span>
+                                    </p>
+                                    <div class="mt-3 text-start vehicle-details-container">
+                                        <h5 class="mb-3 details-title">Vehicle Details:</h5>
+                                        <ul class="list-unstyled detail-list">
+                                            <li class="detail-item"><strong>Location:</strong> <span id="resultCity"></span></li>
+                                            <li class="detail-item"><strong>Year:</strong> <span id="resultYear"></span></li>
+                                            <li class="detail-item"><strong>Mileage:</strong> <span id="resultMileage"></span> km</li>
+                                            <li class="detail-item"><strong>Transmission:</strong> <span id="resultTransmission"></span></li>
+                                            <li class="detail-item"><strong>Fuel Type:</strong> <span id="resultFuel"></span></li>
+                                            <li class="detail-item"><strong>Accident History:</strong> <span id="resultAccidents"></span></li>
+                                            <li class="detail-item"><strong>Previous Owners:</strong> <span id="resultOwners"></span></li>
+                                            <li class="detail-item"><strong>Seats:</strong> <span id="resultSeats"></span></li>
+                                            <li class="detail-item"><strong>Horsepower:</strong> <span id="resultHorsepower"></span> HP</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    // Initialize AOS
+    AOS.init({
+        duration: 800,
+        once: true
+    });
+
+    const carData = JSON.parse('{{ car_data|tojson|safe }}');
+    const motorcycleData = JSON.parse('{{ motorcycle_data|tojson|safe }}');
+
+    // Default seats
+    const defaultSeats = {
+        'Car': 5,
+        'Motorcycle': 2
+    };
+
+    // Vehicle type text and icons
+    const vehicleTypeData = {
+        'Car': {
+            icon: 'fa-car-side',
+            arabicPhrase: 'تقدير سعر السيارة' // Car price estimation
+        },
+        'Motorcycle': {
+            icon: 'fa-motorcycle',
+            arabicPhrase: 'تقدير سعر الدراجة النارية' // Motorcycle price estimation
+        }
+    };
+
+    // Update UI when vehicle type changes
+    document.querySelectorAll('input[name="vehicle_type"]').forEach(radio => {
+        radio.addEventListener('change', function() {
+            // Update seats
+            document.querySelector('input[name="seats"]').value = defaultSeats[this.value];
+            
+            // Update icon and Arabic phrase
+            const estimatorIcon = document.getElementById('estimator-icon');
+            const arabicPhrase = document.getElementById('arabic-vehicle-phrase');
+            
+            // Remove previous icon class and add new one
+            estimatorIcon.classList.forEach(cls => {
+                if (cls.startsWith('fa-')) estimatorIcon.classList.remove(cls);
+            });
+            estimatorIcon.classList.add(vehicleTypeData[this.value].icon);
+            
+            // Update Arabic phrase
+            arabicPhrase.textContent = vehicleTypeData[this.value].arabicPhrase;
+            
+            // Add animation effect
+            estimatorIcon.classList.add('icon-transition');
+            arabicPhrase.classList.add('text-transition');
+            
+            // Remove animation class after transition completes
+            setTimeout(() => {
+                estimatorIcon.classList.remove('icon-transition');
+                arabicPhrase.classList.remove('text-transition');
+            }, 500);
+        });
+    });
+
+    // Set initial values
+    document.querySelector('input[name="seats"]').value = defaultSeats['Car'];
+</script>
+{% endblock %}

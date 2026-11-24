@@ -1,0 +1,2001 @@
+type,brand,model,year_of_manufacture,mileage_km,transmission_type,fuel_type,accidents_history,owner,seats,horse_power,city,price_mad
+Car,Skoda,Octavia,2007,106840,Automatic,Electric,None,3,5,254,Mohammedia,43000.0
+Car,Citroen,Berlingo,2011,205965,Automatic,Electric,None,5,3,229,Safi,19000.0
+Car,Peugeot,208,2018,254537,Automatic,Diesel,None,1,5,249,Mohammedia,30000.0
+Car,Suzuki,Alto,2018,285127,Automatic,Electric,Minor,5,7,145,Marrakech,14000.0
+Car,Ford,Escort,2017,272138,Manual,Electric,Major,1,6,161,Casablanca,36000.0
+Car,Mercedes,250,2023,55978,Manual,Hybrid,None,3,5,177,Casablanca,1227000.0
+Car,Mitsubishi,Outlander,2014,45899,Manual,Diesel,None,1,4,160,Mohammedia,77000.0
+Motorcycle,MBK,Ovetto,2001,124369,Manual,Electric,None,1,2,18,Marrakech,2000.0
+Motorcycle,MBK,Booster,2010,114074,Automatic,Petrol,None,3,2,18,Casablanca,3000.0
+Car,Ford,Escort,2002,64031,Manual,Petrol,Major,5,7,241,Casablanca,9000.0
+Car,Ford,Mondeo,2012,164208,Automatic,Electric,None,3,4,269,Fes,53000.0
+Car,Skoda,Roomster,2003,93348,Manual,Diesel,Major,4,4,281,Nador,8000.0
+Car,Skoda,Octavia,2012,110498,Automatic,Electric,None,4,4,161,Marrakech,17000.0
+Car,Fiat,Punto,2007,274139,Manual,Hybrid,None,5,3,118,Kenitra,15000.0
+Car,Kia,Ceed,2011,249360,Automatic,Electric,None,3,4,199,Khouribga,29000.0
+Car,Ford,Focus,2015,271299,Manual,Diesel,Minor,4,4,208,Nador,32000.0
+Car,Suzuki,Ignis,2004,265107,Manual,Hybrid,None,4,7,77,Marrakech,22000.0
+Car,Chevrolet,Matiz,2008,176284,Manual,Electric,Minor,1,5,194,Tangier,32000.0
+Car,Dacia,Spring,2019,290156,Manual,Petrol,Major,2,4,219,Oujda,51000.0
+Motorcycle,BMW,F850GS,2016,269326,Automatic,Petrol,None,5,2,15,Tangier,12000.0
+Car,Chevrolet,Epica,2017,66021,Automatic,Petrol,None,5,2,288,Nador,80000.0
+Motorcycle,Kymco,People,2012,272477,Manual,Petrol,None,4,2,12,Meknes,2000.0
+Car,Seat,Toledo,2022,268304,Manual,Electric,Minor,3,3,126,Rabat,39000.0
+Car,Ford,Fusion,2008,121347,Manual,Petrol,None,4,2,238,Casablanca,49000.0
+Car,Skoda,Octavia,2024,52224,Manual,Petrol,None,4,6,161,Tangier,141000.0
+Car,Volkswagen,Passat,2025,211501,Manual,Electric,Major,1,5,146,Marrakech,57000.0
+Car,Mitsubishi,Outlander,2020,128200,Manual,Hybrid,Minor,4,3,295,Taza,114000.0
+Car,Fiat,Palio,2014,37321,Automatic,Hybrid,Minor,3,6,240,Taza,25000.0
+Car,Citroen,DS4,2018,232057,Manual,Diesel,Minor,2,6,284,Casablanca,46000.0
+Car,Citroen,C4,2012,93913,Manual,Hybrid,None,5,2,229,Kenitra,26000.0
+Car,Hyundai,Atos,2012,148268,Automatic,Diesel,Minor,2,5,274,Kenitra,22000.0
+Car,Hyundai,H1,2004,273810,Automatic,Electric,Minor,5,3,261,Marrakech,9000.0
+Motorcycle,Bajaj,Platina,2023,63989,Automatic,Petrol,None,1,2,24,Taza,9000.0
+Car,Dacia,Logan,2009,220987,Automatic,Electric,Minor,2,4,71,Meknes,12000.0
+Motorcycle,Bajaj,Avenger,2005,102748,Automatic,Electric,None,5,2,19,Nador,1000.0
+Car,Renault,Fluence,2020,285752,Manual,Hybrid,Minor,2,2,104,Khouribga,64000.0
+Car,Dacia,Stepway,2003,174790,Automatic,Hybrid,None,5,4,130,Beni Mellal,10000.0
+Car,Nissan,X-Trail,2000,79484,Automatic,Electric,Minor,5,4,148,Marrakech,12000.0
+Car,Ford,EcoSport,2001,219088,Manual,Electric,None,1,5,229,Mohammedia,11000.0
+Car,Hyundai,Elantra,2004,41229,Manual,Electric,None,1,2,143,Rabat,52000.0
+Car,Toyota,Avensis,2018,255610,Automatic,Hybrid,Major,2,2,223,Casablanca,25000.0
+Car,Kia,Soul,2006,178658,Automatic,Diesel,None,5,3,96,Tangier,9000.0
+Car,Citroen,C3,2006,20716,Manual,Hybrid,None,5,3,90,Rabat,19000.0
+Car,Mitsubishi,Colt,2012,172333,Automatic,Petrol,None,2,3,151,Taza,24000.0
+Motorcycle,Kawasaki,Z125,2025,31580,Automatic,Electric,None,5,2,14,Nador,24000.0
+Car,Mitsubishi,Outlander,2012,204841,Automatic,Hybrid,None,3,7,90,Taza,59000.0
+Car,Suzuki,Baleno,2024,296662,Manual,Electric,None,5,3,280,Casablanca,36000.0
+Motorcycle,Sym,X-Pro,2021,142174,Automatic,Electric,None,4,2,8,Marrakech,5000.0
+Car,Nissan,Juke,2009,38268,Manual,Electric,None,1,7,82,Tangier,44000.0
+Car,Nissan,Juke,2013,36273,Manual,Diesel,None,2,7,82,Kenitra,52000.0
+Car,Citroen,C4,2003,295458,Manual,Petrol,None,4,7,96,Kenitra,18000.0
+Motorcycle,Honda,Lead,2020,12903,Manual,Electric,Major,2,2,10,Meknes,10000.0
+Car,Nissan,Navara,2001,294124,Manual,Hybrid,None,5,3,97,Marrakech,13000.0
+Car,Opel,Vectra,2001,10114,Manual,Petrol,None,3,3,112,Mohammedia,16000.0
+Car,Opel,Corsa,2009,242794,Manual,Diesel,None,3,6,115,Taza,15000.0
+Car,Seat,Arona,2024,53027,Manual,Electric,None,4,4,245,Tangier,139000.0
+Motorcycle,Lifan,Hunter,2024,130608,Manual,Petrol,None,2,2,13,Mohammedia,6000.0
+Car,Dacia,Logan,2012,75421,Manual,Electric,Minor,3,7,201,Casablanca,22000.0
+Car,Renault,Fluence,2004,52092,Automatic,Petrol,None,4,7,190,Khouribga,17000.0
+Car,Chevrolet,Cruze,2023,35431,Manual,Electric,None,5,6,245,Marrakech,89000.0
+Car,Citroen,ZX,2004,214982,Manual,Hybrid,None,5,4,227,Oujda,30000.0
+Car,Kia,Sportage,2018,291459,Manual,Petrol,None,2,4,132,Safi,23000.0
+Motorcycle,Zontes,R350,2005,265726,Manual,Electric,None,2,2,18,Safi,2000.0
+Car,Hyundai,Getz,2001,56738,Automatic,Diesel,None,4,3,149,Oujda,37000.0
+Car,Suzuki,Baleno,2007,187717,Manual,Hybrid,None,4,7,236,Fes,21000.0
+Car,Hyundai,i30,2013,223283,Automatic,Petrol,None,2,5,194,Agadir,25000.0
+Motorcycle,Lifan,KP,2007,279197,Manual,Petrol,None,5,2,21,Kenitra,1000.0
+Car,Suzuki,Ignis,2004,162791,Automatic,Electric,Minor,3,2,135,Rabat,24000.0
+Motorcycle,Yamaha,WR125,2014,285538,Manual,Petrol,None,1,2,16,Oujda,9000.0
+Car,Renault,Captur,2000,88997,Automatic,Electric,Minor,1,6,294,Kenitra,10000.0
+Car,Volkswagen,Jetta,2013,233446,Automatic,Hybrid,Major,3,2,282,Khouribga,53000.0
+Car,Opel,Vectra,2023,176004,Manual,Petrol,None,2,2,77,Fes,56000.0
+Car,Nissan,Note,2001,118822,Automatic,Diesel,None,3,5,115,Beni Mellal,29000.0
+Car,Hyundai,Matrix,2006,253136,Manual,Hybrid,None,4,7,277,Fes,19000.0
+Car,Volkswagen,Polo,2022,282591,Manual,Hybrid,Minor,2,3,75,Meknes,91000.0
+Car,Ford,Escort,2018,98843,Manual,Petrol,None,4,2,99,Casablanca,92000.0
+Car,Chevrolet,Epica,2016,241027,Manual,Hybrid,None,5,3,295,Nador,45000.0
+Car,Ford,Fiesta,2022,252433,Automatic,Electric,Minor,4,5,219,Nador,46000.0
+Car,Nissan,Patrol,2003,39103,Manual,Hybrid,Minor,5,3,130,Agadir,15000.0
+Car,Opel,Meriva,2005,284171,Manual,Hybrid,None,5,4,124,Meknes,9000.0
+Motorcycle,Piaggio,Fly,2013,278745,Manual,Petrol,Major,5,2,8,Meknes,4000.0
+Car,Skoda,Roomster,2012,223302,Manual,Diesel,None,3,4,88,Taza,19000.0
+Motorcycle,MBK,Stunt,2003,236226,Automatic,Petrol,Major,5,2,16,Kenitra,1000.0
+Car,Mercedes,250,2012,222967,Automatic,Electric,None,5,7,230,Tetouan,719000.0
+Motorcycle,Piaggio,Liberty,2002,154657,Automatic,Electric,Minor,2,2,13,Fes,3000.0
+Car,Ford,Mondeo,2004,60414,Manual,Electric,None,4,3,275,Meknes,35000.0
+Motorcycle,Sym,Symphony,2012,120017,Automatic,Electric,None,1,2,21,Casablanca,3000.0
+Motorcycle,Honda,SH125,2007,265806,Manual,Electric,None,3,2,23,Agadir,3000.0
+Motorcycle,Peugeot,Speedfight,2022,129241,Manual,Electric,Major,4,2,9,Rabat,6000.0
+Car,Toyota,Yaris,2008,192161,Automatic,Diesel,None,2,7,109,Nador,33000.0
+Motorcycle,Zontes,T310,2023,296134,Automatic,Electric,None,5,2,17,Kenitra,4000.0
+Motorcycle,Benelli,150i,2006,42542,Manual,Petrol,None,1,2,11,Rabat,4000.0
+Car,Dacia,Spring,2024,64488,Manual,Hybrid,None,3,6,220,El Jadida,152000.0
+Car,Seat,Cordoba,2024,8688,Automatic,Hybrid,None,1,4,226,Mohammedia,131000.0
+Motorcycle,Bajaj,Pulsar,2012,48877,Manual,Electric,None,3,2,8,Marrakech,4000.0
+Car,Mitsubishi,Outlander,2010,6852,Manual,Electric,None,1,4,274,Casablanca,102000.0
+Car,Peugeot,106,2019,232061,Automatic,Petrol,None,4,7,274,Marrakech,62000.0
+Car,Opel,Corsa,2013,5377,Automatic,Petrol,Minor,2,2,115,Beni Mellal,46000.0
+Motorcycle,Piaggio,Liberty,2001,246715,Automatic,Petrol,Minor,3,2,18,Agadir,2000.0
+Motorcycle,Vespa,PX,2011,184435,Manual,Petrol,None,2,2,22,Taza,7000.0
+Motorcycle,Vespa,PX,2011,49714,Manual,Electric,None,1,2,16,Taza,12000.0
+Car,Mercedes,GLK,2025,110164,Automatic,Hybrid,None,3,3,85,Nador,2855000.0
+Car,Toyota,Verso,2013,251632,Manual,Petrol,Minor,4,5,279,Khouribga,15000.0
+Car,Fiat,Linea,2007,290924,Automatic,Electric,None,3,7,139,Casablanca,20000.0
+Car,Volkswagen,Touran,2016,267605,Automatic,Hybrid,None,2,2,289,Tetouan,61000.0
+Car,Suzuki,Ignis,2019,133141,Automatic,Diesel,None,1,7,268,El Jadida,99000.0
+Car,Volkswagen,Caddy,2001,229558,Automatic,Petrol,None,4,3,274,Rabat,16000.0
+Car,Hyundai,i30,2017,222457,Manual,Hybrid,None,5,7,71,Kenitra,42000.0
+Car,Mitsubishi,Pajero,2019,225645,Manual,Hybrid,None,4,4,202,Mohammedia,33000.0
+Car,Hyundai,Accent,2015,27563,Automatic,Hybrid,Minor,3,3,191,Fes,67000.0
+Car,Mitsubishi,Colt,2000,247698,Manual,Electric,None,3,5,125,Rabat,23000.0
+Motorcycle,Zontes,U125,2014,15384,Manual,Petrol,None,3,2,10,Fes,6000.0
+Car,Seat,Altea,2016,58990,Automatic,Hybrid,Minor,4,4,230,Meknes,54000.0
+Car,Citroen,C5,2020,239488,Manual,Diesel,None,4,7,206,Casablanca,59000.0
+Car,Peugeot,405,2012,156132,Manual,Petrol,None,1,2,289,Tetouan,31000.0
+Motorcycle,Bajaj,V15,2011,182250,Manual,Petrol,None,1,2,15,Marrakech,4000.0
+Car,Suzuki,SX4,2013,142520,Manual,Electric,Minor,3,3,119,Marrakech,17000.0
+Car,Skoda,Rapid,2018,138799,Automatic,Electric,None,2,5,144,Nador,54000.0
+Car,Kia,Carens,2010,225046,Automatic,Diesel,None,1,2,192,Oujda,44000.0
+Car,Renault,Kadjar,2013,144851,Manual,Diesel,None,1,4,197,Rabat,38000.0
+Car,Skoda,Karoq,2001,21424,Automatic,Petrol,None,1,2,191,Khouribga,29000.0
+Car,Mercedes,C200,2024,282410,Manual,Hybrid,None,3,2,111,Casablanca,446000.0
+Car,Dacia,Lodgy,2009,135291,Manual,Electric,None,3,2,242,Nador,13000.0
+Car,Hyundai,Atos,2021,43527,Manual,Electric,None,2,3,140,Beni Mellal,142000.0
+Car,Kia,Soul,2025,267417,Manual,Petrol,Major,4,3,270,Khouribga,41000.0
+Car,Toyota,Hilux,2008,137247,Automatic,Petrol,Minor,3,5,292,Oujda,33000.0
+Car,Dacia,Dokker,2025,85859,Automatic,Diesel,None,4,7,154,Tetouan,60000.0
+Car,Opel,Zafira,2008,136346,Automatic,Hybrid,Minor,2,3,121,Agadir,24000.0
+Car,Renault,Kangoo,2021,209072,Manual,Hybrid,None,3,7,243,Rabat,60000.0
+Car,Mitsubishi,Pajero,2002,7690,Automatic,Diesel,Minor,2,4,163,Nador,31000.0
+Motorcycle,Peugeot,Tweet,2009,11180,Manual,Electric,None,1,2,16,Kenitra,4000.0
+Car,Kia,K2700,2012,191240,Manual,Petrol,None,2,7,94,Mohammedia,21000.0
+Motorcycle,Suzuki,Address,2007,215320,Automatic,Electric,None,5,2,19,Casablanca,2000.0
+Car,Citroen,Picasso,2007,272760,Manual,Petrol,Major,3,4,282,Taza,17000.0
+Car,Citroen,C2,2021,213953,Automatic,Diesel,None,1,3,261,El Jadida,55000.0
+Car,Opel,Meriva,2025,203343,Automatic,Hybrid,None,1,4,162,El Jadida,121000.0
+Motorcycle,Benelli,BN125,2016,76951,Manual,Petrol,None,2,2,18,Beni Mellal,7000.0
+Motorcycle,Lifan,V16,2002,142288,Automatic,Petrol,None,1,2,8,Marrakech,1000.0
+Motorcycle,Keeway,RKS,2020,206530,Manual,Electric,None,5,2,18,Kenitra,3000.0
+Car,Mercedes,300,2019,122888,Manual,Diesel,Minor,3,2,181,Kenitra,992000.0
+Car,Peugeot,508,2011,232557,Manual,Hybrid,None,3,7,115,El Jadida,43000.0
+Car,Mitsubishi,ASX,2025,61592,Automatic,Hybrid,None,5,3,164,Safi,69000.0
+Motorcycle,Sym,Allo,2016,61633,Automatic,Petrol,None,2,2,20,Safi,5000.0
+Car,Kia,Ceed,2024,154654,Automatic,Electric,None,3,4,208,Mohammedia,148000.0
+Car,Peugeot,508,2000,32061,Manual,Hybrid,None,1,2,271,Casablanca,27000.0
+Car,Fiat,Punto,2019,94574,Automatic,Electric,None,5,7,260,Fes,29000.0
+Car,Renault,Symbol,2021,169145,Manual,Petrol,None,5,6,184,El Jadida,40000.0
+Car,Hyundai,i10,2016,188594,Automatic,Hybrid,None,1,4,101,Tangier,54000.0
+Motorcycle,Piaggio,Fly,2000,124273,Automatic,Electric,None,2,2,11,Nador,3000.0
+Car,Peugeot,301,2009,206586,Manual,Petrol,None,5,3,80,Tetouan,34000.0
+Car,Mercedes,GLA,2012,11171,Automatic,Diesel,Minor,3,3,212,Safi,812000.0
+Car,Volkswagen,Golf Plus,2025,112411,Manual,Diesel,Major,3,2,130,Mohammedia,86000.0
+Motorcycle,Vespa,Primavera,2009,291858,Manual,Electric,Minor,1,2,20,Tangier,4000.0
+Car,Hyundai,Tucson,2009,90023,Automatic,Hybrid,None,1,3,259,Beni Mellal,41000.0
+Motorcycle,Kawasaki,Z125,2019,182556,Manual,Petrol,None,2,2,14,Nador,10000.0
+Car,Volkswagen,Scirocco,2021,137670,Automatic,Petrol,None,3,2,209,Beni Mellal,70000.0
+Car,Chevrolet,Matiz,2004,95892,Automatic,Petrol,Major,4,2,152,Mohammedia,21000.0
+Car,Mercedes,E300,2025,140430,Manual,Hybrid,None,3,6,262,Mohammedia,2719000.0
+Motorcycle,Keeway,RKS,2010,120640,Manual,Petrol,None,2,2,21,Khouribga,3000.0
+Car,Toyota,Prius,2001,299466,Manual,Diesel,Minor,2,7,118,Beni Mellal,12000.0
+Car,Opel,Combo,2021,187951,Automatic,Petrol,None,4,4,204,Khouribga,40000.0
+Motorcycle,Keeway,K-Light,2001,167410,Automatic,Electric,None,2,2,22,Meknes,1000.0
+Car,Volkswagen,Caddy,2004,32045,Manual,Petrol,None,1,2,209,Taza,35000.0
+Car,Suzuki,Swift,2014,285357,Manual,Hybrid,None,1,7,131,Mohammedia,21000.0
+Car,Toyota,Verso,2007,4613,Manual,Petrol,None,2,6,99,Tangier,27000.0
+Car,Mitsubishi,Lancer,2015,155972,Manual,Hybrid,None,5,7,73,Safi,39000.0
+Car,Ford,Ka,2007,18803,Manual,Diesel,None,4,6,162,Khouribga,39000.0
+Car,Nissan,Almera,2023,257206,Automatic,Hybrid,None,4,4,228,Safi,48000.0
+Car,Renault,Fluence,2008,128998,Manual,Diesel,None,1,6,155,Mohammedia,26000.0
+Motorcycle,Benelli,125i,2000,207216,Automatic,Electric,None,5,2,11,Tetouan,1000.0
+Motorcycle,Kawasaki,KLX125,2011,19310,Automatic,Petrol,None,1,2,18,Mohammedia,7000.0
+Motorcycle,Bajaj,V15,2020,44173,Automatic,Petrol,Minor,5,2,14,Kenitra,4000.0
+Motorcycle,Aprilia,SR,2010,173064,Automatic,Petrol,Minor,1,2,19,Rabat,6000.0
+Car,Mitsubishi,Colt,2005,32598,Manual,Petrol,None,1,7,252,Marrakech,28000.0
+Motorcycle,Peugeot,Vivacity,2016,16188,Manual,Electric,None,4,2,13,Oujda,6000.0
+Motorcycle,Piaggio,NRG,2005,142513,Automatic,Petrol,Major,5,2,18,Beni Mellal,3000.0
+Car,Opel,Zafira,2007,245261,Manual,Hybrid,Minor,2,7,250,Tangier,30000.0
+Motorcycle,Zontes,T310,2008,285764,Manual,Petrol,Major,1,2,20,Nador,1000.0
+Motorcycle,Kawasaki,KLR,2000,44503,Manual,Electric,Minor,2,2,24,Khouribga,3000.0
+Car,Mercedes,GLK,2023,66096,Manual,Hybrid,None,4,6,103,Beni Mellal,1286000.0
+Car,Fiat,Siena,2022,202110,Manual,Electric,None,2,4,219,Safi,67000.0
+Car,Opel,Meriva,2010,34014,Automatic,Hybrid,Minor,1,4,142,Casablanca,44000.0
+Motorcycle,BMW,G310GS,2020,76205,Automatic,Petrol,None,5,2,21,Oujda,25000.0
+Car,Seat,Leon,2010,119227,Manual,Hybrid,Minor,2,6,249,Oujda,52000.0
+Car,Renault,Symbol,2020,84435,Manual,Diesel,None,4,5,106,Tetouan,93000.0
+Car,Dacia,Spring,2002,292272,Manual,Petrol,None,1,2,131,El Jadida,13000.0
+Car,Ford,EcoSport,2016,90749,Automatic,Electric,None,5,5,110,Mohammedia,53000.0
+Motorcycle,Kawasaki,KLR,2023,128510,Automatic,Electric,Major,4,2,10,Oujda,8000.0
+Car,Seat,Cordoba,2019,212945,Automatic,Petrol,None,2,5,118,Fes,49000.0
+Car,Skoda,Roomster,2021,173442,Manual,Diesel,None,4,5,80,Oujda,84000.0
+Car,Suzuki,Swift,2024,141743,Manual,Electric,None,5,3,171,Tangier,53000.0
+Motorcycle,Piaggio,Zip,2021,216678,Automatic,Electric,Minor,3,2,18,Tetouan,15000.0
+Motorcycle,Royal Enfield,Classic 350,2024,238920,Automatic,Petrol,Major,1,2,15,Taza,12000.0
+Car,Dacia,Dokker,2020,287642,Automatic,Hybrid,None,2,5,80,Taza,29000.0
+Motorcycle,Benelli,Zafferano,2005,225526,Automatic,Petrol,Major,1,2,22,Nador,1000.0
+Motorcycle,Kymco,Downtown,2025,218088,Automatic,Petrol,None,5,2,15,Meknes,5000.0
+Car,Mitsubishi,Pajero,2014,236941,Manual,Electric,Major,5,7,185,Oujda,41000.0
+Car,Volkswagen,Touran,2020,152441,Manual,Electric,None,4,5,126,Kenitra,82000.0
+Motorcycle,Benelli,150i,2022,201222,Manual,Petrol,None,5,2,12,Tangier,5000.0
+Car,Kia,Soul,2006,181122,Manual,Hybrid,None,3,5,77,Marrakech,34000.0
+Motorcycle,Keeway,RKS,2019,186164,Automatic,Electric,Major,2,2,21,Kenitra,2000.0
+Car,Kia,Carens,2005,116554,Manual,Hybrid,None,3,4,199,Khouribga,21000.0
+Car,Mitsubishi,Lancer,2000,214461,Automatic,Hybrid,Major,3,2,176,Oujda,12000.0
+Car,Volkswagen,Passat,2003,282263,Automatic,Diesel,None,5,5,276,Tetouan,9000.0
+Car,Hyundai,H1,2014,186279,Manual,Petrol,None,4,6,172,Beni Mellal,35000.0
+Car,Mitsubishi,Pajero,2014,17608,Automatic,Diesel,None,1,5,247,Nador,97000.0
+Car,Dacia,Stepway,2002,24105,Manual,Petrol,Major,3,5,183,Mohammedia,12000.0
+Car,Ford,EcoSport,2011,237890,Automatic,Petrol,None,4,7,202,Meknes,18000.0
+Motorcycle,BMW,S1000RR,2021,133361,Manual,Electric,None,5,2,21,Fes,14000.0
+Car,Kia,Soul,2012,239810,Manual,Electric,None,3,7,111,El Jadida,24000.0
+Car,Chevrolet,Orlando,2000,11907,Automatic,Diesel,None,1,2,277,Marrakech,37000.0
+Car,Suzuki,Baleno,2008,262595,Automatic,Hybrid,Major,1,7,142,Meknes,9000.0
+Car,Nissan,Almera,2020,241870,Automatic,Diesel,Minor,3,3,157,Beni Mellal,30000.0
+Car,Mercedes,C180,2019,258272,Manual,Petrol,None,3,6,153,Marrakech,481000.0
+Motorcycle,Keeway,RKV,2010,20010,Automatic,Petrol,Minor,5,2,24,Safi,3000.0
+Motorcycle,Benelli,125i,2004,60024,Automatic,Petrol,None,4,2,14,Casablanca,2000.0
+Car,Renault,Kangoo,2006,142966,Manual,Hybrid,None,3,7,159,Kenitra,18000.0
+Car,Skoda,Roomster,2018,237909,Automatic,Electric,None,5,5,128,Agadir,27000.0
+Motorcycle,BMW,G310R,2023,10371,Automatic,Electric,None,4,2,16,Oujda,27000.0
+Car,Renault,Scenic,2015,54212,Manual,Electric,Minor,4,5,128,Meknes,38000.0
+Car,Seat,Cordoba,2023,253334,Manual,Petrol,None,1,7,244,Kenitra,54000.0
+Motorcycle,KTM,390 Duke,2004,214502,Manual,Electric,None,1,2,19,Safi,5000.0
+Car,Mitsubishi,Outlander,2006,37887,Automatic,Electric,None,2,7,114,Safi,23000.0
+Motorcycle,Aprilia,Leonardo,2006,234289,Manual,Electric,None,2,2,12,Kenitra,7000.0
+Car,Renault,Clio,2002,149452,Manual,Diesel,None,4,7,229,Beni Mellal,21000.0
+Car,Opel,Astra,2006,298816,Automatic,Hybrid,Minor,2,7,80,Nador,18000.0
+Car,Chevrolet,Aveo,2006,17616,Manual,Diesel,None,5,4,246,Kenitra,39000.0
+Car,Dacia,Logan,2019,240838,Manual,Electric,None,5,7,168,Tangier,56000.0
+Car,Citroen,DS3,2017,159845,Automatic,Petrol,None,2,4,150,Mohammedia,46000.0
+Motorcycle,Piaggio,Liberty,2000,108279,Manual,Petrol,None,3,2,16,Casablanca,2000.0
+Car,Seat,Arona,2018,114387,Manual,Petrol,Minor,4,7,177,Khouribga,68000.0
+Car,Dacia,Sandero,2002,68984,Automatic,Petrol,None,2,3,179,Safi,31000.0
+Car,Suzuki,Alto,2014,132193,Automatic,Diesel,Major,5,5,143,Taza,41000.0
+Motorcycle,Sym,Symphony,2024,273887,Automatic,Electric,Minor,2,2,13,Tetouan,5000.0
+Motorcycle,Honda,SH125,2005,226723,Automatic,Petrol,None,3,2,18,Casablanca,3000.0
+Motorcycle,MBK,Flame,2015,19497,Automatic,Petrol,None,1,2,13,Safi,6000.0
+Car,Kia,Optima,2021,157640,Automatic,Petrol,Minor,1,4,183,Agadir,64000.0
+Car,Skoda,Felicia,2016,63138,Manual,Electric,None,1,2,285,Marrakech,70000.0
+Car,Nissan,Note,2013,277547,Automatic,Diesel,Minor,2,2,140,El Jadida,41000.0
+Car,Seat,Altea,2016,244689,Manual,Petrol,None,4,4,106,Meknes,33000.0
+Car,Volkswagen,Caddy,2002,176022,Automatic,Hybrid,None,4,6,93,Nador,19000.0
+Car,Dacia,Duster,2011,77484,Automatic,Electric,None,5,5,274,Khouribga,60000.0
+Car,Chevrolet,Spark,2002,95670,Manual,Petrol,None,2,2,96,Safi,29000.0
+Car,Chevrolet,Spark,2024,20429,Manual,Electric,None,2,6,255,Marrakech,140000.0
+Car,Seat,Inca,2005,83029,Automatic,Electric,None,2,2,98,El Jadida,38000.0
+Motorcycle,Aprilia,Leonardo,2014,71404,Manual,Electric,None,4,2,24,Safi,7000.0
+Car,Opel,Corsa,2005,108463,Manual,Hybrid,Minor,2,4,236,El Jadida,16000.0
+Motorcycle,Sym,Wolf,2022,293478,Automatic,Electric,None,3,2,16,Agadir,4000.0
+Car,Fiat,Bravo,2012,48369,Manual,Hybrid,None,1,4,160,Kenitra,34000.0
+Motorcycle,Keeway,RKS,2012,34455,Manual,Petrol,None,1,2,9,El Jadida,3000.0
+Car,Seat,Ateca,2022,281685,Automatic,Hybrid,None,5,5,207,Rabat,74000.0
+Car,Suzuki,SX4,2015,136701,Manual,Hybrid,None,2,4,97,Nador,41000.0
+Motorcycle,Aprilia,Sportcity,2010,271722,Manual,Petrol,None,5,2,19,Mohammedia,4000.0
+Car,Ford,Ka,2025,294672,Automatic,Hybrid,None,1,7,248,Tetouan,64000.0
+Motorcycle,Suzuki,Intruder,2013,242326,Automatic,Petrol,None,5,2,19,Meknes,4000.0
+Car,Hyundai,i20,2005,9502,Automatic,Petrol,None,3,4,160,Agadir,41000.0
+Car,Mercedes,C250,2007,291964,Automatic,Petrol,Minor,1,6,291,Tetouan,427000.0
+Car,Mercedes,220,2002,152864,Manual,Electric,None,4,6,127,Khouribga,397000.0
+Car,Nissan,Almera,2008,226086,Automatic,Electric,None,1,6,71,Agadir,13000.0
+Car,Peugeot,408,2014,141096,Automatic,Hybrid,None,4,5,161,El Jadida,59000.0
+Car,Opel,Combo,2009,73590,Automatic,Electric,None,3,5,88,Oujda,44000.0
+Car,Suzuki,SX4,2020,243497,Automatic,Hybrid,None,5,6,272,Taza,23000.0
+Car,Mercedes,220,2006,17768,Manual,Petrol,None,3,3,169,Kenitra,574000.0
+Motorcycle,Keeway,Cityblade,2001,230940,Automatic,Petrol,None,3,2,11,Casablanca,1000.0
+Car,Opel,Corsa,2011,223637,Manual,Diesel,None,3,7,191,Beni Mellal,17000.0
+Car,Mitsubishi,Space Star,2013,59821,Manual,Diesel,Major,1,7,78,Taza,50000.0
+Motorcycle,Peugeot,Kisbee,2004,183828,Manual,Petrol,None,5,2,9,Rabat,2000.0
+Car,Seat,Arona,2009,122406,Automatic,Petrol,None,3,5,219,El Jadida,30000.0
+Car,Toyota,Verso,2025,30191,Automatic,Petrol,None,1,6,236,Tetouan,212000.0
+Car,Hyundai,Elantra,2020,16895,Automatic,Hybrid,None,2,3,280,Safi,72000.0
+Car,Kia,Sportage,2021,129138,Automatic,Diesel,None,4,6,169,Agadir,79000.0
+Car,Dacia,Spring,2012,293780,Automatic,Petrol,None,4,3,254,Meknes,23000.0
+Motorcycle,Piaggio,Zip,2002,130816,Manual,Electric,None,5,2,20,Meknes,4000.0
+Car,Suzuki,Celerio,2017,230521,Automatic,Electric,None,1,4,190,Casablanca,49000.0
+Car,Hyundai,Matrix,2009,204008,Automatic,Hybrid,None,3,5,116,Nador,28000.0
+Motorcycle,Vespa,GTS,2019,101694,Automatic,Petrol,None,3,2,11,Taza,16000.0
+Car,Hyundai,Santa Fe,2009,91799,Manual,Hybrid,None,5,4,223,Agadir,43000.0
+Car,Kia,Ceed,2020,24223,Manual,Diesel,None,5,7,140,Tetouan,56000.0
+Car,Opel,Omega,2011,77371,Manual,Diesel,None,3,3,293,Agadir,24000.0
+Car,Ford,Escort,2000,260610,Manual,Hybrid,None,4,3,238,Safi,7000.0
+Car,Kia,Sportage,2014,46171,Manual,Petrol,None,4,4,231,Tetouan,56000.0
+Car,Citroen,Xsara,2005,268381,Manual,Electric,None,5,5,220,Meknes,16000.0
+Motorcycle,BMW,F850GS,2000,180269,Manual,Petrol,None,4,2,8,Tangier,4000.0
+Car,Suzuki,Ignis,2018,249134,Manual,Hybrid,Minor,5,3,290,Tangier,43000.0
+Car,Hyundai,Elantra,2014,19897,Automatic,Petrol,None,3,6,254,Safi,44000.0
+Car,Opel,Omega,2024,207992,Automatic,Petrol,Minor,3,7,261,Beni Mellal,101000.0
+Car,Mercedes,C180,2005,280805,Manual,Diesel,None,2,5,287,Taza,152000.0
+Car,Suzuki,Jimny,2001,45513,Automatic,Diesel,None,3,5,155,Marrakech,23000.0
+Car,Nissan,X-Trail,2021,80101,Automatic,Hybrid,None,4,5,211,Taza,149000.0
+Car,Skoda,Rapid,2013,212846,Manual,Hybrid,None,2,6,176,Casablanca,42000.0
+Car,Citroen,Saxo,2025,246484,Manual,Hybrid,Minor,3,3,230,Nador,76000.0
+Car,Renault,Megane,2012,226127,Automatic,Diesel,None,3,3,74,Kenitra,29000.0
+Car,Mercedes,E200,2017,117204,Manual,Hybrid,Minor,5,3,193,Fes,1180000.0
+Car,Toyota,Verso,2004,106349,Automatic,Hybrid,None,4,4,98,Marrakech,15000.0
+Car,Ford,Ka,2025,183465,Manual,Electric,None,4,4,233,Tetouan,108000.0
+Car,Hyundai,H1,2015,19663,Manual,Electric,Minor,2,3,151,Nador,47000.0
+Motorcycle,BMW,C400X,2016,261128,Manual,Petrol,None,3,2,10,Tangier,15000.0
+Car,Toyota,Verso,2019,99878,Manual,Petrol,None,2,4,264,Agadir,120000.0
+Car,Toyota,Corolla,2004,129200,Manual,Diesel,None,1,4,212,Kenitra,44000.0
+Car,Dacia,Stepway,2011,133570,Manual,Hybrid,Major,2,4,89,Agadir,20000.0
+Car,Chevrolet,Lacetti,2009,239100,Manual,Hybrid,Minor,2,2,88,Taza,27000.0
+Car,Mitsubishi,Lancer,2001,213390,Manual,Petrol,Minor,5,5,173,El Jadida,17000.0
+Motorcycle,Keeway,TX,2004,231032,Automatic,Petrol,Minor,1,2,13,Kenitra,1000.0
+Car,Renault,Clio,2016,86889,Manual,Diesel,None,5,3,231,Oujda,76000.0
+Car,Volkswagen,Golf,2023,16326,Manual,Petrol,None,5,7,232,Marrakech,103000.0
+Car,Chevrolet,Captiva,2007,181872,Automatic,Petrol,None,3,5,240,Taza,33000.0
+Car,Dacia,Stepway,2015,153354,Automatic,Hybrid,None,5,6,232,Nador,58000.0
+Car,Ford,Focus,2014,4785,Automatic,Diesel,Minor,3,3,212,El Jadida,41000.0
+Motorcycle,Vespa,Primavera,2020,128886,Automatic,Petrol,None,3,2,23,Safi,18000.0
+Motorcycle,Kawasaki,D-Tracker,2002,106003,Manual,Electric,None,4,2,14,Tangier,5000.0
+Car,Nissan,Note,2013,283315,Manual,Hybrid,None,1,5,299,Tetouan,70000.0
+Motorcycle,Suzuki,GSX-R125,2013,125487,Manual,Petrol,None,5,2,20,Kenitra,4000.0
+Car,Citroen,C5,2013,231794,Automatic,Diesel,None,2,5,260,Beni Mellal,66000.0
+Car,Mercedes,GLA,2022,147064,Automatic,Electric,None,3,2,204,Rabat,1109000.0
+Car,Toyota,Auris,2023,34285,Automatic,Hybrid,Minor,2,2,88,Nador,174000.0
+Car,Renault,Express,2017,221705,Manual,Electric,None,5,6,177,Beni Mellal,30000.0
+Motorcycle,Yamaha,NMAX125,2021,11409,Automatic,Electric,None,3,2,24,Rabat,25000.0
+Motorcycle,Honda,XR125L,2008,272925,Manual,Petrol,None,5,2,20,Agadir,4000.0
+Car,Nissan,Patrol,2015,47646,Automatic,Electric,None,1,6,112,Casablanca,107000.0
+Car,Volkswagen,Passat,2011,256315,Automatic,Electric,None,4,2,117,Beni Mellal,31000.0
+Car,Kia,Carens,2004,77231,Manual,Diesel,None,4,2,119,Oujda,31000.0
+Motorcycle,Suzuki,Intruder,2015,284445,Manual,Electric,Major,3,2,11,Agadir,2000.0
+Car,Opel,Omega,2003,13015,Automatic,Hybrid,None,1,2,246,Mohammedia,40000.0
+Car,Ford,Fiesta,2014,169997,Automatic,Electric,Minor,3,6,229,Casablanca,24000.0
+Car,Mitsubishi,Outlander,2004,172760,Automatic,Hybrid,None,2,2,196,Tangier,44000.0
+Car,Chevrolet,Epica,2007,169411,Automatic,Electric,Minor,3,4,175,Fes,12000.0
+Car,Skoda,Yeti,2007,149318,Automatic,Electric,None,1,3,293,Tetouan,30000.0
+Car,Fiat,Doblo,2010,227967,Manual,Petrol,Minor,2,6,131,Khouribga,11000.0
+Car,Chevrolet,Lacetti,2016,26687,Manual,Electric,Major,2,4,204,Khouribga,38000.0
+Car,Fiat,Doblo,2005,185124,Manual,Electric,None,1,3,226,Tangier,25000.0
+Car,Chevrolet,Captiva,2008,66347,Manual,Diesel,None,1,7,255,Safi,28000.0
+Motorcycle,MBK,Skyliner,2003,215717,Manual,Petrol,None,4,2,13,Mohammedia,1000.0
+Motorcycle,BMW,G310GS,2013,261836,Manual,Electric,Minor,3,2,21,Casablanca,6000.0
+Car,Mercedes,220,2025,168173,Manual,Hybrid,Major,4,7,207,Khouribga,1314000.0
+Car,Fiat,Panda,2012,138178,Manual,Electric,None,4,3,275,Safi,30000.0
+Motorcycle,Keeway,RKS,2012,181370,Manual,Electric,Minor,4,2,8,Marrakech,2000.0
+Car,Toyota,Auris,2005,11701,Manual,Hybrid,Major,3,4,96,Agadir,23000.0
+Car,Skoda,Yeti,2000,63413,Manual,Petrol,None,4,3,117,Fes,30000.0
+Car,Toyota,Avensis,2000,211445,Manual,Electric,Minor,2,5,114,Mohammedia,8000.0
+Car,Ford,Connect,2003,87014,Manual,Petrol,None,4,6,293,Nador,19000.0
+Motorcycle,Yamaha,Jog,2025,247200,Automatic,Electric,Minor,3,2,10,Rabat,14000.0
+Car,Citroen,DS4,2010,34737,Manual,Diesel,Minor,1,7,90,Fes,52000.0
+Car,Mitsubishi,Pajero,2013,236068,Manual,Diesel,Major,5,7,204,Casablanca,12000.0
+Motorcycle,Royal Enfield,Himalayan,2014,22136,Automatic,Petrol,None,1,2,20,Fes,13000.0
+Car,Suzuki,Celerio,2010,272679,Manual,Diesel,None,4,3,234,Fes,34000.0
+Motorcycle,Lifan,KP,2019,160003,Manual,Petrol,None,5,2,18,Tangier,2000.0
+Motorcycle,Suzuki,Burgman,2025,278380,Automatic,Electric,Minor,3,2,22,El Jadida,4000.0
+Motorcycle,Bajaj,Platina,2012,164994,Automatic,Electric,Minor,2,2,17,Kenitra,3000.0
+Car,Dacia,Stepway,2011,188046,Manual,Diesel,None,5,2,197,Safi,37000.0
+Motorcycle,Benelli,150i,2002,133715,Manual,Petrol,None,3,2,24,Fes,2000.0
+Car,Kia,Optima,2012,298964,Manual,Hybrid,None,5,6,82,Oujda,16000.0
+Car,Mercedes,E300,2013,26323,Manual,Electric,None,5,5,120,Oujda,747000.0
+Car,Kia,Rio,2022,191352,Automatic,Hybrid,None,2,6,242,Fes,108000.0
+Car,Mercedes,300,2014,33184,Automatic,Electric,None,3,7,136,Agadir,398000.0
+Car,Volkswagen,Tiguan,2016,14846,Automatic,Petrol,None,5,2,159,Marrakech,56000.0
+Car,Opel,Astra,2011,181726,Manual,Hybrid,Minor,2,2,81,Rabat,40000.0
+Car,Ford,Fusion,2002,132716,Manual,Diesel,Minor,3,7,163,Tetouan,16000.0
+Motorcycle,Peugeot,Kisbee,2025,135598,Automatic,Petrol,None,2,2,22,Safi,12000.0
+Car,Peugeot,208,2021,8752,Automatic,Diesel,None,1,3,194,Fes,136000.0
+Motorcycle,Sym,Crox,2020,157733,Automatic,Electric,None,5,2,23,Beni Mellal,4000.0
+Car,Ford,Connect,2000,5270,Automatic,Hybrid,None,5,2,244,Casablanca,32000.0
+Car,Peugeot,306,2016,213468,Automatic,Electric,Minor,4,5,298,El Jadida,65000.0
+Car,Seat,Altea,2005,58393,Automatic,Petrol,None,5,3,121,Nador,32000.0
+Car,Nissan,Micra,2020,248300,Manual,Hybrid,None,2,7,286,Tangier,62000.0
+Car,Fiat,Bravo,2020,67274,Manual,Petrol,Minor,4,6,202,Meknes,64000.0
+Motorcycle,Vespa,PX,2011,5235,Manual,Electric,Minor,1,2,20,Nador,7000.0
+Motorcycle,MBK,Ovetto,2011,171533,Manual,Electric,None,1,2,10,Oujda,4000.0
+Motorcycle,Honda,XR125L,2007,47421,Manual,Petrol,None,3,2,10,Oujda,5000.0
+Car,Volkswagen,Golf,2017,232338,Automatic,Hybrid,None,3,6,187,Kenitra,82000.0
+Car,Dacia,Stepway,2024,255412,Manual,Petrol,None,1,7,170,Tetouan,49000.0
+Car,Toyota,Yaris,2002,80672,Automatic,Diesel,Minor,4,5,195,Taza,28000.0
+Car,Hyundai,i10,2019,298366,Manual,Electric,None,1,6,166,Casablanca,56000.0
+Car,Chevrolet,Epica,2006,220037,Manual,Hybrid,None,4,2,192,Safi,18000.0
+Motorcycle,Vespa,Primavera,2001,146711,Manual,Petrol,None,5,2,23,Marrakech,4000.0
+Motorcycle,MBK,Ovetto,2001,173287,Manual,Electric,Minor,1,2,20,Agadir,1000.0
+Car,Renault,Megane,2025,233192,Automatic,Petrol,None,1,2,187,El Jadida,72000.0
+Car,Renault,Laguna,2018,114110,Manual,Hybrid,None,3,5,135,Rabat,31000.0
+Car,Seat,Leon,2011,194450,Manual,Electric,None,5,6,261,Tangier,45000.0
+Motorcycle,Zontes,ZT125,2023,7735,Automatic,Petrol,None,1,2,14,Agadir,9000.0
+Car,Toyota,RAV4,2009,292352,Automatic,Hybrid,None,3,3,194,Mohammedia,39000.0
+Motorcycle,BMW,F750GS,2024,24995,Manual,Electric,None,5,2,12,Tangier,20000.0
+Car,Fiat,Uno,2003,161765,Manual,Diesel,None,2,7,73,Nador,12000.0
+Car,Chevrolet,Captiva,2016,254312,Automatic,Electric,Minor,3,6,133,Oujda,52000.0
+Car,Mercedes,CLA,2010,54666,Automatic,Hybrid,None,5,5,167,Kenitra,826000.0
+Car,Citroen,Picasso,2002,203951,Automatic,Diesel,None,4,2,217,Mohammedia,13000.0
+Car,Kia,Soul,2011,58565,Manual,Diesel,None,1,2,146,Kenitra,58000.0
+Car,Volkswagen,Bora,2016,10896,Automatic,Electric,Minor,5,4,158,Beni Mellal,67000.0
+Car,Hyundai,i10,2015,21646,Manual,Hybrid,None,4,4,296,Kenitra,62000.0
+Car,Chevrolet,Orlando,2024,224515,Automatic,Hybrid,None,5,6,141,Safi,58000.0
+Motorcycle,Kymco,People,2011,201863,Manual,Electric,None,2,2,9,Khouribga,4000.0
+Car,Suzuki,Celerio,2018,267195,Automatic,Petrol,Major,3,7,198,Khouribga,18000.0
+Car,Suzuki,SX4,2022,143414,Automatic,Hybrid,None,2,2,265,Nador,131000.0
+Car,Peugeot,301,2007,159100,Manual,Petrol,None,2,3,294,Fes,43000.0
+Car,Suzuki,Celerio,2009,134248,Manual,Petrol,Minor,4,6,172,Kenitra,16000.0
+Car,Skoda,Karoq,2001,286977,Automatic,Electric,None,3,2,102,Tangier,22000.0
+Motorcycle,Lifan,Mirage,2013,112897,Automatic,Electric,Major,5,2,14,Casablanca,2000.0
+Car,Toyota,RAV4,2021,32034,Manual,Diesel,None,4,4,179,Safi,132000.0
+Car,Toyota,Prius,2003,2478,Automatic,Electric,None,2,4,185,Kenitra,39000.0
+Car,Ford,Sierra,2020,201807,Automatic,Petrol,None,5,3,83,Nador,90000.0
+Car,Hyundai,Elantra,2024,122275,Automatic,Petrol,None,2,5,272,Meknes,109000.0
+Motorcycle,Aprilia,Leonardo,2010,273996,Automatic,Electric,None,3,2,22,Taza,5000.0
+Car,Skoda,Octavia,2012,223584,Manual,Electric,None,3,6,232,Agadir,23000.0
+Motorcycle,Kawasaki,Ninja 125,2023,175681,Manual,Petrol,None,2,2,16,Mohammedia,13000.0
+Car,Dacia,Lodgy,2015,14646,Manual,Diesel,None,3,6,224,Taza,49000.0
+Car,Ford,Focus,2023,154240,Manual,Petrol,None,4,3,151,Kenitra,102000.0
+Car,Dacia,Dokker,2010,120559,Automatic,Electric,Major,3,5,294,Safi,35000.0
+Car,Citroen,C2,2023,227917,Automatic,Hybrid,None,5,7,132,Casablanca,94000.0
+Car,Fiat,Linea,2020,138846,Manual,Petrol,None,2,7,229,Khouribga,100000.0
+Car,Mitsubishi,Space Star,2004,34045,Automatic,Diesel,None,2,4,102,Oujda,34000.0
+Motorcycle,Lifan,Mirage,2017,111935,Manual,Electric,None,2,2,13,Tetouan,3000.0
+Car,Kia,Sorento,2002,223601,Automatic,Hybrid,Minor,2,3,101,Fes,7000.0
+Car,Seat,Inca,2011,44471,Manual,Electric,None,1,3,213,Beni Mellal,77000.0
+Car,Mitsubishi,Lancer,2023,182943,Manual,Diesel,Minor,4,7,114,Casablanca,44000.0
+Car,Seat,Toledo,2016,270735,Manual,Hybrid,None,1,7,297,El Jadida,74000.0
+Car,Peugeot,407,2020,115359,Manual,Diesel,None,2,4,183,Marrakech,133000.0
+Car,Nissan,Navara,2022,154927,Automatic,Petrol,Minor,1,2,286,Fes,133000.0
+Motorcycle,Vespa,LX,2014,273690,Manual,Electric,None,4,2,24,Tetouan,9000.0
+Car,Nissan,X-Trail,2001,120660,Manual,Electric,None,3,7,171,Khouribga,16000.0
+Car,Mercedes,190,2009,109427,Automatic,Diesel,Minor,2,7,168,Kenitra,720000.0
+Car,Hyundai,Atos,2025,17696,Automatic,Electric,None,2,2,130,Nador,215000.0
+Car,Chevrolet,Orlando,2022,262757,Automatic,Petrol,Minor,2,6,226,Marrakech,24000.0
+Motorcycle,Bajaj,Avenger,2002,35208,Manual,Petrol,None,5,2,12,Marrakech,1000.0
+Motorcycle,Kymco,Downtown,2014,35894,Manual,Electric,None,3,2,23,Nador,6000.0
+Motorcycle,Lifan,LF,2013,189767,Manual,Electric,None,1,2,13,Meknes,3000.0
+Car,Kia,K2700,2002,28678,Automatic,Petrol,None,5,3,143,Nador,29000.0
+Car,Peugeot,404,2020,237604,Manual,Hybrid,Minor,5,3,162,Beni Mellal,46000.0
+Motorcycle,Sym,Wolf,2015,42803,Automatic,Petrol,None,5,2,16,Kenitra,5000.0
+Car,Suzuki,Ignis,2011,209390,Manual,Hybrid,None,4,6,194,Beni Mellal,18000.0
+Car,Opel,Vectra,2007,72146,Automatic,Hybrid,Minor,2,4,96,Nador,23000.0
+Motorcycle,Benelli,165s,2023,187051,Manual,Electric,Minor,5,2,22,Fes,4000.0
+Car,Chevrolet,Orlando,2019,182358,Manual,Electric,None,1,3,99,Mohammedia,40000.0
+Car,Opel,Meriva,2019,179032,Automatic,Hybrid,Minor,4,3,228,Rabat,21000.0
+Motorcycle,Honda,CBR125R,2019,277388,Automatic,Petrol,None,4,2,24,Fes,11000.0
+Car,Volkswagen,Tiguan,2001,252156,Automatic,Electric,None,2,5,283,Casablanca,24000.0
+Car,Citroen,C5,2005,133817,Manual,Hybrid,Minor,3,3,247,Safi,28000.0
+Car,Hyundai,i10,2019,16533,Manual,Hybrid,None,3,6,139,Mohammedia,127000.0
+Motorcycle,Kymco,Dink,2000,171705,Automatic,Petrol,None,4,2,12,Agadir,2000.0
+Car,Seat,Arona,2002,156946,Manual,Petrol,Minor,2,5,142,Rabat,23000.0
+Car,Mercedes,300,2016,155554,Manual,Electric,Major,1,5,292,Agadir,544000.0
+Motorcycle,Sym,Jet,2015,96804,Manual,Electric,Minor,5,2,23,Taza,4000.0
+Motorcycle,Piaggio,Zip,2021,77757,Automatic,Petrol,None,4,2,11,Kenitra,13000.0
+Car,Peugeot,5008,2012,170690,Manual,Petrol,Minor,2,7,77,Mohammedia,38000.0
+Car,Volkswagen,Scirocco,2004,226586,Automatic,Hybrid,None,5,5,101,Safi,24000.0
+Car,Renault,Megane,2007,262614,Automatic,Electric,None,5,7,78,Agadir,11000.0
+Motorcycle,Suzuki,V-Strom,2017,143200,Automatic,Petrol,Major,1,2,12,Kenitra,4000.0
+Car,Skoda,Octavia,2011,225794,Automatic,Hybrid,None,4,2,272,Casablanca,57000.0
+Car,Seat,Leon,2018,94322,Manual,Petrol,None,2,7,116,El Jadida,117000.0
+Car,Citroen,C4,2000,205841,Manual,Diesel,None,2,6,245,Casablanca,27000.0
+Car,Citroen,DS3,2010,115121,Automatic,Hybrid,None,2,3,286,Meknes,71000.0
+Car,Ford,Sierra,2016,140303,Automatic,Petrol,None,1,6,187,Rabat,41000.0
+Car,Suzuki,Ignis,2011,143162,Automatic,Hybrid,Major,1,2,213,El Jadida,42000.0
+Car,Chevrolet,Spark,2025,15998,Manual,Petrol,Minor,1,5,182,Tetouan,141000.0
+Car,Renault,Clio,2018,111693,Manual,Hybrid,None,2,5,154,Meknes,72000.0
+Motorcycle,MBK,Skyliner,2021,140521,Automatic,Petrol,None,3,2,17,Safi,7000.0
+Car,Citroen,C2,2000,58850,Automatic,Hybrid,Minor,3,3,242,Agadir,21000.0
+Car,Ford,Escort,2009,147379,Automatic,Hybrid,None,4,2,154,Oujda,36000.0
+Car,Ford,Transit,2013,104724,Manual,Electric,None,5,6,90,Tetouan,69000.0
+Motorcycle,Zontes,U125,2004,246989,Manual,Electric,Minor,1,2,18,Marrakech,1000.0
+Car,Dacia,Duster,2004,15556,Automatic,Diesel,None,5,3,294,Tangier,36000.0
+Motorcycle,Vespa,Sprint,2023,45520,Automatic,Petrol,None,5,2,18,Tetouan,14000.0
+Motorcycle,Benelli,165s,2008,131130,Automatic,Petrol,Major,5,2,12,El Jadida,2000.0
+Car,Skoda,Karoq,2009,11563,Automatic,Electric,Minor,4,4,139,Nador,37000.0
+Car,Seat,Ateca,2007,133583,Automatic,Petrol,Major,5,6,299,El Jadida,27000.0
+Motorcycle,Aprilia,SR,2018,96496,Automatic,Petrol,None,2,2,23,Meknes,20000.0
+Car,Chevrolet,Orlando,2017,204839,Automatic,Diesel,None,2,5,241,Agadir,64000.0
+Car,Dacia,Dokker,2022,296590,Manual,Hybrid,Minor,4,6,214,Agadir,47000.0
+Car,Dacia,Dokker,2015,244778,Manual,Petrol,Minor,3,5,73,El Jadida,32000.0
+Car,Volkswagen,Golf,2019,202904,Automatic,Petrol,None,4,6,226,Beni Mellal,44000.0
+Car,Hyundai,Atos,2007,143195,Manual,Hybrid,None,5,6,214,Rabat,26000.0
+Car,Seat,Toledo,2015,294804,Manual,Electric,Minor,3,5,114,Safi,47000.0
+Car,Volkswagen,Golf Plus,2012,276003,Automatic,Diesel,Major,2,3,236,Casablanca,39000.0
+Car,Mitsubishi,Outlander,2005,291849,Manual,Petrol,Minor,5,7,220,Khouribga,23000.0
+Motorcycle,Bajaj,Platina,2019,267832,Manual,Petrol,Major,2,2,16,Tetouan,2000.0
+Motorcycle,Sym,Orbit,2012,16000,Automatic,Petrol,Minor,5,2,12,El Jadida,3000.0
+Car,Citroen,Picasso,2004,34286,Automatic,Petrol,None,4,3,223,Rabat,43000.0
+Car,Mitsubishi,Space Star,2015,253180,Automatic,Electric,None,3,3,183,Casablanca,69000.0
+Car,Suzuki,Jimny,2015,95754,Automatic,Electric,Major,2,3,204,Agadir,54000.0
+Motorcycle,Lifan,LF,2006,42824,Manual,Petrol,None,3,2,9,Mohammedia,2000.0
+Motorcycle,Yamaha,NMAX125,2019,167477,Automatic,Electric,None,2,2,20,Marrakech,16000.0
+Motorcycle,Yamaha,Crypton,2018,114123,Automatic,Petrol,None,2,2,18,Nador,10000.0
+Motorcycle,Suzuki,Boulevard,2004,2879,Automatic,Petrol,Minor,2,2,21,Nador,2000.0
+Car,Dacia,Duster,2005,122396,Manual,Electric,None,5,5,85,Nador,8000.0
+Motorcycle,Royal Enfield,Himalayan,2010,235101,Manual,Electric,None,2,2,21,Beni Mellal,5000.0
+Motorcycle,Aprilia,SR,2022,286205,Automatic,Petrol,None,1,2,12,Oujda,14000.0
+Car,Ford,Focus,2023,203394,Automatic,Electric,None,5,3,194,Tetouan,54000.0
+Car,Opel,Omega,2012,200915,Manual,Petrol,None,4,3,99,Marrakech,35000.0
+Car,Volkswagen,Golf,2002,51095,Manual,Electric,None,2,6,102,Casablanca,44000.0
+Car,Chevrolet,Cruze,2006,94942,Manual,Petrol,None,2,4,197,Rabat,31000.0
+Car,Mercedes,C180,2025,107688,Automatic,Hybrid,Major,5,7,76,El Jadida,704000.0
+Car,Dacia,Dokker,2011,21031,Manual,Hybrid,None,1,7,237,Tangier,41000.0
+Car,Ford,EcoSport,2025,270025,Manual,Hybrid,None,5,4,75,Rabat,38000.0
+Car,Opel,Meriva,2006,120785,Manual,Hybrid,None,1,3,138,Safi,29000.0
+Car,Suzuki,Ignis,2022,210515,Manual,Hybrid,None,2,2,268,El Jadida,77000.0
+Car,Fiat,Linea,2019,116971,Manual,Petrol,None,2,6,141,Taza,72000.0
+Car,Chevrolet,Spark,2016,272237,Automatic,Petrol,None,2,7,123,Tangier,63000.0
+Motorcycle,Sym,Mask,2013,223849,Automatic,Petrol,None,4,2,11,Safi,3000.0
+Motorcycle,Kymco,Downtown,2008,189449,Automatic,Petrol,Minor,5,2,14,Kenitra,1000.0
+Motorcycle,Lifan,V16,2007,285474,Automatic,Electric,None,1,2,16,Meknes,1000.0
+Car,Mercedes,250,2015,153222,Manual,Hybrid,None,3,6,197,Safi,1449000.0
+Motorcycle,KTM,Adventure 390,2014,87863,Manual,Electric,Minor,5,2,20,Taza,12000.0
+Motorcycle,BMW,C400X,2003,282804,Automatic,Petrol,Major,4,2,23,El Jadida,2000.0
+Car,Opel,Astra,2003,169852,Automatic,Hybrid,Major,4,2,268,Casablanca,9000.0
+Car,Nissan,Almera,2024,177488,Automatic,Hybrid,Minor,2,5,165,Khouribga,63000.0
+Car,Ford,Transit,2000,25431,Manual,Hybrid,Minor,5,3,182,Mohammedia,20000.0
+Motorcycle,Kawasaki,D-Tracker,2024,164579,Automatic,Electric,None,4,2,12,El Jadida,12000.0
+Car,Suzuki,Jimny,2025,195063,Manual,Electric,None,4,3,111,Khouribga,35000.0
+Motorcycle,Yamaha,DTR125,2014,291239,Automatic,Electric,None,1,2,18,Meknes,5000.0
+Motorcycle,Vespa,Elettrica,2023,46186,Automatic,Petrol,None,1,2,18,Tetouan,33000.0
+Car,Mitsubishi,ASX,2005,192778,Automatic,Petrol,None,1,4,120,Mohammedia,34000.0
+Motorcycle,Yamaha,Majesty,2023,15215,Manual,Petrol,None,1,2,18,Fes,24000.0
+Car,Hyundai,i20,2006,123018,Manual,Electric,Minor,2,4,115,Nador,29000.0
+Motorcycle,Vespa,GTV,2008,202833,Automatic,Electric,Major,3,2,14,Casablanca,3000.0
+Motorcycle,Benelli,165s,2003,152506,Automatic,Electric,None,4,2,8,Taza,2000.0
+Car,Volkswagen,Tiguan,2011,52468,Manual,Hybrid,None,1,6,290,Kenitra,64000.0
+Motorcycle,Honda,SH125,2009,223803,Manual,Electric,None,5,2,19,Khouribga,4000.0
+Motorcycle,Peugeot,Ludix,2021,144062,Manual,Petrol,None,2,2,18,El Jadida,8000.0
+Motorcycle,KTM,390 Duke,2004,59847,Manual,Electric,Major,4,2,17,Tangier,3000.0
+Car,Suzuki,Swift,2025,59373,Automatic,Electric,None,1,4,96,Nador,90000.0
+Car,Dacia,Spring,2021,246753,Manual,Electric,None,1,2,240,Kenitra,33000.0
+Car,Opel,Zafira,2007,124005,Manual,Electric,None,5,2,136,Meknes,34000.0
+Car,Mercedes,300,2019,243760,Manual,Petrol,Major,1,2,100,Khouribga,322000.0
+Car,Kia,Soul,2021,116197,Manual,Hybrid,None,4,4,155,Taza,69000.0
+Car,Opel,Omega,2006,278765,Automatic,Electric,None,5,6,127,Marrakech,8000.0
+Car,Kia,Carens,2014,12707,Manual,Diesel,Minor,1,2,213,Rabat,49000.0
+Car,Nissan,Navara,2007,57267,Automatic,Electric,None,1,3,74,Khouribga,34000.0
+Motorcycle,Royal Enfield,Interceptor,2000,123301,Manual,Petrol,None,4,2,8,Nador,3000.0
+Car,Dacia,Stepway,2025,294953,Manual,Electric,Major,1,6,153,Oujda,68000.0
+Car,Opel,Corsa,2000,208462,Automatic,Electric,None,1,4,288,Meknes,26000.0
+Car,Renault,Kangoo,2015,41334,Manual,Diesel,Minor,5,4,104,Mohammedia,20000.0
+Motorcycle,Kymco,X-Town,2003,21282,Automatic,Petrol,Minor,5,2,11,Rabat,2000.0
+Car,Peugeot,205,2009,239388,Manual,Petrol,None,3,6,225,Safi,11000.0
+Car,Mitsubishi,L200,2003,164096,Automatic,Electric,None,4,5,121,Tangier,13000.0
+Car,Chevrolet,Orlando,2012,213035,Manual,Electric,None,5,5,206,Mohammedia,31000.0
+Motorcycle,Benelli,165s,2020,27836,Manual,Electric,None,1,2,20,Beni Mellal,9000.0
+Car,Skoda,Felicia,2025,85263,Manual,Electric,Major,4,3,231,Rabat,68000.0
+Car,Mercedes,CLA,2009,103446,Automatic,Petrol,None,2,3,130,Safi,320000.0
+Car,Suzuki,Ignis,2018,180984,Manual,Hybrid,None,2,7,298,Khouribga,103000.0
+Car,Nissan,Navara,2009,16343,Automatic,Electric,None,5,6,226,Marrakech,68000.0
+Car,Nissan,Navara,2004,283857,Manual,Petrol,Major,4,7,270,Oujda,9000.0
+Car,Suzuki,Celerio,2024,291576,Manual,Hybrid,None,5,4,295,Beni Mellal,48000.0
+Car,Nissan,Patrol,2019,84404,Manual,Hybrid,None,3,6,73,Nador,128000.0
+Car,Peugeot,406,2025,24315,Manual,Electric,None,4,5,209,Kenitra,115000.0
+Motorcycle,Kawasaki,Vulcan,2005,261205,Manual,Petrol,None,5,2,24,Fes,3000.0
+Car,Toyota,Yaris,2018,118979,Automatic,Petrol,None,5,2,276,Taza,80000.0
+Motorcycle,MBK,Skyliner,2020,87279,Automatic,Petrol,None,2,2,8,Tangier,6000.0
+Car,Mitsubishi,L200,2017,218514,Automatic,Petrol,None,4,7,154,Tetouan,55000.0
+Car,Seat,Leon,2025,137263,Manual,Hybrid,None,3,4,112,Casablanca,56000.0
+Car,Mercedes,E220,2020,147340,Automatic,Hybrid,None,3,6,142,Kenitra,1290000.0
+Car,Hyundai,Accent,2019,214351,Manual,Petrol,Major,3,7,131,Meknes,19000.0
+Motorcycle,Piaggio,Medley,2008,120326,Automatic,Petrol,None,5,2,22,Meknes,5000.0
+Car,Opel,Astra,2004,11694,Manual,Electric,None,2,6,218,Fes,33000.0
+Motorcycle,Zontes,G1,2007,60317,Automatic,Petrol,None,5,2,16,Kenitra,4000.0
+Car,Nissan,Note,2010,249066,Manual,Diesel,Minor,5,3,215,Oujda,12000.0
+Motorcycle,Suzuki,Burgman,2003,299099,Manual,Petrol,None,4,2,18,Rabat,2000.0
+Car,Citroen,C-Elysee,2010,46271,Manual,Hybrid,None,3,4,169,Rabat,65000.0
+Car,Peugeot,306,2020,267025,Manual,Electric,None,4,3,120,Oujda,56000.0
+Motorcycle,Aprilia,Sportcity,2003,253747,Automatic,Electric,None,5,2,19,Agadir,3000.0
+Car,Skoda,Felicia,2003,23832,Manual,Petrol,Minor,4,2,277,Nador,35000.0
+Car,Seat,Cordoba,2001,152669,Manual,Electric,Minor,2,2,115,Agadir,13000.0
+Motorcycle,Kawasaki,KLX125,2019,9439,Manual,Electric,Minor,2,2,11,Kenitra,13000.0
+Motorcycle,Kawasaki,D-Tracker,2012,201179,Manual,Petrol,None,2,2,16,Agadir,9000.0
+Car,Seat,Altea,2001,167340,Automatic,Hybrid,None,4,5,260,Mohammedia,11000.0
+Car,Suzuki,Vitara,2021,244385,Automatic,Electric,None,1,6,84,Meknes,54000.0
+Car,Kia,Picanto,2022,238129,Automatic,Hybrid,None,1,7,145,Fes,88000.0
+Car,Renault,Laguna,2019,100260,Automatic,Diesel,None,5,5,208,Marrakech,53000.0
+Car,Nissan,Micra,2018,267177,Manual,Diesel,None,1,4,220,Khouribga,39000.0
+Motorcycle,Suzuki,GSX-R125,2011,37185,Automatic,Electric,None,2,2,20,Tangier,4000.0
+Motorcycle,Lifan,X-Ride,2011,178345,Manual,Electric,None,4,2,16,Taza,2000.0
+Car,Dacia,Logan,2021,65037,Automatic,Hybrid,None,4,5,185,El Jadida,39000.0
+Motorcycle,Sym,X-Pro,2004,255154,Automatic,Petrol,None,1,2,20,Taza,1000.0
+Car,Fiat,500,2011,215706,Automatic,Electric,Minor,2,5,133,Nador,37000.0
+Car,Peugeot,508,2004,220819,Automatic,Hybrid,Major,3,5,295,Oujda,20000.0
+Car,Ford,Ka,2021,3492,Automatic,Petrol,None,4,5,168,Kenitra,45000.0
+Car,Citroen,DS3,2002,2831,Automatic,Electric,Minor,4,7,223,Tetouan,19000.0
+Car,Ford,Focus,2002,95376,Manual,Diesel,None,4,3,197,Khouribga,31000.0
+Car,Volkswagen,Touran,2019,29890,Manual,Electric,None,4,2,263,Tangier,67000.0
+Car,Peugeot,508,2020,181655,Manual,Hybrid,None,3,4,155,Agadir,71000.0
+Car,Mercedes,300,2008,34630,Manual,Petrol,Minor,3,4,120,Meknes,744000.0
+Motorcycle,Kawasaki,KLR,2024,53615,Automatic,Petrol,None,2,2,15,Khouribga,26000.0
+Car,Opel,Combo,2008,189741,Automatic,Hybrid,None,1,4,284,El Jadida,40000.0
+Car,Kia,Sorento,2020,56537,Automatic,Diesel,None,4,3,103,Casablanca,112000.0
+Motorcycle,Piaggio,Fly,2013,56188,Automatic,Electric,None,1,2,11,Marrakech,10000.0
+Motorcycle,Yamaha,Crypton,2006,105548,Manual,Electric,None,2,2,13,El Jadida,5000.0
+Car,Dacia,Sandero,2015,287322,Automatic,Electric,None,5,3,157,Fes,26000.0
+Motorcycle,Vespa,S125,2015,93208,Manual,Petrol,Minor,1,2,11,Taza,11000.0
+Car,Volkswagen,Golf Plus,2009,125004,Automatic,Petrol,None,5,5,127,Fes,23000.0
+Car,Ford,Mondeo,2023,259366,Automatic,Petrol,None,1,7,272,Agadir,77000.0
+Motorcycle,Lifan,KP,2004,199830,Automatic,Petrol,Major,3,2,17,Tetouan,1000.0
+Car,Skoda,Karoq,2012,209684,Manual,Diesel,None,5,7,209,Beni Mellal,36000.0
+Motorcycle,Bajaj,Discover,2022,45596,Automatic,Petrol,None,2,2,15,Casablanca,8000.0
+Car,Chevrolet,Cruze,2007,163333,Automatic,Hybrid,None,1,7,168,Kenitra,34000.0
+Car,Renault,Captur,2005,248137,Manual,Petrol,None,3,6,250,Taza,8000.0
+Motorcycle,Kawasaki,KLX125,2016,214206,Manual,Electric,None,1,2,8,Safi,10000.0
+Car,Chevrolet,Aveo,2015,188364,Automatic,Diesel,Minor,1,4,287,Oujda,38000.0
+Car,Dacia,Sandero,2020,25113,Automatic,Diesel,None,3,5,83,Rabat,87000.0
+Car,Mitsubishi,Pajero,2007,226343,Manual,Electric,None,1,4,284,Safi,32000.0
+Car,Mitsubishi,Lancer,2025,292219,Automatic,Hybrid,None,3,6,201,Casablanca,106000.0
+Car,Ford,Courier,2004,25394,Manual,Hybrid,None,3,6,285,Beni Mellal,44000.0
+Car,Citroen,C-Elysee,2008,99204,Automatic,Petrol,None,5,6,154,Oujda,38000.0
+Motorcycle,KTM,RC125,2008,70468,Manual,Petrol,Minor,5,2,15,Tangier,7000.0
+Car,Renault,Laguna,2015,272408,Automatic,Hybrid,None,1,5,76,Agadir,33000.0
+Motorcycle,Aprilia,RS,2008,241459,Manual,Petrol,None,1,2,22,Rabat,8000.0
+Motorcycle,Lifan,LF,2022,93818,Automatic,Electric,Minor,2,2,13,Oujda,4000.0
+Car,Citroen,C4,2010,108545,Automatic,Electric,None,2,7,71,Khouribga,24000.0
+Car,Citroen,ZX,2019,224385,Automatic,Hybrid,None,5,3,246,Marrakech,35000.0
+Motorcycle,Zontes,ZT125,2006,241623,Manual,Electric,None,2,2,16,Nador,2000.0
+Motorcycle,Lifan,KP,2000,164840,Manual,Petrol,None,5,2,14,Marrakech,1000.0
+Car,Chevrolet,Cruze,2023,246031,Manual,Electric,None,4,2,132,Agadir,85000.0
+Motorcycle,Kymco,People,2021,218027,Manual,Electric,Minor,4,2,14,Mohammedia,3000.0
+Motorcycle,BMW,S1000RR,2003,38924,Manual,Petrol,Minor,1,2,13,Casablanca,7000.0
+Car,Suzuki,Jimny,2012,251690,Automatic,Petrol,None,1,6,255,Casablanca,43000.0
+Car,Mercedes,CLA,2003,69247,Automatic,Diesel,None,3,7,195,Casablanca,571000.0
+Car,Mitsubishi,Pajero,2002,183232,Automatic,Hybrid,Minor,1,5,92,Safi,23000.0
+Car,Kia,Soul,2009,92757,Automatic,Electric,Major,5,4,71,El Jadida,30000.0
+Car,Opel,Corsa,2023,261380,Manual,Electric,None,2,3,204,Agadir,109000.0
+Car,Toyota,Hiace,2022,20415,Automatic,Petrol,None,5,6,70,Fes,140000.0
+Car,Mitsubishi,ASX,2011,129772,Manual,Diesel,None,3,6,135,El Jadida,58000.0
+Motorcycle,Bajaj,Discover,2022,137444,Automatic,Petrol,Minor,3,2,11,Rabat,5000.0
+Motorcycle,Aprilia,RS,2011,104193,Automatic,Electric,None,2,2,18,Safi,7000.0
+Car,Seat,Arona,2003,39897,Manual,Diesel,Minor,4,3,156,Nador,25000.0
+Car,Renault,Scenic,2020,70512,Manual,Petrol,None,2,3,80,Marrakech,54000.0
+Car,Dacia,Spring,2020,26506,Manual,Petrol,None,2,3,204,Casablanca,134000.0
+Car,Opel,Zafira,2010,38927,Automatic,Electric,Minor,3,7,108,Khouribga,37000.0
+Car,Opel,Meriva,2022,131488,Automatic,Hybrid,None,3,7,72,Taza,120000.0
+Car,Suzuki,Ignis,2002,226853,Automatic,Electric,Minor,1,5,127,Marrakech,18000.0
+Car,Hyundai,i20,2025,84021,Automatic,Diesel,None,2,6,159,Tangier,137000.0
+Car,Volkswagen,Golf,2017,261489,Manual,Hybrid,None,1,5,198,Kenitra,101000.0
+Car,Renault,Fluence,2020,28995,Automatic,Electric,None,1,3,108,Tangier,97000.0
+Motorcycle,KTM,125 Duke,2007,7609,Automatic,Electric,Minor,1,2,15,Khouribga,8000.0
+Car,Kia,Carens,2018,260420,Manual,Diesel,Minor,1,5,175,Khouribga,18000.0
+Car,Chevrolet,Matiz,2007,294119,Automatic,Diesel,None,3,3,268,Tangier,11000.0
+Car,Seat,Toledo,2005,141900,Automatic,Electric,None,5,3,188,Fes,38000.0
+Motorcycle,Aprilia,Atlantic,2004,154526,Manual,Electric,None,5,2,11,Kenitra,3000.0
+Motorcycle,Zontes,ZT125,2003,136326,Manual,Electric,None,2,2,10,Safi,2000.0
+Car,Chevrolet,Aveo,2024,123110,Automatic,Diesel,None,3,7,232,Taza,116000.0
+Car,Toyota,Avensis,2011,169383,Automatic,Petrol,None,5,3,237,Tangier,40000.0
+Car,Skoda,Superb,2002,39613,Automatic,Electric,None,3,7,95,Meknes,24000.0
+Motorcycle,Peugeot,Ludix,2008,51434,Manual,Electric,None,1,2,20,Safi,3000.0
+Motorcycle,Yamaha,NMAX125,2007,298634,Manual,Electric,None,3,2,23,Nador,4000.0
+Car,Chevrolet,Lacetti,2022,102407,Manual,Electric,None,1,7,277,Khouribga,90000.0
+Car,Opel,Corsa,2019,73120,Manual,Electric,None,3,5,171,Taza,65000.0
+Motorcycle,Vespa,GTV,2003,215857,Automatic,Petrol,None,2,2,19,Agadir,5000.0
+Motorcycle,Kawasaki,KLR,2023,202023,Manual,Petrol,None,5,2,18,Nador,13000.0
+Car,Chevrolet,Cruze,2009,177302,Automatic,Petrol,None,4,4,105,Marrakech,29000.0
+Motorcycle,Honda,SH125,2013,279085,Manual,Petrol,None,5,2,22,El Jadida,5000.0
+Car,Dacia,Sandero,2015,298011,Automatic,Electric,None,2,7,237,Khouribga,39000.0
+Car,Kia,Optima,2019,208778,Manual,Diesel,None,4,2,72,Marrakech,58000.0
+Motorcycle,KTM,RC125,2025,296463,Manual,Electric,None,2,2,23,Taza,13000.0
+Car,Skoda,Superb,2021,80448,Manual,Hybrid,None,3,4,260,Nador,115000.0
+Car,Nissan,Micra,2017,97687,Manual,Diesel,None,5,4,93,Kenitra,29000.0
+Car,Chevrolet,Spark,2025,173913,Automatic,Electric,None,4,6,138,Oujda,56000.0
+Car,Peugeot,508,2022,104811,Manual,Petrol,None,3,2,189,Safi,150000.0
+Car,Peugeot,306,2024,98124,Automatic,Petrol,Minor,2,4,195,Casablanca,72000.0
+Car,Chevrolet,Captiva,2012,47151,Automatic,Petrol,None,3,6,190,Oujda,66000.0
+Motorcycle,BMW,S1000RR,2019,26986,Manual,Petrol,None,3,2,16,Rabat,22000.0
+Car,Chevrolet,Cruze,2015,268928,Manual,Petrol,Major,4,3,203,Mohammedia,24000.0
+Car,Skoda,Fabia,2021,13300,Manual,Electric,None,1,2,129,Nador,88000.0
+Motorcycle,Sym,Fiddle,2003,274029,Manual,Electric,None,5,2,10,Tetouan,1000.0
+Car,Mitsubishi,Outlander,2013,163725,Manual,Hybrid,Minor,1,2,179,El Jadida,37000.0
+Motorcycle,Zontes,ZT125,2024,112914,Manual,Electric,Major,5,2,18,Mohammedia,5000.0
+Car,Toyota,RAV4,2009,7133,Manual,Petrol,None,3,3,203,Kenitra,67000.0
+Motorcycle,Kymco,Grand Dink,2024,285137,Manual,Electric,None,1,2,16,Nador,7000.0
+Car,Hyundai,Elantra,2019,283960,Automatic,Petrol,Major,2,7,144,Safi,21000.0
+Car,Dacia,Stepway,2022,284261,Automatic,Hybrid,Minor,5,2,155,Nador,24000.0
+Car,Fiat,Siena,2024,179165,Automatic,Hybrid,None,1,7,266,Tangier,65000.0
+Motorcycle,Aprilia,Scarabeo,2011,245850,Manual,Petrol,Minor,4,2,14,Rabat,5000.0
+Car,Peugeot,106,2023,9160,Manual,Electric,None,4,3,189,Khouribga,166000.0
+Car,Skoda,Yeti,2021,140134,Automatic,Hybrid,None,3,2,280,Safi,99000.0
+Car,Opel,Vectra,2023,12454,Manual,Electric,None,5,4,298,Taza,123000.0
+Motorcycle,Suzuki,Address,2022,161625,Manual,Electric,None,3,2,9,El Jadida,7000.0
+Car,Peugeot,308,2021,235407,Automatic,Electric,None,1,6,224,Rabat,105000.0
+Car,Renault,Fluence,2007,168966,Manual,Petrol,Major,5,7,212,El Jadida,7000.0
+Car,Chevrolet,Spark,2017,229513,Automatic,Petrol,None,5,6,229,Oujda,38000.0
+Car,Volkswagen,Bora,2017,10541,Manual,Diesel,None,2,7,159,Nador,149000.0
+Car,Nissan,Navara,2023,243787,Manual,Petrol,None,3,6,70,Meknes,73000.0
+Car,Seat,Ibiza,2014,261985,Automatic,Diesel,None,5,2,88,Tangier,32000.0
+Car,Seat,Ibiza,2011,72107,Automatic,Electric,Minor,2,3,218,Beni Mellal,21000.0
+Motorcycle,Benelli,BN125,2003,120995,Automatic,Electric,None,4,2,10,Khouribga,2000.0
+Car,Mercedes,190,2018,167466,Automatic,Petrol,None,1,7,245,El Jadida,928000.0
+Car,Seat,Ibiza,2017,221967,Manual,Hybrid,None,4,6,233,El Jadida,41000.0
+Car,Nissan,Micra,2017,277570,Manual,Diesel,None,1,5,154,Casablanca,67000.0
+Car,Peugeot,3008,2020,165227,Manual,Electric,None,2,5,111,Nador,101000.0
+Car,Chevrolet,Captiva,2025,200782,Manual,Hybrid,Minor,4,3,78,Casablanca,68000.0
+Car,Chevrolet,Spark,2009,133810,Automatic,Hybrid,None,2,3,159,Taza,39000.0
+Motorcycle,Keeway,RKV,2017,233288,Automatic,Electric,Minor,4,2,22,Rabat,3000.0
+Car,Seat,Altea,2003,20855,Automatic,Diesel,Minor,2,6,234,Casablanca,11000.0
+Car,Volkswagen,Bora,2008,204905,Automatic,Hybrid,None,2,3,286,Khouribga,55000.0
+Motorcycle,Piaggio,Liberty,2022,64096,Manual,Electric,None,1,2,20,Casablanca,25000.0
+Car,Toyota,Avensis,2020,95135,Automatic,Petrol,None,4,2,101,Fes,59000.0
+Car,Opel,Astra,2021,136970,Automatic,Hybrid,None,5,5,181,Safi,51000.0
+Car,Mercedes,C300,2017,10434,Automatic,Diesel,None,1,5,201,Agadir,2308000.0
+Car,Toyota,RAV4,2016,112908,Manual,Petrol,None,4,3,149,Nador,57000.0
+Car,Seat,Ateca,2019,79215,Automatic,Petrol,None,5,4,241,El Jadida,111000.0
+Car,Fiat,500,2000,267613,Manual,Petrol,None,3,6,103,Tetouan,12000.0
+Motorcycle,Yamaha,YBR125,2006,155303,Manual,Electric,None,5,2,21,El Jadida,5000.0
+Car,Citroen,Xsara,2025,251877,Automatic,Electric,None,1,3,149,Tetouan,62000.0
+Car,Nissan,Sunny,2004,214743,Manual,Hybrid,Minor,1,5,94,Beni Mellal,13000.0
+Motorcycle,Keeway,RKV,2014,210491,Automatic,Electric,Minor,4,2,19,Marrakech,2000.0
+Motorcycle,BMW,G310R,2020,111941,Manual,Petrol,None,4,2,23,Taza,23000.0
+Motorcycle,Bajaj,V15,2024,80347,Automatic,Petrol,None,2,2,13,Taza,9000.0
+Motorcycle,Peugeot,Tweet,2023,233745,Manual,Electric,None,1,2,16,Nador,7000.0
+Motorcycle,KTM,390 Duke,2023,97111,Automatic,Electric,None,5,2,16,Khouribga,22000.0
+Car,Renault,Clio,2019,77235,Manual,Hybrid,Major,1,2,104,Casablanca,29000.0
+Motorcycle,Zontes,U125,2020,112051,Manual,Petrol,None,5,2,12,Marrakech,7000.0
+Motorcycle,Vespa,LX,2025,161465,Automatic,Electric,None,5,2,23,Nador,16000.0
+Motorcycle,Bajaj,Discover,2005,191497,Manual,Electric,None,3,2,16,Fes,2000.0
+Motorcycle,Kymco,People,2008,183121,Automatic,Petrol,None,1,2,9,Meknes,3000.0
+Car,Dacia,Logan,2023,235045,Automatic,Electric,Minor,1,2,166,Kenitra,69000.0
+Car,Seat,Inca,2007,79708,Automatic,Petrol,Minor,4,3,208,Mohammedia,37000.0
+Car,Mitsubishi,Outlander,2019,50382,Manual,Diesel,None,1,5,111,Casablanca,50000.0
+Car,Hyundai,i20,2019,24716,Manual,Petrol,None,5,2,157,Kenitra,63000.0
+Car,Citroen,DS3,2004,183539,Manual,Hybrid,Major,1,4,225,Khouribga,12000.0
+Car,Mitsubishi,Pajero,2004,142258,Automatic,Petrol,Minor,2,2,174,Fes,16000.0
+Motorcycle,Sym,Jet,2024,192301,Manual,Petrol,None,5,2,10,Meknes,7000.0
+Car,Skoda,Fabia,2005,106812,Manual,Petrol,None,3,7,149,Taza,45000.0
+Car,Opel,Vectra,2002,173530,Automatic,Petrol,None,3,6,186,Marrakech,9000.0
+Car,Fiat,Doblo,2025,61476,Manual,Electric,None,2,5,223,Safi,118000.0
+Motorcycle,Zontes,ZT350,2025,282769,Automatic,Petrol,Minor,2,2,9,Rabat,6000.0
+Motorcycle,Kymco,Grand Dink,2023,292637,Manual,Electric,None,4,2,16,Nador,6000.0
+Car,Opel,Zafira,2004,123864,Automatic,Diesel,None,2,2,254,Tangier,26000.0
+Car,Opel,Vectra,2006,121664,Manual,Electric,None,1,3,147,El Jadida,38000.0
+Motorcycle,Piaggio,MP3,2004,45533,Manual,Electric,None,2,2,11,Meknes,7000.0
+Car,Seat,Leon,2016,111153,Automatic,Diesel,None,1,3,294,Marrakech,79000.0
+Motorcycle,Zontes,G1,2010,203203,Automatic,Electric,None,4,2,24,Fes,3000.0
+Car,Dacia,Lodgy,2021,260097,Automatic,Hybrid,Minor,3,5,176,Nador,69000.0
+Motorcycle,BMW,G310GS,2011,280174,Automatic,Petrol,None,1,2,22,Kenitra,10000.0
+Car,Mitsubishi,Space Star,2001,2556,Manual,Electric,None,5,2,124,Tangier,37000.0
+Car,Volkswagen,Passat,2015,10801,Automatic,Petrol,None,5,5,211,Mohammedia,106000.0
+Car,Dacia,Sandero,2013,248376,Manual,Electric,Minor,2,6,71,Marrakech,34000.0
+Motorcycle,Zontes,ZT125,2010,120570,Manual,Petrol,None,2,2,14,Safi,3000.0
+Motorcycle,Vespa,ET4,2005,18899,Automatic,Electric,None,1,2,11,Safi,9000.0
+Motorcycle,Zontes,R350,2010,290134,Manual,Electric,None,3,2,8,Rabat,2000.0
+Car,Kia,Carens,2019,70507,Manual,Electric,Major,4,3,75,Rabat,58000.0
+Car,Dacia,Sandero,2009,280347,Automatic,Electric,None,5,3,120,Taza,13000.0
+Car,Mercedes,C200,2011,140064,Automatic,Diesel,None,5,5,176,Rabat,675000.0
+Car,Toyota,Yaris,2006,78865,Manual,Electric,Minor,3,7,196,Oujda,13000.0
+Car,Hyundai,i20,2024,55702,Manual,Petrol,Minor,3,2,72,Taza,63000.0
+Motorcycle,Aprilia,Scarabeo,2009,243621,Manual,Electric,None,2,2,20,Tangier,4000.0
+Car,Renault,Captur,2018,231219,Manual,Petrol,None,3,7,98,Tangier,60000.0
+Car,Suzuki,Vitara,2012,86551,Automatic,Diesel,Minor,1,5,74,Casablanca,29000.0
+Car,Volkswagen,Bora,2013,142347,Manual,Electric,Major,2,6,83,Rabat,20000.0
+Car,Mitsubishi,ASX,2016,19114,Manual,Petrol,None,2,5,224,Tangier,79000.0
+Car,Toyota,Hiace,2019,75230,Automatic,Petrol,Minor,4,3,210,Tangier,72000.0
+Car,Skoda,Octavia,2025,125296,Manual,Hybrid,None,5,6,201,Beni Mellal,69000.0
+Car,Chevrolet,Aveo,2008,12309,Manual,Hybrid,None,2,3,273,Beni Mellal,52000.0
+Car,Skoda,Yeti,2015,157024,Manual,Hybrid,None,5,2,123,Khouribga,30000.0
+Motorcycle,Keeway,K-Light,2003,273882,Automatic,Petrol,None,4,2,15,Tangier,1000.0
+Car,Citroen,Berlingo,2019,284867,Manual,Electric,None,1,4,178,El Jadida,40000.0
+Car,Seat,Ibiza,2025,20726,Automatic,Electric,None,1,2,159,Fes,109000.0
+Motorcycle,BMW,G310R,2000,265862,Manual,Petrol,None,1,2,19,Rabat,4000.0
+Motorcycle,Piaggio,Zip,2014,136002,Automatic,Petrol,Major,3,2,17,Tetouan,6000.0
+Motorcycle,Kymco,Like,2012,82190,Manual,Petrol,None,3,2,24,Safi,3000.0
+Car,Renault,Logan,2000,81038,Automatic,Diesel,None,5,3,89,Tetouan,23000.0
+Car,Citroen,DS4,2016,84903,Manual,Hybrid,Minor,1,7,106,Khouribga,76000.0
+Car,Mercedes,C200,2023,197994,Automatic,Electric,None,4,5,253,Khouribga,2082000.0
+Car,Suzuki,Swift,2017,231853,Manual,Electric,None,1,5,210,Kenitra,36000.0
+Motorcycle,MBK,Skyliner,2008,47002,Manual,Electric,Minor,1,2,23,Casablanca,2000.0
+Car,Renault,Symbol,2003,216080,Automatic,Hybrid,None,5,5,130,Nador,8000.0
+Motorcycle,Bajaj,Platina,2024,248419,Manual,Electric,Minor,3,2,13,Oujda,4000.0
+Car,Mercedes,220,2023,291674,Automatic,Hybrid,None,2,6,115,Nador,456000.0
+Car,Kia,Sportage,2024,4681,Automatic,Petrol,None,2,5,174,Taza,130000.0
+Car,Dacia,Stepway,2013,207374,Manual,Diesel,Minor,2,2,158,Marrakech,19000.0
+Car,Dacia,Spring,2003,251198,Automatic,Petrol,None,4,7,164,Marrakech,12000.0
+Car,Seat,Altea,2024,226583,Manual,Petrol,None,5,7,90,Tetouan,109000.0
+Car,Ford,Sierra,2002,42938,Automatic,Petrol,None,1,7,105,Meknes,42000.0
+Car,Hyundai,Accent,2002,17064,Manual,Petrol,Major,5,6,91,Kenitra,18000.0
+Car,Opel,Zafira,2022,159276,Automatic,Electric,Major,4,7,215,El Jadida,88000.0
+Car,Volkswagen,Bora,2025,85512,Automatic,Electric,Minor,4,2,269,Nador,134000.0
+Motorcycle,Benelli,Tornado,2013,77028,Manual,Petrol,None,1,2,12,Fes,6000.0
+Car,Opel,Meriva,2018,245356,Automatic,Hybrid,None,5,5,140,Nador,49000.0
+Motorcycle,MBK,Ovetto,2013,152424,Automatic,Petrol,None,2,2,18,Khouribga,4000.0
+Car,Citroen,DS4,2002,184096,Automatic,Petrol,None,5,2,286,Taza,19000.0
+Car,Seat,Ateca,2017,238907,Manual,Petrol,None,5,6,217,Tetouan,22000.0
+Motorcycle,Royal Enfield,Interceptor,2015,275220,Automatic,Petrol,None,3,2,11,Kenitra,7000.0
+Car,Opel,Zafira,2010,298804,Manual,Diesel,None,3,3,136,Safi,26000.0
+Car,Citroen,C4,2019,29429,Automatic,Petrol,Minor,5,2,210,Oujda,67000.0
+Car,Toyota,Prius,2001,2829,Automatic,Diesel,Minor,4,2,91,El Jadida,31000.0
+Car,Peugeot,3008,2022,245162,Manual,Hybrid,None,1,5,116,Casablanca,102000.0
+Car,Ford,Courier,2008,283875,Manual,Diesel,Major,4,2,186,Safi,16000.0
+Car,Peugeot,405,2011,285292,Manual,Electric,None,2,3,220,Nador,33000.0
+Car,Hyundai,H1,2015,258931,Manual,Electric,None,1,4,169,Mohammedia,50000.0
+Motorcycle,MBK,Nitro,2012,217646,Manual,Electric,None,5,2,18,Taza,2000.0
+Car,Hyundai,Sonata,2020,209633,Automatic,Petrol,None,5,7,97,El Jadida,73000.0
+Motorcycle,Bajaj,V15,2004,143215,Manual,Petrol,None,4,2,13,Safi,2000.0
+Car,Kia,Soul,2009,120900,Manual,Electric,Minor,4,6,141,Tangier,33000.0
+Motorcycle,Benelli,Tornado,2012,33927,Automatic,Electric,None,3,2,13,Fes,5000.0
+Car,Fiat,Punto,2010,261392,Automatic,Electric,Minor,2,6,218,Kenitra,27000.0
+Motorcycle,Kawasaki,KLR,2000,139347,Automatic,Petrol,Minor,3,2,11,Mohammedia,2000.0
+Motorcycle,Bajaj,Discover,2020,245228,Automatic,Petrol,None,4,2,22,Tetouan,3000.0
+Car,Chevrolet,Orlando,2013,206394,Manual,Electric,None,4,4,254,Tangier,48000.0
+Motorcycle,Aprilia,SR,2015,167613,Manual,Electric,None,3,2,13,Rabat,10000.0
+Car,Peugeot,205,2018,166772,Automatic,Hybrid,None,1,2,161,Rabat,37000.0
+Motorcycle,Sym,Orbit,2003,273556,Manual,Petrol,None,2,2,24,Taza,1000.0
+Car,Nissan,Juke,2015,66612,Manual,Hybrid,Minor,5,5,207,Oujda,55000.0
+Car,Chevrolet,Matiz,2020,184866,Manual,Electric,None,3,6,183,Taza,30000.0
+Car,Hyundai,Sonata,2016,34357,Automatic,Diesel,None,3,7,281,Fes,112000.0
+Car,Opel,Combo,2014,36362,Manual,Petrol,None,4,3,276,Khouribga,69000.0
+Motorcycle,KTM,Adventure 390,2000,198220,Automatic,Petrol,None,4,2,18,Safi,3000.0
+Car,Nissan,Primera,2013,191188,Manual,Electric,None,5,6,273,Beni Mellal,33000.0
+Car,Opel,Insignia,2017,185503,Manual,Diesel,Minor,3,3,219,Taza,53000.0
+Car,Fiat,Grande Punto,2004,146965,Automatic,Petrol,Major,1,4,299,Mohammedia,20000.0
+Car,Mercedes,E250,2015,174675,Automatic,Hybrid,Minor,1,2,264,Khouribga,829000.0
+Car,Mitsubishi,L200,2012,156205,Manual,Petrol,None,1,5,263,Khouribga,63000.0
+Car,Fiat,Palio,2008,230952,Manual,Electric,None,2,3,157,Tangier,19000.0
+Car,Nissan,Note,2016,90292,Automatic,Hybrid,Minor,3,2,93,Oujda,72000.0
+Car,Skoda,Superb,2020,65810,Manual,Diesel,None,4,6,191,Agadir,130000.0
+Motorcycle,Suzuki,Address,2000,285607,Manual,Petrol,None,1,2,24,Taza,1000.0
+Car,Dacia,Logan,2020,7780,Manual,Electric,None,4,7,262,Agadir,119000.0
+Car,Skoda,Felicia,2005,71156,Automatic,Petrol,None,3,3,132,Tangier,42000.0
+Car,Opel,Kadett,2015,212466,Automatic,Petrol,None,5,3,176,Agadir,62000.0
+Car,Kia,Soul,2019,79307,Manual,Diesel,Minor,3,4,196,Casablanca,69000.0
+Motorcycle,Zontes,T310,2010,278440,Automatic,Petrol,None,1,2,23,Oujda,2000.0
+Car,Chevrolet,Lacetti,2005,132547,Manual,Petrol,None,5,3,190,Marrakech,26000.0
+Car,Seat,Ateca,2008,40323,Automatic,Diesel,Minor,3,4,167,Taza,23000.0
+Car,Citroen,Picasso,2017,100322,Automatic,Hybrid,None,3,5,220,Kenitra,65000.0
+Motorcycle,Kymco,X-Town,2014,3988,Manual,Electric,None,4,2,21,Casablanca,4000.0
+Motorcycle,Peugeot,Vivacity,2005,84553,Manual,Electric,None,2,2,23,Casablanca,3000.0
+Car,Citroen,C4,2018,168004,Manual,Electric,Major,2,7,279,Nador,77000.0
+Car,Mitsubishi,Colt,2007,61101,Automatic,Electric,None,1,7,169,Oujda,43000.0
+Motorcycle,Peugeot,Ludix,2016,191638,Automatic,Petrol,Minor,2,2,22,Rabat,3000.0
+Motorcycle,Honda,SH125,2012,171709,Automatic,Electric,None,4,2,11,Casablanca,7000.0
+Car,Fiat,Panda,2017,222501,Automatic,Petrol,None,2,7,77,Marrakech,44000.0
+Car,Ford,Sierra,2012,286748,Manual,Diesel,None,4,7,181,Casablanca,38000.0
+Motorcycle,Keeway,K-Light,2009,23005,Automatic,Petrol,None,5,2,19,Tangier,3000.0
+Car,Ford,EcoSport,2009,119483,Manual,Electric,Minor,1,7,246,Beni Mellal,35000.0
+Car,Renault,Fluence,2007,229045,Manual,Diesel,Minor,4,4,195,Rabat,15000.0
+Motorcycle,Honda,SH125,2019,42907,Automatic,Electric,Minor,1,2,24,Marrakech,14000.0
+Car,Ford,Connect,2003,43299,Manual,Electric,None,3,7,285,Oujda,41000.0
+Car,Opel,Insignia,2025,79099,Manual,Diesel,Major,1,4,286,Meknes,122000.0
+Motorcycle,BMW,R1250GS,2001,95634,Manual,Electric,None,4,2,11,Beni Mellal,3000.0
+Car,Chevrolet,Cruze,2012,99326,Manual,Diesel,None,2,2,292,Safi,72000.0
+Car,Toyota,Hiace,2014,25494,Automatic,Diesel,None,4,7,171,El Jadida,59000.0
+Car,Ford,Transit,2025,52281,Manual,Electric,Minor,5,5,298,Safi,169000.0
+Car,Peugeot,309,2002,122341,Manual,Petrol,None,2,5,170,Nador,33000.0
+Car,Suzuki,Baleno,2004,94933,Manual,Diesel,None,1,3,118,Casablanca,26000.0
+Car,Fiat,Grande Punto,2013,2569,Manual,Petrol,None,1,2,194,Mohammedia,49000.0
+Car,Volkswagen,Golf Plus,2022,191031,Manual,Electric,None,1,3,175,Marrakech,97000.0
+Car,Nissan,Patrol,2025,207078,Automatic,Petrol,None,2,2,187,Marrakech,142000.0
+Car,Skoda,Karoq,2001,282472,Manual,Diesel,Minor,3,5,183,El Jadida,9000.0
+Car,Dacia,Logan,2005,210351,Automatic,Petrol,None,2,3,98,Meknes,17000.0
+Motorcycle,Piaggio,Medley,2018,184940,Manual,Electric,None,2,2,10,Meknes,7000.0
+Motorcycle,Keeway,RKV,2011,100148,Manual,Petrol,None,4,2,18,Tangier,3000.0
+Car,Peugeot,404,2024,34731,Manual,Electric,Minor,3,7,137,Meknes,138000.0
+Car,Seat,Ateca,2019,299989,Automatic,Diesel,None,3,6,209,Meknes,72000.0
+Car,Ford,Mondeo,2018,246223,Automatic,Petrol,Minor,3,7,272,Tetouan,29000.0
+Car,Mitsubishi,Space Star,2010,17960,Automatic,Electric,None,5,6,182,Beni Mellal,51000.0
+Car,Toyota,Camry,2023,203250,Manual,Electric,None,2,4,169,Marrakech,48000.0
+Car,Renault,Fluence,2021,112613,Automatic,Petrol,None,2,2,94,Nador,70000.0
+Car,Skoda,Karoq,2001,179667,Manual,Petrol,None,3,7,240,Safi,14000.0
+Car,Ford,Ka,2025,94504,Automatic,Diesel,None,5,4,289,Rabat,122000.0
+Car,Fiat,Siena,2019,202731,Automatic,Diesel,None,3,5,242,Nador,72000.0
+Car,Nissan,Patrol,2008,215361,Automatic,Diesel,Minor,3,5,149,Oujda,25000.0
+Car,Fiat,Grande Punto,2022,271030,Automatic,Electric,None,5,7,91,Tetouan,39000.0
+Motorcycle,Sym,Allo,2012,154837,Manual,Electric,None,3,2,24,Tetouan,3000.0
+Motorcycle,Zontes,U125,2001,93780,Manual,Petrol,None,2,2,11,Marrakech,2000.0
+Motorcycle,Kawasaki,KLR,2012,133871,Manual,Petrol,None,4,2,24,Tetouan,5000.0
+Motorcycle,Honda,CBR125R,2000,205161,Automatic,Petrol,Major,1,2,13,Beni Mellal,3000.0
+Car,Dacia,Dokker,2016,22326,Automatic,Diesel,None,3,2,146,Kenitra,79000.0
+Car,Mercedes,250,2012,71027,Automatic,Petrol,None,4,4,290,Beni Mellal,502000.0
+Car,Seat,Cordoba,2022,107099,Automatic,Petrol,None,1,6,276,Kenitra,145000.0
+Motorcycle,Aprilia,Sportcity,2019,70233,Manual,Petrol,Minor,2,2,8,Marrakech,11000.0
+Motorcycle,Bajaj,Pulsar,2009,85903,Automatic,Petrol,None,2,2,12,Meknes,3000.0
+Car,Mitsubishi,Outlander,2023,46890,Automatic,Hybrid,None,3,4,219,Oujda,163000.0
+Motorcycle,Yamaha,WR125,2006,193416,Automatic,Electric,None,5,2,20,Beni Mellal,4000.0
+Car,Peugeot,405,2003,111361,Automatic,Petrol,None,5,7,230,Khouribga,10000.0
+Car,Toyota,Hilux,2011,184710,Manual,Diesel,Major,5,3,221,Tangier,42000.0
+Car,Kia,Rio,2014,289076,Manual,Diesel,None,1,7,290,Beni Mellal,34000.0
+Car,Ford,Ka,2008,291580,Automatic,Diesel,Minor,1,4,220,El Jadida,35000.0
+Car,Renault,Talisman,2010,256222,Manual,Petrol,Minor,1,4,83,Khouribga,33000.0
+Motorcycle,Benelli,165s,2022,187628,Automatic,Electric,None,1,2,14,Tangier,5000.0
+Motorcycle,KTM,200 Duke,2015,121210,Manual,Electric,None,4,2,18,Agadir,10000.0
+Motorcycle,Zontes,ZT310,2023,203646,Manual,Electric,None,4,2,10,Mohammedia,5000.0
+Car,Renault,Megane,2005,186648,Automatic,Diesel,None,1,5,291,Agadir,34000.0
+Car,Mercedes,C250,2010,30453,Automatic,Electric,None,1,7,95,Agadir,1214000.0
+Motorcycle,Aprilia,RS,2025,146487,Manual,Electric,None,1,2,11,Kenitra,20000.0
+Motorcycle,Aprilia,RS,2013,263804,Manual,Petrol,None,1,2,19,Casablanca,9000.0
+Motorcycle,Lifan,Hunter,2007,61344,Automatic,Petrol,Minor,4,2,24,Mohammedia,2000.0
+Car,Mercedes,E300,2014,133374,Manual,Hybrid,Minor,2,3,190,Tetouan,508000.0
+Car,Mitsubishi,L200,2013,116574,Automatic,Petrol,None,2,4,278,Kenitra,78000.0
+Car,Volkswagen,Golf,2021,118511,Automatic,Diesel,None,4,3,277,Oujda,104000.0
+Car,Renault,Laguna,2015,293440,Automatic,Electric,None,2,6,258,Khouribga,23000.0
+Car,Mitsubishi,Outlander,2019,69101,Automatic,Petrol,Minor,3,6,119,Oujda,100000.0
+Car,Mitsubishi,Space Star,2000,133931,Automatic,Hybrid,None,3,7,110,Khouribga,25000.0
+Motorcycle,Piaggio,Medley,2006,288174,Automatic,Electric,None,1,2,13,Nador,4000.0
+Car,Skoda,Yeti,2019,196407,Automatic,Petrol,None,4,4,236,Marrakech,64000.0
+Car,Dacia,Dokker,2024,15033,Automatic,Diesel,None,2,3,191,Rabat,88000.0
+Motorcycle,Piaggio,Medley,2020,163124,Manual,Electric,None,3,2,20,Khouribga,11000.0
+Car,Peugeot,508,2005,221455,Manual,Hybrid,None,4,2,123,Tangier,29000.0
+Car,Chevrolet,Spark,2007,28102,Manual,Diesel,Minor,4,5,145,Mohammedia,30000.0
+Car,Volkswagen,Jetta,2022,201262,Manual,Diesel,None,3,2,273,Tetouan,142000.0
+Motorcycle,BMW,G310R,2008,258440,Manual,Electric,Minor,4,2,11,Oujda,4000.0
+Car,Toyota,Yaris,2004,280516,Automatic,Hybrid,None,3,7,136,Mohammedia,17000.0
+Car,Nissan,Note,2013,213037,Automatic,Electric,None,5,6,114,El Jadida,17000.0
+Car,Nissan,Qashqai,2021,281621,Automatic,Diesel,Minor,5,4,290,Mohammedia,70000.0
+Car,Mercedes,C200,2024,46738,Automatic,Hybrid,None,3,2,238,Beni Mellal,1802000.0
+Car,Hyundai,i10,2003,38526,Automatic,Electric,Minor,1,2,106,Casablanca,25000.0
+Car,Dacia,Dokker,2007,247806,Automatic,Petrol,Minor,5,3,141,Casablanca,9000.0
+Car,Skoda,Fabia,2022,183991,Automatic,Hybrid,None,4,4,221,Nador,72000.0
+Car,Nissan,Juke,2004,100698,Manual,Diesel,Major,3,6,170,Beni Mellal,17000.0
+Car,Kia,Cerato,2016,52669,Automatic,Electric,None,4,6,275,Nador,32000.0
+Car,Fiat,Tipo,2016,172258,Automatic,Hybrid,Major,3,5,114,Beni Mellal,50000.0
+Car,Fiat,Tipo,2011,107433,Automatic,Diesel,None,5,5,273,Casablanca,38000.0
+Car,Peugeot,205,2020,254401,Manual,Hybrid,None,5,6,268,Nador,83000.0
+Motorcycle,BMW,C400X,2019,35545,Automatic,Petrol,None,1,2,24,Agadir,30000.0
+Car,Suzuki,Baleno,2009,75327,Manual,Diesel,Major,2,4,142,Oujda,16000.0
+Car,Fiat,500,2006,149534,Manual,Electric,None,5,2,232,Casablanca,14000.0
+Motorcycle,Royal Enfield,Meteor 350,2016,92518,Manual,Electric,Major,1,2,14,Agadir,9000.0
+Car,Dacia,Duster,2013,248209,Manual,Electric,Major,4,4,260,Meknes,34000.0
+Motorcycle,Honda,CB125F,2012,11517,Manual,Petrol,None,2,2,14,El Jadida,13000.0
+Car,Toyota,Camry,2019,164336,Automatic,Petrol,None,4,6,277,Casablanca,111000.0
+Car,Dacia,Logan,2024,155533,Manual,Electric,None,4,3,145,Beni Mellal,122000.0
+Motorcycle,BMW,F850GS,2015,141354,Manual,Petrol,None,5,2,21,Tangier,9000.0
+Car,Volkswagen,Touran,2007,253068,Automatic,Petrol,Major,3,4,174,Meknes,15000.0
+Car,Hyundai,Tucson,2017,28072,Manual,Electric,None,2,5,70,Beni Mellal,103000.0
+Car,Ford,Courier,2013,273585,Automatic,Diesel,None,2,7,235,Mohammedia,28000.0
+Car,Ford,Escort,2003,32878,Automatic,Petrol,None,1,5,282,Tangier,16000.0
+Motorcycle,BMW,G310R,2019,175038,Manual,Electric,None,5,2,12,Fes,9000.0
+Car,Toyota,Auris,2012,70090,Manual,Petrol,Minor,3,3,107,Tangier,32000.0
+Car,Toyota,Land Cruiser,2000,91419,Manual,Petrol,None,4,3,211,Safi,28000.0
+Car,Renault,Kadjar,2006,69615,Automatic,Diesel,None,5,3,156,Mohammedia,24000.0
+Motorcycle,Aprilia,Sportcity,2019,264771,Manual,Petrol,None,2,2,23,Taza,8000.0
+Car,Suzuki,Baleno,2005,117113,Automatic,Petrol,None,1,5,98,Oujda,20000.0
+Motorcycle,Kymco,Vitality,2010,129830,Manual,Petrol,None,1,2,15,Kenitra,3000.0
+Car,Skoda,Rapid,2025,212256,Automatic,Diesel,None,5,4,79,Kenitra,76000.0
+Car,Nissan,Almera,2022,275013,Manual,Petrol,None,4,5,70,Mohammedia,57000.0
+Car,Mercedes,E250,2007,43739,Manual,Electric,Major,1,3,77,Rabat,391000.0
+Motorcycle,Benelli,125i,2012,4661,Automatic,Petrol,Minor,2,2,20,Rabat,4000.0
+Car,Dacia,Lodgy,2014,79466,Manual,Petrol,None,1,7,79,Fes,57000.0
+Motorcycle,Honda,XR125L,2014,213290,Automatic,Petrol,Minor,3,2,24,Casablanca,6000.0
+Car,Seat,Leon,2006,689,Automatic,Electric,None,3,7,127,Nador,32000.0
+Motorcycle,Sym,Allo,2022,65191,Automatic,Petrol,None,4,2,16,Agadir,5000.0
+Car,Citroen,C3,2021,82670,Automatic,Electric,Minor,3,6,174,Tangier,77000.0
+Motorcycle,Keeway,Superlight,2025,147843,Automatic,Electric,None,5,2,9,Nador,5000.0
+Car,Mercedes,250,2013,220846,Automatic,Electric,None,1,3,123,Mohammedia,684000.0
+Car,Toyota,Camry,2021,234196,Automatic,Hybrid,None,1,6,282,Casablanca,59000.0
+Car,Suzuki,Swift,2006,8434,Automatic,Hybrid,None,5,3,106,El Jadida,30000.0
+Motorcycle,MBK,Nitro,2015,242179,Manual,Electric,None,5,2,20,Tetouan,3000.0
+Car,Renault,Logan,2020,295058,Automatic,Petrol,None,5,2,146,Tangier,74000.0
+Motorcycle,Peugeot,Vivacity,2000,170113,Automatic,Electric,None,5,2,16,Oujda,1000.0
+Car,Nissan,Primera,2021,297920,Automatic,Hybrid,None,2,3,105,Tetouan,37000.0
+Car,Fiat,Doblo,2023,63258,Manual,Electric,None,3,6,116,Oujda,96000.0
+Car,Mercedes,C300,2005,243595,Manual,Hybrid,None,2,7,243,Mohammedia,293000.0
+Car,Skoda,Karoq,2008,236173,Automatic,Electric,None,4,7,196,Fes,28000.0
+Motorcycle,Kawasaki,Vulcan,2014,108965,Manual,Petrol,None,3,2,16,Fes,8000.0
+Car,Chevrolet,Epica,2007,285070,Automatic,Hybrid,None,4,3,98,Tangier,24000.0
+Car,Kia,K2700,2023,59580,Automatic,Hybrid,None,1,6,195,Oujda,172000.0
+Car,Toyota,RAV4,2024,290632,Manual,Electric,None,2,2,271,Tangier,94000.0
+Motorcycle,KTM,RC125,2001,20550,Manual,Petrol,Major,4,2,11,Khouribga,4000.0
+Car,Chevrolet,Spark,2004,266737,Manual,Hybrid,Minor,1,3,170,Kenitra,11000.0
+Car,Seat,Toledo,2003,196044,Manual,Diesel,None,4,7,167,Meknes,20000.0
+Motorcycle,Sym,Orbit,2023,238223,Automatic,Petrol,None,1,2,12,Mohammedia,6000.0
+Car,Nissan,Micra,2022,72887,Automatic,Diesel,Major,4,7,142,Fes,98000.0
+Car,Hyundai,i20,2014,191822,Manual,Petrol,None,1,6,157,Kenitra,41000.0
+Car,Opel,Astra,2002,240164,Manual,Diesel,None,5,3,70,Khouribga,6000.0
+Car,Skoda,Fabia,2021,297753,Manual,Hybrid,None,5,2,127,Casablanca,69000.0
+Motorcycle,Yamaha,YZF-R125,2025,89290,Automatic,Electric,None,2,2,17,Meknes,23000.0
+Motorcycle,Sym,Wolf,2020,77410,Manual,Electric,None,1,2,11,Khouribga,8000.0
+Motorcycle,BMW,S1000RR,2001,94544,Manual,Electric,Major,4,2,17,Kenitra,3000.0
+Motorcycle,Piaggio,Beverly,2016,123602,Manual,Petrol,None,3,2,23,Tetouan,7000.0
+Car,Citroen,C4,2001,226755,Automatic,Petrol,None,4,3,113,El Jadida,18000.0
+Car,Renault,Captur,2024,97377,Manual,Petrol,Minor,1,7,89,Rabat,83000.0
+Car,Chevrolet,Captiva,2008,14163,Automatic,Hybrid,None,1,4,249,Nador,40000.0
+Car,Nissan,Micra,2022,75077,Automatic,Electric,None,4,7,251,Agadir,163000.0
+Car,Seat,Cordoba,2000,228023,Automatic,Petrol,None,2,2,229,Oujda,18000.0
+Car,Skoda,Octavia,2016,258966,Manual,Diesel,None,3,4,295,Marrakech,54000.0
+Car,Renault,Talisman,2017,291447,Automatic,Electric,None,2,4,166,Rabat,50000.0
+Motorcycle,KTM,690 SMC,2019,197466,Manual,Electric,None,1,2,10,Kenitra,16000.0
+Car,Dacia,Duster,2014,8283,Manual,Electric,None,5,5,258,Oujda,38000.0
+Car,Nissan,Primera,2000,76893,Manual,Hybrid,Minor,2,6,273,El Jadida,10000.0
+Car,Seat,Ateca,2013,266228,Automatic,Petrol,Minor,3,2,165,Oujda,42000.0
+Car,Fiat,Siena,2017,155211,Automatic,Petrol,None,5,3,166,Oujda,69000.0
+Motorcycle,Kawasaki,KLR,2007,120209,Manual,Electric,None,4,2,11,Rabat,4000.0
+Car,Citroen,C4,2011,9833,Manual,Petrol,None,1,7,109,Meknes,56000.0
+Car,Fiat,500,2001,132933,Automatic,Petrol,None,4,5,254,Kenitra,19000.0
+Motorcycle,BMW,C400X,2023,116005,Automatic,Electric,None,5,2,22,Agadir,18000.0
+Car,Toyota,Hilux,2007,99431,Automatic,Electric,None,2,2,291,Casablanca,17000.0
+Motorcycle,Sym,Crox,2006,13130,Automatic,Petrol,None,3,2,17,Rabat,3000.0
+Car,Mitsubishi,Colt,2019,56876,Automatic,Hybrid,None,1,7,261,Kenitra,90000.0
+Car,Seat,Ateca,2016,288618,Automatic,Electric,None,3,5,79,Nador,52000.0
+Car,Ford,Sierra,2012,277012,Automatic,Hybrid,Major,4,3,166,Oujda,19000.0
+Car,Toyota,Yaris,2019,141228,Automatic,Hybrid,None,1,5,229,Meknes,74000.0
+Motorcycle,Peugeot,Kisbee,2023,52033,Automatic,Electric,None,3,2,18,El Jadida,10000.0
+Motorcycle,Peugeot,Vivacity,2010,140421,Manual,Petrol,None,1,2,17,Marrakech,3000.0
+Car,Citroen,DS4,2005,150468,Automatic,Electric,Minor,2,5,221,Meknes,36000.0
+Motorcycle,Kymco,X-Town,2011,298107,Manual,Electric,None,2,2,20,Nador,3000.0
+Motorcycle,Kawasaki,D-Tracker,2000,39522,Manual,Petrol,None,5,2,18,Mohammedia,4000.0
+Car,Opel,Kadett,2015,71969,Manual,Hybrid,Minor,5,7,167,Casablanca,74000.0
+Car,Volkswagen,Jetta,2018,19556,Manual,Electric,Minor,1,7,270,Nador,129000.0
+Motorcycle,Lifan,V16,2005,125366,Automatic,Electric,None,3,2,17,Safi,2000.0
+Car,Suzuki,Alto,2002,170350,Manual,Petrol,None,4,3,159,Beni Mellal,18000.0
+Car,Ford,Sierra,2025,191057,Automatic,Hybrid,None,3,7,77,Marrakech,61000.0
+Car,Mitsubishi,L200,2003,42733,Manual,Hybrid,None,5,5,110,Nador,33000.0
+Car,Peugeot,307,2000,288048,Automatic,Hybrid,None,4,3,252,Tetouan,16000.0
+Car,Fiat,Bravo,2005,144373,Manual,Petrol,None,5,6,171,Kenitra,19000.0
+Car,Opel,Vectra,2013,163377,Manual,Electric,None,4,4,267,Beni Mellal,62000.0
+Car,Mitsubishi,Lancer,2015,145089,Manual,Electric,Minor,1,6,178,Mohammedia,60000.0
+Car,Seat,Ateca,2009,35454,Manual,Diesel,None,1,2,226,Khouribga,30000.0
+Car,Chevrolet,Orlando,2025,194930,Manual,Electric,Minor,4,4,246,Taza,58000.0
+Car,Dacia,Duster,2010,108330,Manual,Electric,None,4,2,237,El Jadida,30000.0
+Motorcycle,KTM,RC200,2002,47037,Manual,Petrol,None,2,2,24,Taza,5000.0
+Car,Nissan,Primera,2015,108065,Manual,Hybrid,None,1,7,181,Safi,64000.0
+Car,Volkswagen,Golf,2014,26236,Manual,Petrol,None,5,4,70,Rabat,71000.0
+Car,Skoda,Octavia,2019,70035,Automatic,Electric,None,2,7,185,Khouribga,67000.0
+Car,Mitsubishi,Space Star,2006,222918,Automatic,Diesel,None,2,6,155,Marrakech,32000.0
+Car,Mitsubishi,Space Star,2012,287818,Manual,Electric,None,4,2,155,Tetouan,26000.0
+Car,Suzuki,Vitara,2020,211702,Automatic,Petrol,None,3,2,215,Mohammedia,89000.0
+Car,Chevrolet,Captiva,2017,103166,Manual,Petrol,None,2,3,256,Agadir,32000.0
+Motorcycle,Vespa,ET4,2024,78503,Automatic,Petrol,None,4,2,21,Casablanca,23000.0
+Car,Seat,Arona,2024,269010,Manual,Hybrid,Major,1,5,225,Kenitra,66000.0
+Car,Seat,Toledo,2021,269745,Manual,Electric,None,4,6,159,Marrakech,74000.0
+Car,Fiat,Uno,2002,110323,Manual,Electric,Minor,5,6,268,Casablanca,14000.0
+Motorcycle,Vespa,Primavera,2024,85069,Manual,Electric,None,1,2,11,Tangier,20000.0
+Car,Toyota,Hilux,2004,94337,Manual,Diesel,None,4,3,286,Kenitra,16000.0
+Motorcycle,BMW,F750GS,2019,63501,Manual,Electric,None,5,2,19,Khouribga,19000.0
+Car,Seat,Arona,2004,39183,Manual,Petrol,None,1,7,292,Mohammedia,39000.0
+Car,Mercedes,C180,2020,214788,Manual,Petrol,None,1,2,217,Meknes,498000.0
+Motorcycle,Piaggio,Zip,2015,295592,Automatic,Petrol,None,3,2,10,Tetouan,8000.0
+Car,Peugeot,205,2018,209508,Automatic,Hybrid,None,3,5,108,Marrakech,52000.0
+Car,Peugeot,206,2003,210314,Manual,Petrol,Minor,3,5,115,Casablanca,15000.0
+Car,Volkswagen,Scirocco,2017,173504,Automatic,Hybrid,Minor,1,2,275,Nador,40000.0
+Car,Mercedes,C180,2018,184289,Manual,Electric,None,2,4,283,Taza,1213000.0
+Car,Mitsubishi,Space Star,2014,221079,Automatic,Diesel,None,5,3,169,Taza,41000.0
+Car,Skoda,Roomster,2019,293988,Automatic,Hybrid,None,3,6,251,Kenitra,22000.0
+Car,Citroen,ZX,2023,96174,Automatic,Diesel,None,5,4,166,Fes,87000.0
+Motorcycle,Kawasaki,D-Tracker,2017,24315,Manual,Electric,Minor,4,2,8,Safi,15000.0
+Car,Ford,Fiesta,2001,138463,Automatic,Electric,None,3,4,292,Agadir,31000.0
+Car,Toyota,Camry,2008,165915,Manual,Hybrid,None,3,5,266,Oujda,24000.0
+Car,Volkswagen,Jetta,2022,46104,Manual,Diesel,Major,4,6,259,Mohammedia,143000.0
+Car,Seat,Ibiza,2021,126177,Manual,Electric,None,3,2,291,Fes,61000.0
+Car,Seat,Arona,2006,140855,Manual,Petrol,None,5,7,280,Nador,16000.0
+Motorcycle,Suzuki,Burgman,2013,149865,Manual,Electric,None,2,2,24,Tetouan,4000.0
+Car,Toyota,Auris,2023,153549,Automatic,Hybrid,None,5,6,239,Tetouan,74000.0
+Motorcycle,MBK,Ovetto,2011,104888,Automatic,Petrol,Minor,1,2,14,Tangier,3000.0
+Car,Fiat,Linea,2002,159473,Manual,Hybrid,Minor,1,7,209,Fes,13000.0
+Motorcycle,Benelli,Velvet,2005,76068,Manual,Petrol,None,5,2,11,Khouribga,3000.0
+Motorcycle,Kawasaki,Vulcan,2005,116295,Automatic,Electric,None,5,2,20,Safi,6000.0
+Motorcycle,Honda,Forza,2024,296225,Automatic,Petrol,Minor,5,2,16,Rabat,8000.0
+Car,Hyundai,Tucson,2007,258785,Automatic,Diesel,None,5,5,297,El Jadida,21000.0
+Car,Nissan,Patrol,2025,260006,Manual,Hybrid,None,2,3,233,Tangier,75000.0
+Car,Hyundai,Tucson,2011,258205,Manual,Electric,None,4,7,107,Tetouan,19000.0
+Motorcycle,KTM,125 Duke,2007,79133,Manual,Petrol,Major,2,2,16,Marrakech,5000.0
+Motorcycle,Zontes,ZT310,2022,53903,Automatic,Petrol,None,2,2,21,El Jadida,10000.0
+Motorcycle,KTM,125 Duke,2012,274618,Manual,Electric,None,4,2,15,Khouribga,5000.0
+Car,Opel,Zafira,2010,118746,Automatic,Diesel,None,1,4,151,Meknes,20000.0
+Car,Mercedes,E220,2001,199183,Automatic,Electric,None,5,5,296,El Jadida,369000.0
+Motorcycle,Suzuki,GSX-R125,2002,204653,Automatic,Petrol,None,5,2,12,Meknes,1000.0
+Motorcycle,Yamaha,MT-125,2004,2522,Automatic,Petrol,None,3,2,8,Casablanca,5000.0
+Car,Ford,Sierra,2015,33460,Manual,Electric,Minor,5,5,247,Casablanca,31000.0
+Car,Renault,Captur,2017,43459,Automatic,Diesel,None,4,7,291,Tetouan,74000.0
+Car,Mitsubishi,ASX,2025,238662,Manual,Electric,Major,2,2,203,Casablanca,104000.0
+Car,Citroen,Saxo,2003,205982,Manual,Diesel,None,3,3,201,Tetouan,17000.0
+Motorcycle,Royal Enfield,Meteor 350,2008,126368,Automatic,Petrol,None,3,2,23,Khouribga,6000.0
+Car,Suzuki,Baleno,2009,136828,Automatic,Petrol,Major,2,2,137,Nador,18000.0
+Car,Kia,Picanto,2020,50071,Manual,Petrol,None,4,7,187,Mohammedia,89000.0
+Motorcycle,Royal Enfield,Classic 350,2010,213567,Manual,Electric,Minor,2,2,23,El Jadida,4000.0
+Car,Fiat,Siena,2010,98264,Manual,Diesel,Major,3,4,85,Marrakech,14000.0
+Motorcycle,Kymco,Vitality,2025,46733,Automatic,Electric,Minor,4,2,21,Meknes,9000.0
+Car,Peugeot,2008,2001,268459,Manual,Diesel,None,2,5,239,El Jadida,10000.0
+Car,Renault,Scenic,2005,167886,Automatic,Petrol,None,4,2,253,Safi,22000.0
+Car,Nissan,Tiida,2023,97232,Manual,Hybrid,None,2,4,98,Agadir,74000.0
+Car,Suzuki,Baleno,2012,182643,Automatic,Petrol,None,1,5,284,Nador,60000.0
+Car,Dacia,Lodgy,2008,97547,Manual,Hybrid,None,4,6,201,Casablanca,36000.0
+Motorcycle,Zontes,ZT350,2022,125631,Automatic,Petrol,Minor,4,2,16,Agadir,7000.0
+Car,Volkswagen,Golf,2020,207974,Automatic,Petrol,None,3,7,243,Oujda,40000.0
+Car,Mitsubishi,L200,2016,9815,Manual,Diesel,None,3,7,89,Agadir,119000.0
+Motorcycle,Piaggio,Liberty,2022,277641,Automatic,Electric,None,2,2,17,Casablanca,14000.0
+Motorcycle,Aprilia,SR,2004,117051,Automatic,Electric,None,4,2,9,Tetouan,4000.0
+Car,Kia,Optima,2011,104106,Manual,Diesel,None,2,5,268,Agadir,24000.0
+Motorcycle,BMW,S1000RR,2013,269619,Manual,Electric,None,4,2,12,Marrakech,8000.0
+Car,Mitsubishi,L200,2019,65296,Automatic,Diesel,Minor,4,3,259,Khouribga,51000.0
+Car,Opel,Insignia,2015,57834,Manual,Diesel,None,4,6,251,Meknes,31000.0
+Car,Dacia,Duster,2001,122477,Automatic,Hybrid,Major,3,6,276,Rabat,16000.0
+Motorcycle,Royal Enfield,Classic 350,2015,226778,Manual,Electric,None,2,2,24,Khouribga,10000.0
+Car,Mitsubishi,Outlander,2005,168455,Manual,Diesel,Major,4,2,248,Agadir,13000.0
+Car,Hyundai,H1,2000,68690,Automatic,Diesel,None,3,5,136,Taza,28000.0
+Motorcycle,Honda,Bros,2002,109671,Automatic,Petrol,None,1,2,17,Tangier,5000.0
+Car,Dacia,Lodgy,2023,47076,Manual,Diesel,None,4,4,121,Oujda,64000.0
+Car,Seat,Toledo,2000,272972,Automatic,Electric,None,4,6,179,Marrakech,15000.0
+Car,Skoda,Fabia,2016,140133,Automatic,Electric,None,5,6,268,Khouribga,28000.0
+Car,Skoda,Yeti,2013,128051,Manual,Hybrid,None,2,2,201,Meknes,30000.0
+Car,Renault,Logan,2009,290057,Manual,Electric,Major,1,3,267,Tangier,10000.0
+Motorcycle,Aprilia,Sportcity,2000,190333,Automatic,Electric,None,3,2,16,Beni Mellal,4000.0
+Car,Ford,Fusion,2006,15038,Manual,Diesel,Minor,4,7,198,Tetouan,37000.0
+Car,Kia,Cerato,2025,250014,Manual,Hybrid,None,1,7,77,Marrakech,101000.0
+Motorcycle,Piaggio,Typhoon,2017,65815,Manual,Electric,None,4,2,23,Tetouan,11000.0
+Car,Seat,Ibiza,2010,14926,Automatic,Diesel,None,1,5,127,Tangier,27000.0
+Car,Renault,Kangoo,2004,145028,Automatic,Diesel,None,1,5,122,Casablanca,29000.0
+Car,Chevrolet,Matiz,2019,146990,Automatic,Electric,None,3,2,231,Meknes,66000.0
+Car,Opel,Zafira,2019,198638,Automatic,Hybrid,None,5,7,177,Tangier,67000.0
+Car,Hyundai,Accent,2011,152770,Automatic,Hybrid,None,3,3,94,Safi,47000.0
+Motorcycle,Suzuki,Boulevard,2018,140389,Automatic,Petrol,Major,2,2,14,Khouribga,5000.0
+Motorcycle,Benelli,TNT125,2016,141599,Automatic,Petrol,None,4,2,9,Oujda,4000.0
+Car,Mercedes,300,2013,175408,Manual,Petrol,None,2,5,251,Tangier,568000.0
+Car,Opel,Combo,2003,184530,Automatic,Petrol,None,2,2,293,Fes,22000.0
+Car,Opel,Combo,2022,172572,Automatic,Hybrid,None,1,5,152,Taza,83000.0
+Car,Fiat,Palio,2003,198826,Manual,Petrol,None,1,6,70,Safi,17000.0
+Car,Seat,Ibiza,2023,250751,Automatic,Electric,None,1,6,170,Marrakech,33000.0
+Motorcycle,Zontes,U125,2007,42352,Automatic,Electric,Major,1,2,22,Khouribga,2000.0
+Car,Skoda,Superb,2014,154344,Manual,Petrol,None,1,3,296,El Jadida,39000.0
+Car,Suzuki,Jimny,2022,78056,Automatic,Hybrid,None,3,3,112,Oujda,92000.0
+Motorcycle,Piaggio,Zip,2013,22265,Manual,Petrol,Minor,5,2,10,Tetouan,10000.0
+Motorcycle,MBK,Flame,2001,195925,Automatic,Electric,None,2,2,21,Kenitra,2000.0
+Motorcycle,Honda,CG125,2011,198988,Manual,Petrol,None,3,2,21,Agadir,9000.0
+Motorcycle,Honda,CG125,2008,163024,Automatic,Petrol,None,4,2,15,Khouribga,6000.0
+Motorcycle,Piaggio,Zip,2012,262088,Automatic,Petrol,None,5,2,12,Kenitra,4000.0
+Car,Mitsubishi,Pajero,2008,101145,Automatic,Hybrid,None,1,7,246,Nador,29000.0
+Car,Opel,Corsa,2010,59989,Manual,Diesel,None,5,2,262,Tetouan,28000.0
+Car,Dacia,Duster,2022,69744,Automatic,Diesel,Major,5,7,202,El Jadida,22000.0
+Car,Fiat,Uno,2019,74609,Automatic,Petrol,None,2,4,181,Tetouan,37000.0
+Car,Opel,Zafira,2009,38223,Manual,Hybrid,None,2,6,243,Taza,64000.0
+Car,Mercedes,C220,2002,243115,Manual,Petrol,None,5,5,274,Marrakech,331000.0
+Motorcycle,Benelli,Zafferano,2023,5114,Manual,Electric,Major,2,2,24,Meknes,10000.0
+Car,Suzuki,Swift,2020,121296,Manual,Petrol,None,2,3,288,Marrakech,64000.0
+Car,Peugeot,205,2020,101185,Manual,Diesel,None,1,7,100,Tetouan,34000.0
+Car,Volkswagen,Golf Plus,2018,236799,Manual,Petrol,None,4,2,188,Nador,61000.0
+Car,Fiat,Linea,2017,162193,Automatic,Electric,None,5,3,70,Marrakech,31000.0
+Motorcycle,Sym,Mask,2001,49470,Manual,Electric,Minor,1,2,18,Kenitra,1000.0
+Car,Skoda,Superb,2003,88770,Automatic,Petrol,None,3,7,124,Rabat,28000.0
+Motorcycle,Zontes,T310,2021,235551,Automatic,Electric,None,2,2,13,Fes,8000.0
+Car,Suzuki,Swift,2008,166473,Manual,Petrol,None,5,6,293,Nador,31000.0
+Car,Dacia,Lodgy,2000,285263,Manual,Electric,Minor,5,3,256,Marrakech,6000.0
+Car,Ford,Focus,2024,273225,Automatic,Petrol,None,4,7,80,El Jadida,35000.0
+Car,Suzuki,Vitara,2006,171504,Manual,Electric,None,5,6,193,Kenitra,28000.0
+Motorcycle,Royal Enfield,Interceptor,2008,154892,Automatic,Petrol,None,2,2,20,Marrakech,6000.0
+Car,Suzuki,Celerio,2017,273796,Automatic,Petrol,Major,1,3,177,Nador,23000.0
+Motorcycle,Piaggio,Zip,2003,101949,Manual,Petrol,None,5,2,23,Oujda,5000.0
+Motorcycle,Zontes,ZT310,2000,295198,Manual,Electric,Minor,3,2,16,Marrakech,1000.0
+Car,Citroen,Picasso,2010,151449,Automatic,Electric,Major,3,6,234,Agadir,27000.0
+Car,Peugeot,408,2017,93241,Manual,Diesel,None,3,3,110,Oujda,93000.0
+Car,Toyota,Hiace,2003,25472,Automatic,Diesel,None,5,6,93,Nador,17000.0
+Car,Chevrolet,Captiva,2002,272922,Manual,Diesel,None,2,7,83,Tetouan,14000.0
+Car,Ford,Courier,2022,166725,Automatic,Electric,Minor,1,2,82,Mohammedia,76000.0
+Car,Mitsubishi,ASX,2008,81220,Automatic,Hybrid,None,2,5,255,Marrakech,33000.0
+Car,Opel,Omega,2005,225344,Manual,Hybrid,None,3,5,99,Oujda,13000.0
+Motorcycle,Benelli,Velvet,2025,232583,Automatic,Electric,None,2,2,8,Meknes,6000.0
+Car,Skoda,Roomster,2017,173713,Automatic,Petrol,None,4,3,220,Meknes,83000.0
+Car,Mercedes,GLK,2013,201629,Automatic,Hybrid,Minor,1,6,124,Tangier,530000.0
+Car,Chevrolet,Captiva,2006,108256,Manual,Diesel,None,5,7,259,Nador,13000.0
+Car,Toyota,Land Cruiser,2014,227759,Manual,Diesel,None,3,5,245,Tetouan,70000.0
+Car,Skoda,Karoq,2023,219933,Automatic,Petrol,None,5,3,183,Rabat,107000.0
+Motorcycle,Zontes,T310,2014,88173,Manual,Petrol,None,5,2,19,Safi,6000.0
+Motorcycle,Benelli,125i,2018,258073,Manual,Petrol,Major,2,2,21,El Jadida,3000.0
+Motorcycle,Suzuki,Boulevard,2011,278685,Manual,Electric,Minor,2,2,22,Safi,3000.0
+Motorcycle,Benelli,Tornado,2001,270533,Manual,Petrol,None,2,2,15,El Jadida,2000.0
+Car,Fiat,Grande Punto,2012,257323,Automatic,Diesel,None,1,2,142,Tangier,21000.0
+Car,Mercedes,E200,2001,117389,Automatic,Hybrid,Minor,3,2,245,Nador,367000.0
+Car,Mitsubishi,ASX,2011,222631,Automatic,Hybrid,None,2,5,267,Mohammedia,22000.0
+Motorcycle,KTM,690 SMC,2018,132320,Manual,Electric,Minor,3,2,8,Oujda,10000.0
+Car,Citroen,Berlingo,2019,142132,Manual,Electric,None,5,6,153,Fes,33000.0
+Car,Volkswagen,Passat,2006,183847,Manual,Diesel,None,5,2,292,Agadir,38000.0
+Motorcycle,Piaggio,Typhoon,2000,74794,Automatic,Petrol,None,5,2,10,Tetouan,4000.0
+Car,Kia,Carens,2010,12768,Manual,Petrol,None,4,3,158,Oujda,42000.0
+Motorcycle,MBK,Skyliner,2015,255916,Manual,Petrol,None,1,2,15,El Jadida,3000.0
+Car,Seat,Cordoba,2002,92229,Automatic,Hybrid,None,2,4,294,Beni Mellal,36000.0
+Motorcycle,Aprilia,Atlantic,2003,144468,Automatic,Petrol,None,4,2,23,Tangier,4000.0
+Car,Chevrolet,Epica,2008,210284,Manual,Diesel,None,1,7,115,Oujda,22000.0
+Motorcycle,Yamaha,Majesty,2007,242796,Manual,Electric,None,1,2,9,Marrakech,6000.0
+Car,Kia,Soul,2011,162270,Automatic,Petrol,Minor,4,6,126,Casablanca,18000.0
+Car,Ford,Fusion,2015,232812,Automatic,Diesel,None,2,6,210,Mohammedia,46000.0
+Car,Seat,Inca,2011,185820,Automatic,Diesel,Minor,2,7,97,Casablanca,13000.0
+Car,Dacia,Logan,2006,227210,Manual,Electric,None,5,2,184,Fes,21000.0
+Motorcycle,Kawasaki,Versys,2003,292922,Manual,Electric,None,2,2,20,Tangier,2000.0
+Car,Ford,Transit,2020,33751,Automatic,Diesel,None,1,2,138,Safi,146000.0
+Car,Mercedes,220,2021,222908,Automatic,Diesel,None,4,7,135,Casablanca,1644000.0
+Motorcycle,Kymco,Agility,2015,161068,Manual,Petrol,Minor,2,2,14,Taza,4000.0
+Car,Suzuki,Ignis,2008,129587,Manual,Diesel,None,5,4,254,Safi,23000.0
+Motorcycle,Piaggio,Beverly,2010,43443,Manual,Petrol,None,4,2,19,Meknes,6000.0
+Motorcycle,Benelli,Caffenero,2003,171107,Manual,Electric,Major,3,2,21,Oujda,1000.0
+Car,Citroen,C-Elysee,2018,49120,Automatic,Petrol,Minor,2,6,147,El Jadida,107000.0
+Motorcycle,MBK,Booster,2018,173259,Manual,Electric,Minor,4,2,9,El Jadida,2000.0
+Motorcycle,Benelli,Tornado,2001,290197,Manual,Electric,Minor,1,2,22,El Jadida,1000.0
+Car,Hyundai,Elantra,2014,198220,Manual,Electric,None,2,7,169,Taza,34000.0
+Car,Renault,Kangoo,2004,252318,Automatic,Hybrid,None,1,3,75,Beni Mellal,9000.0
+Car,Peugeot,405,2001,34347,Automatic,Hybrid,None,2,5,217,Casablanca,42000.0
+Car,Skoda,Fabia,2011,239540,Manual,Petrol,None,3,4,236,Mohammedia,34000.0
+Car,Ford,Ka,2016,205049,Automatic,Petrol,None,1,7,161,Oujda,57000.0
+Motorcycle,Lifan,X-Ride,2019,214055,Manual,Electric,None,2,2,8,Oujda,4000.0
+Car,Mercedes,200,2014,23019,Automatic,Diesel,None,3,7,295,Agadir,1252000.0
+Motorcycle,Aprilia,Sportcity,2010,28959,Automatic,Electric,None,4,2,22,Nador,10000.0
+Car,Nissan,Patrol,2001,139108,Automatic,Electric,Minor,4,6,149,Nador,18000.0
+Car,Ford,Fiesta,2007,201516,Manual,Diesel,Minor,3,2,154,Oujda,12000.0
+Motorcycle,Keeway,Cityblade,2014,231617,Manual,Petrol,None,5,2,9,Tangier,2000.0
+Car,Peugeot,306,2025,252223,Automatic,Hybrid,None,2,7,207,Taza,62000.0
+Car,Seat,Ibiza,2013,57250,Automatic,Petrol,None,2,5,238,Safi,53000.0
+Car,Kia,Soul,2003,127101,Manual,Diesel,Major,3,7,128,Tetouan,6000.0
+Car,Nissan,Navara,2009,113670,Automatic,Petrol,Minor,2,4,201,Beni Mellal,49000.0
+Motorcycle,Sym,X-Pro,2024,153198,Automatic,Petrol,None,3,2,15,Tangier,8000.0
+Car,Skoda,Karoq,2006,280491,Automatic,Hybrid,None,4,5,164,Safi,30000.0
+Car,Hyundai,i20,2002,108295,Automatic,Hybrid,None,1,4,216,Meknes,29000.0
+Car,Seat,Altea,2003,115671,Manual,Diesel,None,1,2,169,El Jadida,32000.0
+Motorcycle,Sym,Jet,2008,20565,Manual,Electric,Minor,3,2,16,El Jadida,3000.0
+Motorcycle,Bajaj,Avenger,2015,255553,Manual,Electric,Major,2,2,23,Meknes,2000.0
+Car,Ford,EcoSport,2016,103003,Manual,Hybrid,None,5,4,250,Agadir,93000.0
+Car,Volkswagen,Bora,2005,274604,Automatic,Electric,None,2,2,160,Rabat,24000.0
+Car,Dacia,Logan,2025,199140,Manual,Petrol,None,3,2,210,Casablanca,43000.0
+Car,Mitsubishi,Lancer,2024,91323,Manual,Electric,None,1,2,264,Kenitra,129000.0
+Car,Dacia,Stepway,2007,191761,Automatic,Hybrid,None,4,3,289,Rabat,20000.0
+Car,Fiat,Siena,2022,136300,Automatic,Hybrid,None,2,5,158,Fes,67000.0
+Motorcycle,Honda,PCX125,2008,106668,Automatic,Petrol,None,3,2,23,Fes,4000.0
+Car,Volkswagen,Polo,2005,110331,Manual,Petrol,None,1,5,121,Oujda,21000.0
+Car,Chevrolet,Captiva,2022,193526,Automatic,Electric,None,3,6,270,Rabat,114000.0
+Car,Kia,Optima,2009,152432,Automatic,Hybrid,None,3,4,210,Khouribga,44000.0
+Car,Toyota,Yaris,2003,209913,Manual,Diesel,None,2,7,152,Agadir,32000.0
+Car,Dacia,Lodgy,2015,109802,Automatic,Petrol,None,3,4,94,Nador,41000.0
+Car,Peugeot,207,2006,298650,Manual,Hybrid,None,3,5,124,Marrakech,27000.0
+Car,Dacia,Lodgy,2017,91861,Manual,Hybrid,Minor,2,6,186,Tetouan,30000.0
+Car,Seat,Inca,2008,293378,Manual,Diesel,Minor,2,5,258,Casablanca,16000.0
+Car,Kia,Rio,2005,229257,Manual,Hybrid,None,5,4,106,Meknes,7000.0
+Car,Citroen,C4,2006,266684,Automatic,Hybrid,Major,3,5,75,Safi,17000.0
+Car,Suzuki,Baleno,2022,200137,Automatic,Petrol,None,3,3,224,Meknes,60000.0
+Car,Toyota,Hiace,2000,255857,Manual,Hybrid,None,1,5,79,Oujda,6000.0
+Motorcycle,Zontes,G1,2024,144709,Automatic,Petrol,None,5,2,24,Kenitra,8000.0
+Car,Renault,Symbol,2014,172193,Automatic,Diesel,None,2,2,261,Fes,55000.0
+Car,Nissan,Micra,2006,132058,Automatic,Hybrid,Minor,5,5,76,Khouribga,22000.0
+Car,Opel,Corsa,2003,25717,Automatic,Petrol,None,3,5,262,Rabat,39000.0
+Motorcycle,Vespa,GTV,2000,184634,Manual,Petrol,None,1,2,9,Taza,3000.0
+Motorcycle,KTM,690 SMC,2005,201562,Manual,Petrol,None,3,2,13,Meknes,3000.0
+Motorcycle,Suzuki,Intruder,2019,292736,Automatic,Petrol,None,4,2,10,Khouribga,3000.0
+Motorcycle,Royal Enfield,Continental GT,2010,287781,Manual,Petrol,Minor,1,2,11,Fes,4000.0
+Car,Toyota,Hilux,2018,147191,Automatic,Petrol,None,5,6,104,Agadir,81000.0
+Car,Suzuki,Alto,2014,206856,Automatic,Hybrid,Minor,5,7,283,Nador,16000.0
+Car,Kia,Rio,2023,11916,Automatic,Electric,None,1,5,124,Rabat,58000.0
+Car,Peugeot,205,2017,258968,Automatic,Electric,None,4,6,276,Taza,72000.0
+Car,Mitsubishi,Space Star,2007,235830,Manual,Petrol,Minor,5,2,206,Meknes,32000.0
+Car,Toyota,Auris,2007,178647,Manual,Diesel,None,2,6,113,Tangier,15000.0
+Car,Skoda,Octavia,2014,103191,Manual,Diesel,Minor,5,2,156,Meknes,47000.0
+Car,Renault,Symbol,2010,151530,Manual,Diesel,Minor,2,7,92,Tetouan,29000.0
+Car,Mercedes,E220,2003,154292,Manual,Electric,None,3,2,176,Rabat,273000.0
+Car,Opel,Zafira,2022,162367,Manual,Hybrid,None,3,7,172,Oujda,89000.0
+Car,Opel,Kadett,2018,165853,Automatic,Petrol,None,2,4,166,Beni Mellal,57000.0
+Motorcycle,BMW,G310GS,2023,33110,Automatic,Electric,None,3,2,20,Tangier,23000.0
+Car,Toyota,Yaris,2000,258083,Manual,Diesel,Minor,1,7,267,Beni Mellal,9000.0
+Car,Chevrolet,Aveo,2020,247745,Automatic,Electric,Major,1,6,201,Mohammedia,50000.0
+Car,Ford,Escort,2017,144776,Automatic,Diesel,None,2,7,81,Safi,63000.0
+Car,Dacia,Duster,2006,171035,Automatic,Hybrid,None,2,6,76,Meknes,24000.0
+Motorcycle,Royal Enfield,Bullet 350,2009,53437,Automatic,Electric,None,1,2,20,Tangier,5000.0
+Car,Opel,Astra,2017,258930,Automatic,Hybrid,Minor,2,7,70,Meknes,23000.0
+Motorcycle,Peugeot,Ludix,2012,196689,Automatic,Petrol,Major,4,2,17,Taza,2000.0
+Motorcycle,Bajaj,Boxer,2009,293660,Manual,Petrol,None,2,2,11,Safi,2000.0
+Car,Nissan,Almera,2013,278148,Automatic,Hybrid,Minor,2,4,82,Oujda,41000.0
+Motorcycle,Suzuki,V-Strom,2013,69840,Automatic,Electric,None,4,2,22,Casablanca,5000.0
+Car,Peugeot,206,2021,176469,Manual,Electric,Minor,5,4,146,Tetouan,76000.0
+Car,Toyota,Verso,2002,215893,Automatic,Hybrid,None,2,5,277,Rabat,14000.0
+Car,Kia,Sportage,2006,49854,Automatic,Diesel,None,4,2,207,Rabat,30000.0
+Motorcycle,Keeway,RKV,2012,9486,Automatic,Electric,Major,5,2,16,Meknes,2000.0
+Car,Hyundai,Getz,2008,250627,Automatic,Diesel,None,5,5,100,Meknes,16000.0
+Car,Ford,Focus,2022,288818,Manual,Diesel,None,1,4,123,Tangier,46000.0
+Car,Toyota,Prius,2023,121717,Manual,Electric,Major,4,7,218,Fes,46000.0
+Car,Nissan,Sunny,2017,116667,Automatic,Diesel,None,5,7,110,Marrakech,65000.0
+Car,Opel,Meriva,2021,94363,Automatic,Diesel,None,4,4,253,Kenitra,105000.0
+Car,Suzuki,Ignis,2001,218953,Automatic,Petrol,None,2,3,184,Beni Mellal,11000.0
+Car,Volkswagen,Jetta,2007,63413,Manual,Petrol,None,5,5,290,Tangier,57000.0
+Motorcycle,Suzuki,Boulevard,2016,187127,Automatic,Petrol,None,1,2,8,Khouribga,5000.0
+Motorcycle,KTM,125 Duke,2022,41431,Manual,Petrol,Major,2,2,22,Beni Mellal,13000.0
+Car,Dacia,Duster,2004,74517,Automatic,Electric,None,1,5,164,Rabat,13000.0
+Motorcycle,BMW,C400X,2002,205695,Manual,Electric,Minor,5,2,21,Casablanca,3000.0
+Car,Citroen,C3,2018,181273,Automatic,Electric,None,1,4,274,Safi,64000.0
+Motorcycle,Royal Enfield,Hunter,2025,257150,Automatic,Electric,None,2,2,10,Meknes,14000.0
+Car,Skoda,Felicia,2000,293561,Automatic,Electric,None,1,3,157,Fes,21000.0
+Car,Mitsubishi,Outlander,2020,248841,Manual,Diesel,Major,3,6,203,Fes,43000.0
+Car,Mercedes,CLA,2023,260826,Automatic,Petrol,None,3,2,286,Casablanca,1979000.0
+Car,Skoda,Octavia,2004,233815,Automatic,Diesel,None,3,2,136,Agadir,13000.0
+Motorcycle,Kymco,People,2017,199179,Manual,Petrol,None,4,2,21,Taza,4000.0
+Motorcycle,Vespa,ET4,2017,111355,Manual,Petrol,None,3,2,24,Khouribga,12000.0
+Car,Skoda,Yeti,2009,163719,Automatic,Hybrid,Major,2,2,189,Safi,11000.0
+Car,Citroen,Xsara,2024,212166,Automatic,Hybrid,None,4,6,167,Khouribga,83000.0
+Car,Opel,Omega,2006,53446,Automatic,Diesel,Minor,2,5,186,Fes,31000.0
+Car,Nissan,Primera,2000,246772,Automatic,Diesel,Minor,2,2,187,Beni Mellal,11000.0
+Car,Suzuki,Ignis,2013,88155,Automatic,Hybrid,None,1,6,138,Beni Mellal,62000.0
+Car,Mitsubishi,Pajero,2013,107387,Automatic,Diesel,None,4,6,249,Casablanca,32000.0
+Motorcycle,MBK,Flame,2023,221066,Manual,Petrol,Major,3,2,9,Tetouan,6000.0
+Car,Kia,K2700,2024,33282,Automatic,Electric,None,2,2,195,Agadir,51000.0
+Car,Renault,Laguna,2024,222394,Manual,Electric,None,2,5,135,Nador,41000.0
+Car,Mercedes,C200,2004,126438,Automatic,Petrol,None,3,3,172,Tangier,384000.0
+Car,Skoda,Octavia,2002,157229,Automatic,Electric,None,1,4,289,Safi,24000.0
+Car,Skoda,Fabia,2022,201662,Manual,Diesel,None,4,5,204,Taza,105000.0
+Motorcycle,Keeway,Cityblade,2012,111894,Manual,Electric,None,1,2,22,Oujda,4000.0
+Car,Seat,Toledo,2009,73848,Automatic,Petrol,None,2,6,121,Taza,65000.0
+Car,Toyota,Camry,2022,295397,Manual,Hybrid,None,2,6,199,Nador,52000.0
+Car,Mercedes,C300,2013,105846,Automatic,Petrol,Major,2,5,227,Kenitra,574000.0
+Motorcycle,MBK,Booster,2006,157230,Automatic,Petrol,None,5,2,18,El Jadida,2000.0
+Motorcycle,Suzuki,Address,2009,297994,Manual,Electric,None,4,2,21,Kenitra,2000.0
+Motorcycle,Vespa,GT,2012,201410,Automatic,Petrol,None,2,2,15,Nador,6000.0
+Car,Mitsubishi,Pajero,2025,180314,Manual,Petrol,Major,4,4,284,Kenitra,60000.0
+Car,Nissan,Primera,2003,113279,Manual,Hybrid,None,5,7,104,Tangier,34000.0
+Car,Opel,Omega,2007,227678,Automatic,Electric,None,4,2,117,Beni Mellal,9000.0
+Car,Nissan,X-Trail,2008,256090,Automatic,Electric,Minor,1,5,292,Beni Mellal,28000.0
+Motorcycle,Honda,CBF125,2023,49633,Automatic,Petrol,None,1,2,21,Oujda,19000.0
+Car,Skoda,Roomster,2015,282833,Automatic,Diesel,Major,5,6,160,Marrakech,16000.0
+Motorcycle,Yamaha,Crypton,2012,66475,Automatic,Petrol,None,5,2,14,Safi,7000.0
+Motorcycle,Suzuki,Boulevard,2003,206036,Automatic,Electric,Major,1,2,17,Fes,1000.0
+Car,Skoda,Yeti,2012,200064,Manual,Electric,None,2,5,187,Kenitra,44000.0
+Car,Volkswagen,Polo,2008,296840,Manual,Petrol,Major,4,4,173,Marrakech,17000.0
+Car,Suzuki,Alto,2009,232992,Automatic,Electric,None,5,5,143,El Jadida,27000.0
+Car,Peugeot,306,2024,66808,Automatic,Hybrid,None,4,2,133,Khouribga,93000.0
+Car,Fiat,Doblo,2017,145124,Automatic,Electric,Minor,3,3,91,Oujda,40000.0
+Motorcycle,Yamaha,DTR125,2001,269644,Automatic,Electric,None,4,2,14,Meknes,3000.0
+Car,Citroen,C2,2024,121305,Manual,Petrol,Major,1,2,144,Oujda,44000.0
+Car,Toyota,Yaris,2014,199620,Manual,Diesel,None,3,2,120,Taza,36000.0
+Car,Skoda,Rapid,2006,2075,Automatic,Diesel,Major,4,4,293,Fes,15000.0
+Motorcycle,KTM,200 Duke,2012,272634,Automatic,Petrol,None,4,2,13,Rabat,8000.0
+Motorcycle,Zontes,T310,2021,194266,Manual,Petrol,None,2,2,16,Marrakech,9000.0
+Car,Hyundai,Santa Fe,2018,104357,Automatic,Electric,None,2,6,153,El Jadida,110000.0
+Car,Suzuki,Jimny,2010,296276,Manual,Petrol,None,3,4,121,Oujda,21000.0
+Car,Dacia,Lodgy,2019,271355,Automatic,Diesel,None,4,4,167,Tangier,38000.0
+Car,Toyota,Auris,2016,134095,Automatic,Electric,Major,2,7,127,Beni Mellal,41000.0
+Car,Peugeot,106,2008,212536,Automatic,Electric,None,3,4,171,El Jadida,40000.0
+Car,Volkswagen,Caddy,2003,282236,Automatic,Electric,None,3,4,150,Mohammedia,9000.0
+Motorcycle,KTM,RC390,2015,159978,Automatic,Petrol,Major,3,2,14,Tangier,7000.0
+Car,Toyota,Verso,2006,262314,Manual,Hybrid,None,5,4,86,Khouribga,28000.0
+Car,Peugeot,308,2003,69119,Manual,Diesel,Minor,4,5,183,Rabat,23000.0
+Car,Citroen,Xsara,2019,63463,Manual,Electric,None,3,6,144,Beni Mellal,112000.0
+Motorcycle,Royal Enfield,Bullet 350,2013,62079,Automatic,Petrol,Minor,5,2,15,Tetouan,6000.0
+Car,Fiat,500,2012,219661,Automatic,Petrol,None,1,2,257,Taza,24000.0
+Motorcycle,Piaggio,Zip,2016,284069,Automatic,Electric,None,5,2,20,Fes,7000.0
+Motorcycle,Vespa,GT,2010,76427,Manual,Petrol,Minor,3,2,24,Khouribga,5000.0
+Car,Mercedes,220,2015,82506,Automatic,Petrol,None,2,3,232,El Jadida,1314000.0
+Car,Mitsubishi,Colt,2014,84320,Manual,Electric,Major,5,6,243,Marrakech,23000.0
+Car,Toyota,RAV4,2009,109029,Manual,Petrol,None,2,7,129,Fes,21000.0
+Car,Suzuki,SX4,2024,272392,Automatic,Diesel,None,2,3,267,Kenitra,55000.0
+Motorcycle,Keeway,Cityblade,2011,266916,Manual,Petrol,None,4,2,18,El Jadida,2000.0
+Motorcycle,Vespa,GT,2014,127504,Manual,Petrol,None,5,2,11,Rabat,7000.0
+Motorcycle,Vespa,LX,2010,30619,Automatic,Petrol,None,4,2,20,Fes,9000.0
+Car,Suzuki,Alto,2020,235957,Automatic,Diesel,None,4,2,282,Agadir,50000.0
+Motorcycle,Benelli,125i,2001,138873,Manual,Electric,None,3,2,15,Casablanca,2000.0
+Car,Dacia,Stepway,2017,93841,Automatic,Diesel,None,4,6,98,Rabat,62000.0
+Car,Mercedes,250,2006,14004,Automatic,Hybrid,None,5,7,280,Tetouan,669000.0
+Car,Hyundai,Getz,2016,16204,Automatic,Hybrid,Minor,3,7,146,Casablanca,56000.0
+Motorcycle,Peugeot,Speedfight,2010,262818,Manual,Petrol,None,5,2,18,Marrakech,3000.0
+Car,Hyundai,i20,2012,18,Manual,Electric,None,2,4,190,Fes,96000.0
+Car,Seat,Toledo,2006,45791,Manual,Electric,None,1,5,81,Marrakech,45000.0
+Car,Suzuki,Vitara,2003,227935,Automatic,Diesel,None,1,4,193,Kenitra,15000.0
+Car,Mercedes,GLK,2006,85310,Automatic,Hybrid,Minor,1,2,260,Marrakech,472000.0
+Car,Nissan,X-Trail,2011,77246,Manual,Diesel,Major,5,4,282,Meknes,32000.0
+Motorcycle,Piaggio,Fly,2011,136086,Automatic,Petrol,None,5,2,16,Fes,6000.0
+Motorcycle,Zontes,G1,2010,127719,Manual,Electric,None,1,2,17,Khouribga,4000.0
+Car,Citroen,C-Elysee,2011,247090,Automatic,Diesel,None,2,4,162,Beni Mellal,43000.0
+Motorcycle,Suzuki,Address,2020,182911,Manual,Electric,None,2,2,16,Meknes,5000.0
+Car,Volkswagen,Golf,2016,276267,Automatic,Diesel,Minor,5,5,86,Oujda,23000.0
+Car,Opel,Astra,2012,91720,Automatic,Electric,None,3,4,216,Fes,26000.0
+Car,Fiat,Palio,2000,36697,Manual,Petrol,None,2,5,241,Beni Mellal,33000.0
+Motorcycle,Kawasaki,Vulcan,2018,222188,Manual,Electric,Major,1,2,19,Taza,7000.0
+Motorcycle,Benelli,165s,2016,22913,Manual,Petrol,None,3,2,13,Taza,7000.0
+Car,Chevrolet,Cruze,2002,103055,Manual,Diesel,Minor,2,7,177,Rabat,30000.0
+Car,Citroen,C3,2017,80557,Manual,Diesel,None,1,7,90,Oujda,91000.0
+Car,Suzuki,SX4,2010,15676,Manual,Petrol,Minor,5,6,226,Safi,22000.0
+Car,Peugeot,404,2007,33027,Manual,Diesel,None,2,4,78,Mohammedia,31000.0
+Car,Nissan,Note,2021,30832,Manual,Hybrid,None,3,3,168,Safi,158000.0
+Car,Seat,Toledo,2020,265426,Manual,Electric,None,2,6,119,Meknes,94000.0
+Motorcycle,Lifan,V16,2014,209507,Manual,Electric,None,1,2,15,Khouribga,2000.0
+Motorcycle,Zontes,GK350,2008,4832,Automatic,Petrol,Minor,4,2,16,Mohammedia,2000.0
+Car,Citroen,DS4,2001,231820,Automatic,Diesel,None,2,2,274,Fes,10000.0
+Motorcycle,Yamaha,YZF-R125,2000,178291,Automatic,Petrol,None,3,2,13,Oujda,2000.0
+Car,Peugeot,2008,2002,241598,Automatic,Hybrid,Major,1,4,220,Tangier,11000.0
+Car,Toyota,Auris,2024,100631,Automatic,Petrol,None,1,3,202,Beni Mellal,161000.0
+Motorcycle,KTM,RC125,2019,205702,Manual,Electric,None,3,2,23,Khouribga,11000.0
+Car,Fiat,Doblo,2002,103043,Automatic,Diesel,None,4,3,150,Marrakech,11000.0
+Car,Dacia,Logan,2015,153343,Automatic,Diesel,Minor,5,5,171,Beni Mellal,14000.0
+Motorcycle,Piaggio,Medley,2019,155750,Manual,Petrol,None,3,2,11,Rabat,11000.0
+Car,Volkswagen,Bora,2016,236917,Automatic,Petrol,None,2,7,248,Nador,88000.0
+Car,Mitsubishi,Colt,2004,58030,Manual,Diesel,None,1,6,148,Safi,57000.0
+Motorcycle,Sym,Crox,2004,69294,Manual,Electric,Minor,1,2,15,Safi,2000.0
+Motorcycle,Yamaha,YZF-R125,2000,163066,Manual,Petrol,None,1,2,20,Tangier,3000.0
+Motorcycle,Honda,CBR125R,2009,140923,Manual,Petrol,Minor,1,2,24,Safi,8000.0
+Motorcycle,Zontes,G1,2024,19676,Automatic,Petrol,None,5,2,18,Khouribga,10000.0
+Motorcycle,Peugeot,Vivacity,2011,35857,Manual,Electric,None,4,2,9,Taza,4000.0
+Car,Suzuki,Celerio,2017,219203,Manual,Petrol,None,4,2,290,Agadir,73000.0
+Car,Toyota,Hiace,2012,85763,Manual,Electric,None,1,6,242,Casablanca,46000.0
+Car,Kia,Rio,2016,187261,Manual,Petrol,None,1,2,143,El Jadida,61000.0
+Motorcycle,KTM,125 Duke,2024,214512,Manual,Petrol,Minor,3,2,19,Casablanca,10000.0
+Motorcycle,Lifan,X-Ride,2001,260566,Automatic,Electric,None,4,2,17,Tangier,1000.0
+Car,Toyota,Avensis,2011,48063,Automatic,Electric,None,5,5,251,Agadir,32000.0
+Motorcycle,Honda,Forza,2019,280371,Automatic,Petrol,None,5,2,17,Meknes,8000.0
+Car,Nissan,Qashqai,2023,189340,Automatic,Hybrid,Major,2,7,154,Marrakech,60000.0
+Motorcycle,Royal Enfield,Classic 350,2017,145199,Manual,Petrol,None,3,2,17,Agadir,9000.0
+Motorcycle,MBK,Nitro,2020,277870,Automatic,Electric,None,2,2,18,Safi,4000.0
+Car,Mercedes,190,2025,250490,Manual,Petrol,None,5,2,297,Mohammedia,2095000.0
+Motorcycle,Kawasaki,Ninja 125,2002,63703,Automatic,Electric,None,1,2,10,Taza,5000.0
+Car,Chevrolet,Captiva,2010,161646,Manual,Petrol,None,5,6,214,Mohammedia,45000.0
+Car,Fiat,Doblo,2022,265710,Automatic,Electric,None,4,4,258,Taza,25000.0
+Car,Seat,Ateca,2005,111179,Automatic,Petrol,None,1,6,149,Agadir,37000.0
+Car,Ford,Fiesta,2003,216214,Manual,Electric,None,1,7,283,Tetouan,24000.0
+Car,Volkswagen,Caddy,2025,74755,Automatic,Hybrid,None,3,3,257,Tangier,160000.0
+Motorcycle,Vespa,Primavera,2000,117280,Automatic,Petrol,None,2,2,21,El Jadida,3000.0
+Car,Suzuki,Alto,2020,223876,Automatic,Hybrid,None,1,2,268,Tangier,32000.0
+Car,Citroen,Picasso,2000,22214,Manual,Petrol,Major,2,4,192,Meknes,24000.0
+Motorcycle,Vespa,Sprint,2011,235334,Manual,Petrol,None,2,2,8,Oujda,7000.0
+Car,Seat,Leon,2007,186619,Automatic,Electric,None,5,7,78,Nador,23000.0
+Car,Fiat,Siena,2015,190188,Automatic,Hybrid,None,2,2,267,Khouribga,68000.0
+Motorcycle,Piaggio,Beverly,2018,20471,Automatic,Electric,None,5,2,22,Marrakech,10000.0
+Motorcycle,Aprilia,Scarabeo,2019,170528,Manual,Petrol,None,4,2,19,Casablanca,16000.0
+Car,Opel,Insignia,2015,241844,Manual,Hybrid,None,4,3,123,Khouribga,49000.0
+Car,Chevrolet,Spark,2012,163104,Automatic,Hybrid,None,1,4,153,Taza,21000.0
+Car,Seat,Arona,2012,145433,Automatic,Hybrid,Minor,3,7,203,Khouribga,35000.0
+Car,Mercedes,CLA,2013,91195,Manual,Petrol,Minor,3,3,229,Taza,1108000.0
+Motorcycle,Kawasaki,Versys,2020,266653,Automatic,Electric,Major,4,2,18,Fes,6000.0
+Car,Kia,Sorento,2021,42991,Automatic,Hybrid,None,2,4,129,Rabat,66000.0
+Motorcycle,Royal Enfield,Classic 350,2015,199566,Automatic,Petrol,Major,2,2,13,Khouribga,6000.0
+Car,Renault,Clio,2010,145552,Manual,Hybrid,None,5,2,97,Kenitra,32000.0
+Car,Mitsubishi,Colt,2008,54738,Manual,Petrol,None,5,5,190,Nador,59000.0
+Car,Volkswagen,Caddy,2013,95774,Automatic,Diesel,Minor,1,5,242,Kenitra,79000.0
+Car,Mitsubishi,Lancer,2025,183995,Manual,Electric,Major,2,3,96,Safi,97000.0
+Car,Toyota,RAV4,2002,120662,Automatic,Diesel,None,5,3,191,Beni Mellal,12000.0
+Car,Kia,K2700,2021,3342,Manual,Hybrid,None,1,7,124,Taza,144000.0
+Car,Renault,Scenic,2012,284598,Automatic,Electric,Minor,1,4,191,Nador,30000.0
+Motorcycle,Honda,CB125F,2023,214389,Manual,Petrol,None,3,2,8,Mohammedia,16000.0
+Motorcycle,Aprilia,Atlantic,2007,190120,Manual,Petrol,None,3,2,12,Meknes,5000.0
+Car,Dacia,Lodgy,2013,139403,Automatic,Electric,None,2,6,144,Agadir,54000.0
+Car,Opel,Meriva,2022,52230,Automatic,Petrol,Minor,1,5,167,Tetouan,130000.0
+Car,Hyundai,Tucson,2009,37379,Manual,Hybrid,None,5,5,71,Mohammedia,33000.0
+Motorcycle,Lifan,X-Ride,2012,66662,Automatic,Electric,None,5,2,11,Beni Mellal,2000.0
+Motorcycle,Kawasaki,Ninja 125,2013,212831,Automatic,Electric,None,3,2,17,Casablanca,9000.0
+Motorcycle,Royal Enfield,Himalayan,2006,86465,Manual,Electric,None,5,2,11,El Jadida,4000.0
+Car,Fiat,Punto,2003,216086,Automatic,Electric,None,3,5,175,Marrakech,21000.0
+Motorcycle,Yamaha,DTR125,2011,215239,Manual,Electric,None,4,2,22,Meknes,7000.0
+Car,Seat,Ibiza,2024,111000,Manual,Petrol,None,1,4,198,Beni Mellal,149000.0
+Car,Renault,Talisman,2004,81596,Manual,Diesel,None,4,7,265,Meknes,12000.0
+Car,Peugeot,301,2010,42594,Automatic,Electric,Major,1,7,101,Meknes,51000.0
+Car,Hyundai,Santa Fe,2000,190116,Automatic,Diesel,None,3,5,162,Agadir,8000.0
+Car,Suzuki,SX4,2001,262321,Manual,Petrol,None,3,6,95,Taza,15000.0
+Car,Kia,Picanto,2000,106499,Manual,Hybrid,None,5,7,240,Mohammedia,11000.0
+Car,Ford,Escort,2000,221207,Automatic,Diesel,None,5,7,298,El Jadida,15000.0
+Car,Suzuki,Ignis,2010,132341,Manual,Diesel,Minor,1,7,186,Oujda,17000.0
+Car,Opel,Meriva,2005,298550,Automatic,Hybrid,None,2,7,252,Nador,15000.0
+Motorcycle,Suzuki,Boulevard,2004,122206,Automatic,Petrol,None,5,2,12,Casablanca,2000.0
+Car,Dacia,Dokker,2004,71082,Automatic,Electric,None,5,5,99,Rabat,20000.0
+Motorcycle,Benelli,165s,2005,79149,Manual,Petrol,None,4,2,10,Agadir,3000.0
+Car,Citroen,C2,2007,80714,Manual,Petrol,Minor,4,3,256,El Jadida,33000.0
+Car,Chevrolet,Epica,2020,106564,Manual,Hybrid,None,1,5,203,Beni Mellal,42000.0
+Car,Renault,Captur,2015,16227,Manual,Petrol,Minor,2,5,291,Beni Mellal,43000.0
+Car,Kia,Optima,2014,70343,Automatic,Petrol,None,2,5,243,Marrakech,63000.0
+Motorcycle,Yamaha,YZF-R125,2011,177268,Automatic,Petrol,Major,4,2,15,Beni Mellal,4000.0
+Car,Nissan,Juke,2003,253248,Manual,Petrol,None,3,3,206,Nador,11000.0
+Car,Suzuki,Alto,2006,102785,Manual,Diesel,None,3,7,140,Mohammedia,32000.0
+Car,Volkswagen,Golf Plus,2010,134178,Automatic,Electric,Minor,4,4,224,Agadir,14000.0
+Car,Ford,Mondeo,2022,123746,Automatic,Petrol,None,5,7,281,Beni Mellal,114000.0
+Motorcycle,Sym,Orbit,2002,62908,Automatic,Electric,None,5,2,17,El Jadida,2000.0
+Car,Skoda,Fabia,2017,133942,Manual,Hybrid,Major,4,2,206,Casablanca,24000.0
+Car,Peugeot,206,2013,64176,Automatic,Petrol,None,4,5,157,Tangier,73000.0
+Car,Hyundai,Accent,2000,57404,Manual,Hybrid,Minor,3,7,100,Kenitra,22000.0
+Motorcycle,Zontes,ZT350,2017,111027,Automatic,Petrol,Minor,2,2,17,Agadir,7000.0
+Motorcycle,Bajaj,Dominar,2022,50556,Manual,Petrol,None,5,2,8,El Jadida,5000.0
+Motorcycle,KTM,690 SMC,2016,258314,Automatic,Electric,Major,1,2,24,Safi,9000.0
+Car,Fiat,Palio,2002,53550,Automatic,Hybrid,None,2,5,149,Marrakech,34000.0
+Motorcycle,KTM,Adventure 390,2012,29086,Automatic,Electric,None,1,2,14,El Jadida,17000.0
+Car,Chevrolet,Orlando,2006,270186,Automatic,Diesel,None,4,4,79,Beni Mellal,22000.0
+Car,Suzuki,Vitara,2017,42764,Manual,Petrol,Minor,2,6,220,Taza,58000.0
+Car,Dacia,Lodgy,2017,62791,Manual,Diesel,None,2,7,274,Casablanca,61000.0
+Car,Fiat,Siena,2020,29896,Manual,Petrol,None,3,5,112,Beni Mellal,43000.0
+Motorcycle,Honda,CBR125R,2018,182269,Manual,Electric,None,1,2,13,Safi,13000.0
+Car,Hyundai,Elantra,2015,187612,Automatic,Hybrid,Minor,3,3,71,Oujda,30000.0
+Car,Volkswagen,Jetta,2009,199621,Manual,Petrol,None,2,7,273,Tetouan,30000.0
+Car,Suzuki,Baleno,2023,194830,Manual,Hybrid,None,4,2,162,Oujda,52000.0
+Car,Ford,Sierra,2008,142512,Automatic,Electric,None,1,6,283,Mohammedia,37000.0
+Car,Mercedes,190,2011,17394,Automatic,Electric,None,3,7,143,Marrakech,1110000.0
+Car,Suzuki,Vitara,2009,185137,Automatic,Petrol,None,2,6,182,Marrakech,28000.0
+Motorcycle,Royal Enfield,Continental GT,2002,50887,Automatic,Electric,None,1,2,10,Khouribga,4000.0
+Car,Citroen,Saxo,2010,67714,Manual,Diesel,None,2,2,94,El Jadida,42000.0
+Car,Renault,Kadjar,2012,3988,Manual,Petrol,Major,5,6,116,Rabat,17000.0
+Car,Fiat,Linea,2000,270383,Automatic,Hybrid,None,1,3,251,Tangier,13000.0
+Motorcycle,Kawasaki,KLR,2016,96362,Automatic,Electric,None,4,2,23,Khouribga,10000.0
+Motorcycle,Sym,Orbit,2025,117126,Manual,Petrol,None,1,2,20,Agadir,6000.0
+Car,Fiat,Tipo,2019,235960,Automatic,Diesel,None,2,2,173,Oujda,22000.0
+Car,Opel,Zafira,2024,249920,Manual,Electric,Minor,4,2,202,Tetouan,97000.0
+Car,Chevrolet,Spark,2016,137899,Automatic,Petrol,Minor,1,6,237,Kenitra,31000.0
+Car,Hyundai,Tucson,2022,129872,Automatic,Diesel,None,4,3,200,Marrakech,139000.0
+Car,Peugeot,307,2012,218321,Manual,Petrol,None,4,7,251,Khouribga,28000.0
+Motorcycle,Kymco,Downtown,2022,214330,Automatic,Electric,Minor,2,2,13,Nador,5000.0
+Car,Suzuki,Swift,2024,165502,Automatic,Diesel,Major,3,2,168,Fes,52000.0
+Motorcycle,Kawasaki,D-Tracker,2014,98240,Manual,Electric,None,1,2,17,El Jadida,12000.0
+Motorcycle,KTM,RC200,2009,76464,Automatic,Electric,None,1,2,10,Rabat,8000.0
+Car,Peugeot,307,2022,65793,Automatic,Petrol,None,2,6,226,El Jadida,84000.0
+Motorcycle,Yamaha,Crypton,2006,123179,Manual,Electric,Minor,5,2,18,Oujda,4000.0
+Car,Dacia,Lodgy,2024,208623,Manual,Electric,None,2,2,77,Casablanca,85000.0
+Motorcycle,Aprilia,RS,2007,130201,Manual,Electric,None,3,2,10,Oujda,7000.0
+Car,Skoda,Octavia,2009,268736,Manual,Electric,None,4,5,82,Mohammedia,24000.0
+Car,Ford,Mondeo,2010,192835,Automatic,Electric,None,5,6,267,Fes,43000.0
+Motorcycle,Sym,Mask,2024,140127,Manual,Electric,Minor,2,2,10,El Jadida,5000.0
+Motorcycle,BMW,R1250GS,2005,10292,Manual,Petrol,None,3,2,13,Oujda,11000.0
+Motorcycle,Royal Enfield,Continental GT,2004,282227,Manual,Petrol,Major,2,2,18,Tangier,2000.0
+Motorcycle,Suzuki,Address,2010,20455,Manual,Petrol,Minor,5,2,13,Marrakech,4000.0
+Motorcycle,BMW,G310GS,2001,5509,Automatic,Petrol,Major,1,2,15,Taza,5000.0
+Car,Ford,Fiesta,2012,84085,Automatic,Petrol,Minor,2,3,217,Tangier,48000.0
+Car,Nissan,Tiida,2022,2498,Manual,Diesel,None,5,2,269,Fes,60000.0
+Motorcycle,Suzuki,Burgman,2014,264811,Manual,Electric,Minor,4,2,19,Safi,2000.0
+Car,Chevrolet,Cruze,2017,229217,Manual,Diesel,None,1,3,122,Meknes,23000.0
+Car,Mercedes,250,2006,132599,Automatic,Electric,None,5,2,253,Agadir,623000.0
+Motorcycle,MBK,Booster,2013,198445,Manual,Petrol,None,2,2,19,Meknes,3000.0
+Motorcycle,Keeway,RKS,2010,203965,Automatic,Electric,None,5,2,19,Marrakech,2000.0
+Car,Seat,Ateca,2023,138050,Manual,Petrol,Minor,1,6,234,Safi,118000.0
+Car,Seat,Toledo,2020,141590,Manual,Electric,Major,5,5,188,El Jadida,49000.0
+Car,Kia,Optima,2022,284934,Manual,Diesel,None,3,4,130,Taza,80000.0
+Car,Peugeot,306,2001,35218,Manual,Hybrid,Minor,4,3,238,Marrakech,24000.0
+Motorcycle,Peugeot,Tweet,2024,177346,Automatic,Electric,None,3,2,20,Tangier,6000.0
+Motorcycle,BMW,S1000RR,2019,166876,Manual,Electric,None,1,2,9,Mohammedia,23000.0
+Motorcycle,BMW,R nineT,2025,80309,Automatic,Electric,Minor,3,2,23,Beni Mellal,21000.0
+Car,Kia,Sorento,2001,164036,Manual,Electric,Major,1,5,290,Kenitra,11000.0
+Car,Peugeot,406,2010,23265,Automatic,Diesel,Minor,2,3,156,Fes,26000.0
+Car,Kia,Soul,2017,158429,Automatic,Petrol,Major,1,2,204,Fes,57000.0
+Car,Citroen,ZX,2000,253888,Manual,Diesel,None,1,3,279,Tangier,26000.0
+Motorcycle,Royal Enfield,Classic 350,2000,277523,Manual,Electric,None,4,2,14,Beni Mellal,3000.0
+Motorcycle,Kawasaki,Vulcan,2020,125897,Manual,Petrol,None,3,2,15,Taza,14000.0
+Car,Toyota,Yaris,2017,288143,Manual,Diesel,None,4,7,231,Meknes,82000.0
+Car,Toyota,Avensis,2000,87517,Manual,Diesel,None,3,2,268,Marrakech,23000.0
+Motorcycle,Keeway,Cityblade,2018,115824,Automatic,Electric,Major,5,2,10,Beni Mellal,3000.0
+Car,Opel,Omega,2000,106078,Automatic,Hybrid,None,4,6,230,Agadir,22000.0
+Car,Opel,Astra,2012,257866,Automatic,Hybrid,None,5,3,259,Taza,36000.0
+Car,Fiat,Tipo,2024,138505,Automatic,Diesel,Minor,4,3,139,Tetouan,46000.0
+Motorcycle,Suzuki,GSX-R125,2020,90548,Manual,Petrol,Major,3,2,23,Agadir,5000.0
+Car,Dacia,Lodgy,2012,112618,Automatic,Electric,None,5,4,108,Tetouan,20000.0
+Motorcycle,Yamaha,YZF-R125,2010,52885,Manual,Petrol,Minor,5,2,18,Oujda,6000.0
+Car,Mercedes,C200,2001,188020,Manual,Diesel,Major,3,7,165,Rabat,100000.0
+Car,Seat,Ibiza,2004,106657,Automatic,Petrol,None,5,6,136,Mohammedia,22000.0
+Motorcycle,Royal Enfield,Continental GT,2008,39925,Manual,Electric,None,1,2,14,Rabat,10000.0
+Motorcycle,Honda,XR125L,2022,35765,Manual,Electric,None,1,2,19,Tetouan,23000.0
+Motorcycle,Yamaha,Crypton,2003,227703,Automatic,Electric,None,5,2,18,Meknes,3000.0
+Motorcycle,Honda,CG125,2008,72041,Manual,Petrol,None,3,2,15,Meknes,7000.0
+Motorcycle,Yamaha,YS125,2019,16761,Automatic,Petrol,None,5,2,16,Tangier,16000.0
+Car,Mercedes,E300,2016,269469,Automatic,Electric,Minor,3,7,233,Meknes,880000.0
+Car,Mercedes,C200,2010,6375,Manual,Electric,Minor,3,5,269,Oujda,665000.0
+Motorcycle,Benelli,BN125,2024,178156,Automatic,Electric,None,1,2,23,Casablanca,7000.0
+Car,Skoda,Octavia,2011,241078,Automatic,Petrol,None,4,2,204,Oujda,46000.0
+Motorcycle,Piaggio,Beverly,2008,14621,Automatic,Petrol,None,1,2,15,Meknes,10000.0
+Car,Volkswagen,Passat,2012,104220,Manual,Electric,None,3,4,111,Oujda,57000.0
+Car,Skoda,Octavia,2011,56892,Automatic,Electric,None,4,5,91,Tetouan,57000.0
+Car,Opel,Corsa,2002,287737,Manual,Hybrid,None,3,6,213,Tangier,19000.0
+Car,Skoda,Octavia,2004,254190,Manual,Electric,None,4,5,246,Tangier,17000.0
+Motorcycle,Zontes,G1,2019,109377,Automatic,Electric,Major,5,2,14,Agadir,5000.0
+Motorcycle,Suzuki,Bandit,2015,84037,Manual,Petrol,None,4,2,24,Khouribga,5000.0
+Car,Mercedes,E250,2012,83894,Manual,Petrol,Major,4,4,263,Agadir,794000.0
+Motorcycle,Lifan,V16,2003,208806,Manual,Petrol,None,2,2,15,El Jadida,1000.0
+Car,Ford,Courier,2013,244363,Manual,Diesel,None,3,7,101,Tetouan,17000.0
+Car,Suzuki,Baleno,2014,74275,Automatic,Electric,Minor,2,5,171,Fes,32000.0
+Motorcycle,Aprilia,RS,2012,201123,Manual,Electric,None,4,2,9,Mohammedia,5000.0
+Car,Volkswagen,Jetta,2005,100626,Manual,Electric,None,2,4,266,Fes,43000.0
+Car,Chevrolet,Cruze,2011,292862,Automatic,Hybrid,None,3,7,72,Tangier,29000.0
+Motorcycle,BMW,S1000RR,2002,253069,Automatic,Electric,None,1,2,10,Rabat,5000.0
+Car,Hyundai,Atos,2000,236938,Automatic,Diesel,None,2,5,175,Fes,22000.0
+Motorcycle,Honda,Vision,2016,231028,Automatic,Electric,None,4,2,16,Kenitra,8000.0
+Car,Skoda,Karoq,2001,253473,Manual,Petrol,None,3,2,134,Safi,8000.0
+Car,Suzuki,Baleno,2014,79876,Automatic,Diesel,Minor,1,3,276,Meknes,64000.0
+Car,Mitsubishi,Pajero,2012,37165,Manual,Diesel,Minor,2,2,289,Tangier,51000.0
+Car,Hyundai,Getz,2024,171464,Automatic,Hybrid,None,1,3,185,Marrakech,130000.0
+Motorcycle,Zontes,ZT350,2019,182400,Automatic,Petrol,None,3,2,16,El Jadida,7000.0
+Motorcycle,Lifan,V16,2011,60865,Automatic,Petrol,Major,4,2,10,Marrakech,2000.0
+Car,Suzuki,Swift,2005,142861,Manual,Hybrid,None,4,2,194,Tangier,12000.0
+Motorcycle,Suzuki,V-Strom,2016,69005,Automatic,Electric,None,2,2,20,Meknes,6000.0
+Car,Chevrolet,Orlando,2001,66780,Automatic,Electric,None,2,5,112,Agadir,16000.0
+Car,Chevrolet,Spark,2008,84948,Manual,Hybrid,Minor,1,7,118,Kenitra,16000.0
+Car,Mitsubishi,L200,2022,21174,Manual,Petrol,Major,1,2,128,Taza,116000.0
+Car,Renault,Express,2020,25877,Automatic,Petrol,None,1,2,267,Nador,100000.0
+Car,Renault,Scenic,2015,44727,Manual,Diesel,Minor,3,4,160,Khouribga,77000.0
+Car,Kia,Sorento,2018,138348,Automatic,Petrol,None,3,5,256,Agadir,54000.0
+Car,Seat,Leon,2011,265183,Manual,Diesel,None,5,5,217,Mohammedia,30000.0
+Car,Mitsubishi,L200,2012,114125,Manual,Electric,None,5,2,289,Khouribga,37000.0
+Car,Ford,Sierra,2025,204242,Manual,Hybrid,None,3,3,166,Rabat,117000.0
+Motorcycle,Suzuki,Intruder,2005,28882,Manual,Electric,Major,3,2,9,Tangier,2000.0
+Motorcycle,Yamaha,YZF-R125,2020,185424,Automatic,Petrol,Minor,5,2,17,Fes,13000.0
+Car,Kia,Soul,2008,141738,Manual,Diesel,None,5,5,175,Nador,30000.0
+Car,Toyota,Auris,2009,18634,Automatic,Diesel,Minor,4,6,279,Taza,45000.0
+Car,Chevrolet,Aveo,2001,102150,Automatic,Diesel,Major,5,6,170,Oujda,5000.0
+Car,Mercedes,C300,2021,225312,Manual,Petrol,None,5,2,112,Meknes,975000.0
+Car,Seat,Arona,2001,84531,Manual,Diesel,None,4,4,164,El Jadida,14000.0
+Car,Renault,Symbol,2005,168560,Automatic,Petrol,None,3,6,226,Taza,18000.0
+Car,Ford,Fusion,2025,297844,Manual,Diesel,None,3,6,222,Agadir,38000.0
+Car,Chevrolet,Aveo,2009,187608,Manual,Hybrid,None,3,5,200,Khouribga,19000.0
+Car,Chevrolet,Orlando,2005,101808,Manual,Electric,None,2,5,243,Agadir,42000.0
+Motorcycle,MBK,Booster,2024,69032,Manual,Electric,None,3,2,22,Agadir,8000.0
+Car,Chevrolet,Lacetti,2012,237179,Automatic,Petrol,None,4,5,87,Mohammedia,12000.0
+Car,Toyota,Yaris,2016,264240,Automatic,Diesel,Major,5,2,276,Marrakech,38000.0
+Motorcycle,Zontes,ZT350,2006,1157,Automatic,Petrol,Major,5,2,10,Tetouan,2000.0
+Car,Ford,Escort,2003,74598,Automatic,Diesel,None,2,5,285,Marrakech,16000.0
+Car,Skoda,Yeti,2004,217127,Manual,Electric,None,5,6,259,Rabat,7000.0
+Car,Suzuki,Celerio,2025,151576,Automatic,Electric,Minor,5,7,293,Taza,59000.0
+Car,Hyundai,H1,2020,253534,Manual,Hybrid,None,2,4,93,Mohammedia,54000.0
+Car,Fiat,Punto,2000,252887,Manual,Hybrid,None,3,5,102,Safi,9000.0
+Car,Chevrolet,Cruze,2001,125114,Automatic,Diesel,None,5,7,202,El Jadida,10000.0
+Car,Fiat,Uno,2018,7093,Automatic,Electric,None,4,4,290,Taza,103000.0
+Motorcycle,Peugeot,Django,2017,33846,Manual,Petrol,Minor,3,2,13,Tetouan,5000.0
+Motorcycle,Vespa,S125,2018,296704,Manual,Petrol,None,4,2,10,Mohammedia,11000.0
+Car,Dacia,Sandero,2025,225337,Manual,Electric,Minor,5,7,268,Khouribga,34000.0
+Motorcycle,Lifan,Mirage,2020,93720,Manual,Petrol,None,1,2,23,Beni Mellal,6000.0
+Car,Suzuki,Baleno,2017,272549,Manual,Diesel,Minor,4,3,298,Taza,18000.0
+Motorcycle,Bajaj,Pulsar,2012,178153,Automatic,Petrol,None,5,2,15,Kenitra,2000.0
+Car,Chevrolet,Captiva,2010,135630,Manual,Hybrid,None,5,5,102,Agadir,14000.0
+Car,Dacia,Lodgy,2023,224149,Manual,Hybrid,None,5,3,98,Fes,83000.0
+Car,Mercedes,GLK,2003,59670,Automatic,Electric,None,5,3,265,Agadir,299000.0
+Car,Nissan,Primera,2005,44051,Manual,Petrol,None,2,6,295,Casablanca,58000.0
+Motorcycle,Sym,Crox,2009,295745,Manual,Petrol,Minor,4,2,8,Tangier,2000.0
+Motorcycle,Bajaj,Discover,2015,56831,Manual,Petrol,None,3,2,19,Mohammedia,4000.0
+Motorcycle,Aprilia,Leonardo,2010,146385,Automatic,Electric,Minor,1,2,22,Tetouan,8000.0
+Car,Opel,Zafira,2014,232583,Automatic,Hybrid,Minor,1,4,279,Nador,31000.0
+Car,Opel,Omega,2020,289736,Automatic,Hybrid,None,2,7,279,Agadir,34000.0
+Car,Opel,Meriva,2005,229274,Automatic,Electric,None,2,2,296,Taza,33000.0
+Car,Mercedes,C250,2007,148021,Manual,Electric,None,1,3,131,El Jadida,655000.0
+Car,Renault,Clio,2002,83748,Automatic,Petrol,Minor,2,3,110,Rabat,18000.0
+Car,Opel,Combo,2011,149079,Automatic,Diesel,Minor,2,6,184,Meknes,17000.0
+Motorcycle,Bajaj,Dominar,2016,229148,Automatic,Petrol,None,1,2,19,Fes,4000.0
+Car,Ford,Transit,2025,28891,Automatic,Diesel,Minor,1,6,226,Oujda,146000.0
+Car,Opel,Insignia,2009,60134,Automatic,Petrol,None,5,7,106,Marrakech,15000.0
+Car,Peugeot,2008,2003,90281,Automatic,Petrol,None,2,5,239,Marrakech,25000.0
+Car,Nissan,Juke,2020,46899,Automatic,Electric,None,5,3,90,Marrakech,45000.0
+Car,Ford,Transit,2012,215821,Automatic,Electric,Minor,2,3,261,Tangier,37000.0
+Car,Ford,EcoSport,2014,92983,Automatic,Petrol,Minor,1,7,93,Agadir,74000.0
+Car,Suzuki,Celerio,2002,27403,Manual,Electric,Minor,4,6,107,Khouribga,20000.0
+Motorcycle,Benelli,Tornado,2013,40620,Automatic,Petrol,None,3,2,13,Kenitra,6000.0
+Car,Toyota,Verso,2008,113481,Automatic,Hybrid,None,2,2,143,Oujda,17000.0
+Car,Suzuki,Celerio,2009,204201,Automatic,Electric,Major,4,7,144,Oujda,8000.0
+Motorcycle,Vespa,Elettrica,2025,75623,Manual,Electric,None,2,2,16,Rabat,19000.0
+Car,Nissan,Qashqai,2003,247783,Automatic,Electric,None,5,6,96,Rabat,12000.0
+Car,Hyundai,Getz,2018,189279,Automatic,Diesel,None,4,2,230,Marrakech,27000.0
+Motorcycle,Bajaj,V15,2024,262632,Automatic,Petrol,None,2,2,20,Khouribga,6000.0
+Car,Mitsubishi,Pajero,2019,83289,Manual,Hybrid,Minor,2,4,280,Oujda,38000.0
+Motorcycle,Kymco,People,2004,17637,Manual,Petrol,Minor,4,2,23,Tetouan,2000.0
+Car,Seat,Ateca,2007,15548,Automatic,Petrol,Minor,3,5,134,Fes,36000.0
+Car,Suzuki,Celerio,2011,85324,Automatic,Diesel,None,4,7,244,Tetouan,16000.0
+Car,Toyota,Avensis,2024,283811,Manual,Petrol,None,2,6,79,Taza,104000.0
+Car,Skoda,Roomster,2011,147110,Automatic,Petrol,None,5,6,157,Casablanca,44000.0
+Car,Fiat,500,2014,248617,Automatic,Petrol,Minor,2,2,113,Safi,24000.0
+Car,Chevrolet,Epica,2015,161051,Manual,Petrol,None,2,6,91,Taza,26000.0
+Motorcycle,MBK,Nitro,2014,265659,Manual,Electric,None,3,2,22,Fes,3000.0
+Car,Chevrolet,Aveo,2022,176542,Manual,Hybrid,None,5,4,252,Agadir,37000.0
+Motorcycle,Zontes,ZT310,2023,66358,Automatic,Petrol,None,3,2,11,Rabat,12000.0
+Car,Toyota,Hiace,2014,137229,Manual,Electric,None,4,5,71,Beni Mellal,42000.0
+Car,Chevrolet,Epica,2014,130438,Automatic,Electric,Major,5,2,133,Safi,11000.0
+Car,Chevrolet,Orlando,2019,282412,Automatic,Diesel,None,1,4,222,Mohammedia,35000.0
+Motorcycle,Peugeot,Tweet,2010,192821,Automatic,Petrol,None,2,2,12,Beni Mellal,3000.0
+Car,Toyota,Prius,2015,229047,Automatic,Diesel,None,5,5,90,Beni Mellal,43000.0
+Car,Opel,Astra,2021,226058,Automatic,Electric,Major,3,7,229,Rabat,34000.0
+Car,Suzuki,Celerio,2025,169950,Automatic,Electric,Major,5,6,255,El Jadida,81000.0
+Car,Mitsubishi,Lancer,2003,182421,Manual,Diesel,Major,5,4,241,Fes,18000.0
+Car,Kia,Optima,2016,179688,Manual,Diesel,None,5,5,162,Tetouan,24000.0
+Car,Nissan,Tiida,2000,146787,Automatic,Petrol,None,4,5,161,Taza,11000.0
+Car,Skoda,Rapid,2017,174368,Manual,Electric,None,3,7,292,Tangier,52000.0
+Car,Skoda,Superb,2005,38254,Manual,Electric,None,5,4,249,Agadir,35000.0
+Motorcycle,Kymco,People,2018,68597,Manual,Electric,None,3,2,18,Marrakech,5000.0
+Car,Dacia,Stepway,2023,236912,Automatic,Petrol,None,5,5,153,Tangier,27000.0
+Car,Peugeot,208,2001,83129,Automatic,Petrol,None,5,4,205,Taza,12000.0
+Motorcycle,BMW,C400X,2014,2542,Automatic,Petrol,None,4,2,23,Oujda,19000.0
+Car,Hyundai,Sonata,2021,39903,Automatic,Diesel,None,4,2,173,Nador,126000.0
+Car,Skoda,Roomster,2004,171735,Automatic,Hybrid,None,5,7,88,Meknes,12000.0
+Car,Volkswagen,Jetta,2022,106903,Automatic,Diesel,None,3,2,270,Nador,151000.0
+Car,Mercedes,C250,2012,255649,Automatic,Hybrid,None,5,2,197,Nador,503000.0
+Motorcycle,Kawasaki,Vulcan,2019,54684,Manual,Petrol,Minor,5,2,14,Marrakech,14000.0
+Car,Chevrolet,Spark,2001,4141,Manual,Petrol,Minor,4,6,236,Casablanca,9000.0
+Car,Ford,Focus,2022,160181,Manual,Electric,Major,2,5,108,Taza,25000.0
+Car,Mercedes,C300,2014,188676,Automatic,Hybrid,None,4,6,162,Kenitra,742000.0
+Motorcycle,Suzuki,Bandit,2000,269223,Automatic,Petrol,None,2,2,17,Meknes,1000.0
+Car,Nissan,Sunny,2010,215010,Automatic,Electric,Major,5,7,249,Casablanca,21000.0
+Car,Skoda,Superb,2022,196730,Automatic,Hybrid,None,5,7,243,Safi,54000.0
+Motorcycle,Zontes,R350,2023,143619,Manual,Petrol,None,1,2,13,Casablanca,10000.0
+Car,Opel,Kadett,2002,32210,Automatic,Hybrid,None,3,3,158,Tangier,26000.0
+Car,Dacia,Duster,2017,92834,Automatic,Petrol,None,2,5,193,Mohammedia,61000.0
+Motorcycle,Peugeot,Kisbee,2017,166795,Automatic,Electric,None,3,2,16,Tetouan,4000.0
+Car,Suzuki,Celerio,2012,168618,Manual,Electric,None,3,2,255,Agadir,50000.0
+Car,Citroen,Xsara,2002,227784,Manual,Petrol,None,3,7,242,Casablanca,26000.0
+Car,Skoda,Roomster,2021,249395,Manual,Diesel,None,5,5,191,Beni Mellal,59000.0
+Car,Kia,Sportage,2017,72535,Automatic,Diesel,None,5,5,250,Taza,69000.0
+Car,Renault,Laguna,2005,18939,Automatic,Petrol,Major,4,5,73,El Jadida,24000.0
+Car,Peugeot,309,2007,167188,Automatic,Electric,None,4,5,170,Meknes,33000.0
+Car,Opel,Omega,2020,260865,Manual,Diesel,Minor,4,5,85,Casablanca,20000.0
+Motorcycle,Yamaha,YBR125,2000,255719,Automatic,Petrol,None,2,2,20,Kenitra,3000.0
+Motorcycle,MBK,Stunt,2025,298937,Automatic,Electric,None,4,2,9,El Jadida,4000.0
+Car,Skoda,Roomster,2024,261845,Automatic,Petrol,None,1,2,256,Taza,119000.0
+Car,Seat,Inca,2011,165074,Automatic,Petrol,None,5,2,130,Tetouan,23000.0
+Car,Hyundai,Sonata,2019,149388,Manual,Electric,None,1,3,181,Taza,74000.0
+Motorcycle,Benelli,165s,2001,246176,Automatic,Petrol,None,4,2,16,Casablanca,1000.0
+Car,Ford,Escort,2017,235110,Automatic,Hybrid,None,2,6,296,Marrakech,30000.0
+Motorcycle,Lifan,Mirage,2016,186576,Automatic,Electric,None,3,2,10,Marrakech,3000.0
+Car,Chevrolet,Epica,2021,287601,Automatic,Hybrid,None,4,5,298,Casablanca,82000.0
+Car,Mercedes,300,2019,56469,Automatic,Petrol,None,2,3,286,El Jadida,827000.0
+Car,Citroen,C3,2004,126713,Automatic,Hybrid,None,4,5,241,Meknes,32000.0
+Car,Renault,Captur,2009,172497,Automatic,Diesel,None,1,5,275,Mohammedia,37000.0
+Car,Seat,Ibiza,2021,202207,Automatic,Electric,None,1,6,238,Mohammedia,57000.0
+Car,Mitsubishi,Colt,2023,69486,Automatic,Electric,None,1,2,136,Kenitra,91000.0
+Motorcycle,Benelli,165s,2009,117121,Automatic,Electric,None,5,2,18,Agadir,2000.0
+Car,Opel,Combo,2008,211933,Manual,Petrol,None,1,4,143,Nador,15000.0
+Car,Opel,Kadett,2010,178080,Automatic,Petrol,None,4,7,267,Agadir,57000.0
+Car,Peugeot,207,2023,107325,Manual,Hybrid,Minor,5,4,166,Mohammedia,108000.0
+Car,Skoda,Fabia,2006,217203,Automatic,Electric,Minor,1,4,234,El Jadida,19000.0
+Motorcycle,Aprilia,Scarabeo,2002,158495,Automatic,Petrol,None,4,2,22,Kenitra,5000.0
+Car,Toyota,Avensis,2012,291113,Manual,Diesel,None,2,3,149,Tetouan,49000.0
+Car,Ford,Connect,2018,85144,Automatic,Petrol,None,3,6,263,Oujda,51000.0
+Car,Volkswagen,Passat,2011,194589,Manual,Diesel,Minor,3,7,209,Taza,48000.0
+Car,Suzuki,Ignis,2003,63714,Manual,Petrol,Minor,5,7,251,Rabat,31000.0
+Motorcycle,Peugeot,Ludix,2007,137238,Manual,Electric,Major,4,2,24,Kenitra,2000.0
+Car,Opel,Zafira,2017,96678,Automatic,Diesel,None,5,7,150,Mohammedia,46000.0
+Car,Chevrolet,Epica,2022,86776,Manual,Electric,None,1,7,113,Fes,52000.0
+Car,Suzuki,Celerio,2012,63465,Automatic,Petrol,Minor,2,7,229,Kenitra,42000.0
+Car,Mitsubishi,L200,2024,9351,Automatic,Electric,Major,1,4,277,Marrakech,70000.0
+Car,Volkswagen,Caddy,2011,95379,Manual,Petrol,None,2,6,266,Agadir,89000.0
+Car,Renault,Laguna,2011,117166,Automatic,Hybrid,None,5,6,291,Meknes,27000.0
+Car,Nissan,Note,2009,187171,Automatic,Hybrid,None,1,4,88,Nador,24000.0
+Car,Mercedes,250,2001,40775,Manual,Hybrid,None,5,5,207,Meknes,183000.0
+Car,Opel,Zafira,2025,155396,Automatic,Diesel,None,3,7,154,El Jadida,158000.0
+Car,Seat,Toledo,2011,20439,Automatic,Electric,None,5,5,233,Oujda,24000.0
+Car,Peugeot,307,2006,215605,Manual,Petrol,None,5,6,290,Khouribga,35000.0
+Car,Kia,Cerato,2000,172492,Manual,Petrol,None,5,2,105,Oujda,12000.0
+Motorcycle,Aprilia,Leonardo,2008,224972,Automatic,Electric,None,3,2,18,Rabat,6000.0
+Motorcycle,Kymco,Grand Dink,2014,280093,Manual,Petrol,None,4,2,17,Kenitra,3000.0
+Car,Kia,Rio,2021,132151,Automatic,Petrol,Minor,3,5,94,Nador,58000.0
+Motorcycle,Zontes,U125,2007,109692,Automatic,Electric,None,4,2,21,Tetouan,3000.0
+Motorcycle,Vespa,Sprint,2005,259269,Manual,Petrol,None,4,2,12,Khouribga,3000.0
+Car,Nissan,Qashqai,2015,187599,Automatic,Diesel,None,3,4,88,Agadir,37000.0
+Car,Toyota,Corolla,2013,258479,Manual,Petrol,Minor,5,7,219,Meknes,27000.0
+Car,Mercedes,190,2024,32228,Manual,Electric,Minor,3,6,149,Mohammedia,1201000.0
+Car,Ford,Escort,2000,299716,Automatic,Hybrid,Major,3,2,180,Rabat,5000.0
+Car,Toyota,Yaris,2024,4884,Automatic,Hybrid,Minor,1,5,102,Agadir,138000.0
+Motorcycle,Piaggio,NRG,2007,231064,Manual,Electric,None,3,2,8,Mohammedia,4000.0
+Car,Skoda,Superb,2005,244543,Automatic,Electric,None,3,2,175,Oujda,15000.0
+Motorcycle,Yamaha,YBR125,2002,207666,Manual,Electric,Minor,3,2,21,Marrakech,4000.0
+Motorcycle,Kawasaki,Versys,2002,22616,Manual,Petrol,Major,5,2,14,El Jadida,4000.0
+Car,Fiat,Uno,2009,11232,Automatic,Hybrid,None,5,2,181,Safi,23000.0
+Motorcycle,Kawasaki,D-Tracker,2008,241507,Manual,Petrol,Minor,2,2,13,Mohammedia,4000.0
+Motorcycle,Honda,Bros,2012,98327,Manual,Electric,None,1,2,12,Khouribga,11000.0
+Car,Seat,Ibiza,2008,125024,Automatic,Electric,None,3,5,261,Marrakech,22000.0
+Car,Hyundai,i30,2021,121453,Automatic,Petrol,Minor,4,4,106,Rabat,90000.0
+Motorcycle,Piaggio,Medley,2019,176640,Automatic,Petrol,None,3,2,18,Khouribga,13000.0
+Car,Ford,Transit,2021,191627,Automatic,Electric,Major,5,2,231,Agadir,54000.0
+Car,Nissan,Tiida,2023,53946,Automatic,Petrol,None,5,3,205,Meknes,45000.0
+Car,Chevrolet,Lacetti,2003,282811,Manual,Petrol,Minor,3,7,206,Fes,8000.0
+Car,Volkswagen,Passat,2019,230329,Manual,Petrol,None,5,6,179,El Jadida,47000.0
+Car,Nissan,Patrol,2004,192375,Automatic,Hybrid,None,3,3,282,Khouribga,27000.0
+Car,Skoda,Roomster,2004,222703,Manual,Electric,None,1,3,210,Casablanca,27000.0
+Car,Hyundai,i20,2010,275626,Manual,Electric,Minor,3,4,120,Mohammedia,37000.0
+Car,Suzuki,Celerio,2018,58657,Automatic,Petrol,None,4,7,191,Taza,64000.0
+Car,Peugeot,Partner,2016,169372,Manual,Hybrid,Minor,1,7,193,Tangier,45000.0
+Motorcycle,Zontes,GK350,2021,187159,Manual,Petrol,None,1,2,8,Nador,7000.0
+Car,Mitsubishi,Colt,2022,65036,Manual,Petrol,None,5,4,268,Agadir,110000.0
+Motorcycle,Royal Enfield,Bullet 350,2024,51981,Automatic,Electric,None,5,2,15,Casablanca,21000.0
+Car,Nissan,X-Trail,2005,23517,Automatic,Electric,None,5,3,250,Rabat,21000.0
+Car,Mercedes,C300,2021,110086,Automatic,Hybrid,None,1,5,166,Tetouan,1063000.0
+Car,Citroen,C5,2014,89451,Automatic,Diesel,None,4,2,183,Tetouan,54000.0
+Motorcycle,Suzuki,GSX-R125,2018,256078,Manual,Petrol,Major,1,2,10,Tangier,3000.0
+Car,Chevrolet,Captiva,2007,176146,Automatic,Hybrid,None,4,4,284,El Jadida,26000.0
+Car,Peugeot,301,2022,136050,Manual,Diesel,None,2,3,202,Taza,59000.0
+Car,Ford,Mondeo,2000,9628,Automatic,Diesel,Minor,4,4,200,Taza,16000.0
+Car,Dacia,Duster,2007,163249,Automatic,Hybrid,Major,5,2,166,Taza,10000.0
+Motorcycle,Benelli,TNT125,2021,81097,Manual,Petrol,Minor,1,2,17,Khouribga,10000.0
+Car,Ford,Sierra,2024,196596,Manual,Electric,None,3,6,200,El Jadida,39000.0
+Motorcycle,KTM,RC200,2023,236842,Manual,Electric,Minor,4,2,16,Taza,11000.0
+Car,Mercedes,GLA,2013,60015,Automatic,Petrol,None,3,4,105,Nador,770000.0
+Car,Fiat,Panda,2022,108880,Automatic,Petrol,Minor,3,2,110,Khouribga,30000.0
+Motorcycle,Honda,Lead,2015,129959,Automatic,Petrol,None,3,2,13,Tetouan,7000.0
+Car,Renault,Captur,2000,298144,Manual,Diesel,None,3,3,152,Khouribga,16000.0
+Car,Dacia,Logan,2016,31761,Manual,Hybrid,None,5,2,234,Fes,68000.0
+Car,Mitsubishi,Space Star,2021,217618,Automatic,Diesel,None,4,7,86,Mohammedia,35000.0
+Car,Dacia,Logan,2010,1492,Automatic,Hybrid,None,5,7,75,Marrakech,39000.0
+Car,Ford,Courier,2014,22283,Automatic,Petrol,None,1,4,82,Casablanca,65000.0
+Car,Volkswagen,Tiguan,2012,216589,Manual,Electric,None,4,3,75,Marrakech,43000.0
+Motorcycle,Lifan,V16,2021,295461,Automatic,Electric,Major,4,2,16,Tetouan,2000.0
+Car,Fiat,Punto,2024,127497,Manual,Hybrid,None,2,7,129,Meknes,123000.0
+Motorcycle,Sym,Joy,2004,193689,Manual,Petrol,None,4,2,20,Tangier,1000.0
+Motorcycle,Peugeot,Django,2015,165629,Automatic,Electric,None,2,2,22,Marrakech,4000.0
+Car,Citroen,C2,2010,122114,Automatic,Diesel,None,1,7,234,El Jadida,49000.0
+Motorcycle,Kawasaki,Z125,2015,16403,Manual,Petrol,Minor,2,2,23,Rabat,11000.0
+Car,Kia,Picanto,2008,239506,Manual,Hybrid,None,2,3,242,Mohammedia,19000.0
+Car,Ford,Focus,2019,239997,Manual,Electric,None,1,4,99,Meknes,90000.0
+Car,Citroen,DS4,2002,212310,Manual,Electric,None,5,7,76,Safi,11000.0
+Car,Peugeot,406,2009,226932,Automatic,Petrol,None,1,5,285,Casablanca,22000.0
+Car,Toyota,Yaris,2015,142016,Manual,Hybrid,None,5,5,83,Khouribga,26000.0
+Motorcycle,Sym,Symphony,2024,66976,Manual,Electric,None,2,2,9,Taza,10000.0
+Car,Seat,Leon,2024,65859,Manual,Electric,None,5,6,186,Nador,134000.0
+Car,Volkswagen,Golf,2020,153022,Automatic,Diesel,Major,4,2,181,El Jadida,40000.0
+Car,Kia,Ceed,2012,34602,Automatic,Diesel,None,2,2,100,Fes,62000.0
+Car,Seat,Inca,2005,71256,Manual,Diesel,None,4,6,285,Meknes,25000.0
+Motorcycle,Bajaj,V15,2010,148719,Automatic,Petrol,None,1,2,11,Mohammedia,2000.0
+Car,Ford,Focus,2025,231978,Manual,Petrol,None,3,6,124,Kenitra,51000.0
+Car,Suzuki,Ignis,2025,138403,Manual,Hybrid,None,2,6,174,Khouribga,118000.0
+Car,Chevrolet,Epica,2008,93154,Automatic,Diesel,Minor,5,3,276,Khouribga,15000.0
+Car,Peugeot,306,2009,294513,Manual,Diesel,None,5,3,70,Beni Mellal,19000.0
+Car,Hyundai,Getz,2019,260917,Manual,Petrol,Major,4,2,75,Nador,51000.0
+Car,Volkswagen,Jetta,2014,195635,Manual,Hybrid,Minor,1,3,240,Fes,29000.0
+Motorcycle,Benelli,Zafferano,2010,122786,Automatic,Electric,Minor,2,2,18,El Jadida,3000.0
+Motorcycle,MBK,Stunt,2004,236662,Automatic,Electric,Minor,1,2,15,Rabat,1000.0
+Motorcycle,Benelli,125i,2008,15137,Automatic,Petrol,None,5,2,13,Mohammedia,3000.0
+Car,Chevrolet,Aveo,2003,168679,Manual,Diesel,Minor,2,3,106,Beni Mellal,13000.0
+Car,Renault,Captur,2020,203888,Manual,Diesel,None,2,2,134,Taza,78000.0
+Car,Fiat,Grande Punto,2016,168494,Automatic,Diesel,Minor,3,5,216,Tangier,64000.0
+Car,Hyundai,i10,2001,99589,Automatic,Electric,None,1,6,167,Fes,14000.0
+Car,Seat,Altea,2015,18934,Manual,Diesel,None,5,7,276,Rabat,58000.0
+Car,Renault,Laguna,2007,34037,Manual,Diesel,None,5,3,295,Mohammedia,36000.0
+Motorcycle,Aprilia,RS,2005,224210,Manual,Electric,None,5,2,9,Nador,3000.0
+Car,Mercedes,C300,2008,183754,Automatic,Electric,None,2,6,216,Taza,790000.0
+Motorcycle,Bajaj,Boxer,2008,271505,Manual,Electric,Minor,2,2,18,Khouribga,1000.0
+Car,Kia,Soul,2025,114366,Manual,Hybrid,None,4,3,274,Tangier,110000.0
+Motorcycle,Kymco,Vitality,2002,285312,Automatic,Electric,None,5,2,19,Taza,1000.0
+Car,Dacia,Stepway,2010,209988,Automatic,Petrol,Minor,3,3,156,Tetouan,13000.0
+Car,Skoda,Felicia,2020,92357,Manual,Hybrid,None,2,3,132,Tangier,59000.0
+Car,Mitsubishi,ASX,2003,294202,Manual,Diesel,None,1,4,171,Casablanca,11000.0
+Car,Renault,Symbol,2023,296446,Manual,Hybrid,Major,5,6,107,Fes,20000.0
+Car,Kia,Rio,2022,161637,Automatic,Electric,Minor,5,3,230,Safi,77000.0
+Motorcycle,Sym,Symphony,2000,150848,Automatic,Petrol,None,4,2,22,Taza,1000.0
+Car,Peugeot,408,2021,196585,Automatic,Diesel,None,5,6,252,Agadir,98000.0
+Car,Ford,Connect,2001,55461,Automatic,Petrol,None,2,3,134,Casablanca,19000.0
+Car,Chevrolet,Epica,2025,127851,Manual,Petrol,None,1,6,247,Rabat,51000.0
+Motorcycle,Piaggio,Beverly,2016,156887,Manual,Electric,Minor,4,2,12,Beni Mellal,11000.0
+Car,Renault,Kadjar,2009,13867,Automatic,Hybrid,Minor,4,4,243,Khouribga,24000.0
+Car,Toyota,RAV4,2009,286747,Manual,Petrol,Minor,1,7,167,Fes,38000.0
+Car,Fiat,Doblo,2002,130882,Automatic,Hybrid,Minor,3,2,171,Agadir,21000.0
+Motorcycle,Zontes,U125,2015,156131,Manual,Petrol,None,4,2,10,Agadir,6000.0
+Motorcycle,Lifan,X-Ride,2010,42149,Manual,Petrol,Minor,4,2,15,Rabat,2000.0
+Car,Nissan,Micra,2002,97237,Manual,Electric,Minor,2,3,220,Nador,33000.0
+Car,Peugeot,106,2023,217262,Manual,Petrol,None,4,6,143,El Jadida,129000.0
+Car,Suzuki,Ignis,2009,63385,Automatic,Hybrid,None,5,2,109,Rabat,44000.0
+Car,Kia,Carens,2021,298600,Automatic,Petrol,Minor,3,3,253,Tangier,58000.0
+Car,Peugeot,405,2006,141192,Manual,Electric,Minor,1,4,206,Oujda,35000.0
+Car,Seat,Inca,2008,249689,Automatic,Petrol,None,5,2,175,Nador,21000.0
+Car,Skoda,Fabia,2020,76732,Manual,Hybrid,None,1,3,293,Meknes,157000.0
+Car,Opel,Vectra,2006,166155,Manual,Hybrid,Minor,3,6,223,Taza,24000.0
+Car,Peugeot,207,2011,61762,Automatic,Diesel,None,4,3,184,Beni Mellal,41000.0
+Car,Mitsubishi,Colt,2006,178112,Automatic,Electric,None,3,6,76,Nador,19000.0
+Motorcycle,Honda,CBF125,2022,66882,Automatic,Petrol,Major,4,2,14,Kenitra,9000.0
+Car,Ford,Escort,2007,186584,Automatic,Hybrid,Major,4,2,111,Meknes,21000.0
+Car,Nissan,Micra,2004,55851,Manual,Petrol,None,4,6,244,Agadir,26000.0
+Car,Opel,Meriva,2024,294328,Automatic,Electric,None,2,2,273,Tangier,82000.0
+Car,Peugeot,308,2023,227611,Automatic,Electric,None,4,4,280,Agadir,85000.0
+Car,Opel,Kadett,2017,99584,Manual,Diesel,None,3,4,167,Khouribga,95000.0
+Car,Mercedes,C250,2012,60466,Manual,Petrol,None,2,7,123,Oujda,1238000.0
+Car,Peugeot,5008,2000,282375,Automatic,Diesel,None,5,4,126,Tetouan,7000.0
+Car,Mercedes,C250,2005,19110,Automatic,Hybrid,None,2,7,244,Nador,882000.0
+Motorcycle,Yamaha,YS125,2021,243172,Automatic,Electric,None,4,2,13,Mohammedia,11000.0
+Motorcycle,BMW,G310GS,2008,83579,Manual,Petrol,None,5,2,14,Tangier,11000.0
+Car,Citroen,Picasso,2010,249299,Manual,Petrol,None,2,3,280,Meknes,33000.0
+Motorcycle,Peugeot,Kisbee,2019,99576,Manual,Electric,Minor,5,2,22,Fes,4000.0
+Car,Peugeot,3008,2012,146262,Automatic,Diesel,Minor,4,5,267,Fes,52000.0
+Car,Citroen,C2,2014,206589,Manual,Hybrid,None,4,3,145,Tetouan,25000.0
+Car,Hyundai,i30,2006,73548,Manual,Electric,None,4,2,122,Kenitra,14000.0
+Car,Skoda,Felicia,2021,90057,Automatic,Hybrid,None,4,7,97,Safi,112000.0
+Car,Skoda,Yeti,2023,124499,Automatic,Hybrid,None,3,3,73,Nador,50000.0
+Car,Citroen,Picasso,2024,106242,Manual,Electric,None,5,5,179,Khouribga,110000.0
+Car,Kia,Cerato,2014,136002,Manual,Electric,None,4,7,245,Kenitra,25000.0
+Motorcycle,BMW,R1250GS,2020,85460,Manual,Petrol,Minor,3,2,10,Khouribga,22000.0
+Car,Ford,EcoSport,2021,113077,Automatic,Petrol,None,2,3,107,Beni Mellal,39000.0
+Motorcycle,Peugeot,Ludix,2025,1856,Automatic,Electric,None,5,2,20,Agadir,8000.0
+Car,Volkswagen,Passat,2009,265201,Automatic,Electric,None,1,6,263,Casablanca,41000.0
+Car,Ford,Focus,2006,220605,Manual,Electric,None,1,2,79,Safi,28000.0
+Car,Mitsubishi,L200,2024,194996,Manual,Diesel,None,4,3,107,Oujda,55000.0
+Motorcycle,BMW,R1250GS,2009,180027,Automatic,Electric,None,4,2,9,Beni Mellal,6000.0
+Motorcycle,Sym,Mask,2004,223938,Automatic,Electric,None,3,2,8,Casablanca,1000.0
+Car,Kia,Carens,2023,127530,Manual,Diesel,None,3,6,223,Taza,122000.0
+Car,Fiat,Panda,2001,183315,Manual,Petrol,Minor,4,5,134,Nador,6000.0
+Car,Dacia,Spring,2006,122240,Automatic,Petrol,Major,3,2,186,Beni Mellal,10000.0
+Motorcycle,Honda,PCX125,2024,129649,Automatic,Electric,None,1,2,21,Rabat,18000.0
+Car,Ford,Sierra,2005,246183,Automatic,Electric,Minor,4,4,192,Taza,19000.0
+Car,Mitsubishi,Colt,2023,264521,Manual,Electric,Minor,2,4,237,Mohammedia,69000.0
+Motorcycle,Lifan,KP,2016,66979,Manual,Electric,None,2,2,8,Tetouan,5000.0
+Motorcycle,Kawasaki,Versys,2025,279834,Manual,Petrol,Minor,1,2,10,Tetouan,17000.0
+Car,Seat,Inca,2017,106671,Manual,Diesel,None,3,6,233,Marrakech,61000.0
+Car,Fiat,Uno,2011,21804,Manual,Petrol,None,1,7,229,Oujda,47000.0
+Car,Mitsubishi,Lancer,2009,69291,Automatic,Petrol,None,4,3,256,Taza,62000.0
+Car,Mitsubishi,Lancer,2023,108476,Automatic,Diesel,Minor,1,7,243,Oujda,108000.0
+Motorcycle,Royal Enfield,Interceptor,2011,21660,Automatic,Petrol,None,1,2,9,Fes,10000.0
+Motorcycle,Benelli,Tornado,2001,297894,Manual,Petrol,None,4,2,21,Beni Mellal,1000.0
+Car,Toyota,Verso,2001,246733,Manual,Electric,None,3,6,214,Oujda,15000.0
+Motorcycle,Kawasaki,W175,2017,103759,Automatic,Petrol,None,4,2,13,Casablanca,9000.0
+Car,Toyota,Auris,2017,257946,Manual,Diesel,None,2,5,124,Tangier,49000.0
+Motorcycle,Suzuki,GSX-R125,2017,10439,Automatic,Petrol,Major,5,2,20,Tetouan,6000.0
+Motorcycle,Suzuki,Boulevard,2008,299783,Manual,Petrol,None,2,2,16,Tangier,2000.0
+Motorcycle,Piaggio,Typhoon,2006,73584,Automatic,Electric,None,3,2,16,El Jadida,6000.0
+Car,Hyundai,Atos,2014,12798,Manual,Petrol,None,5,5,298,Agadir,89000.0
+Car,Seat,Arona,2025,78036,Automatic,Hybrid,Major,3,2,103,Mohammedia,120000.0
+Car,Peugeot,106,2001,98763,Automatic,Electric,None,4,4,124,Fes,11000.0
+Car,Chevrolet,Lacetti,2010,152986,Automatic,Diesel,Minor,3,7,205,Mohammedia,35000.0
+Car,Volkswagen,Tiguan,2004,247097,Manual,Petrol,None,3,7,164,Mohammedia,36000.0
+Car,Fiat,500,2020,226504,Manual,Diesel,None,3,7,189,Tangier,36000.0
+Car,Mitsubishi,Colt,2025,183928,Automatic,Electric,None,1,2,260,El Jadida,85000.0
+Car,Seat,Arona,2004,167565,Manual,Petrol,Major,1,7,281,Mohammedia,29000.0
+Motorcycle,Zontes,U125,2019,175889,Manual,Petrol,None,1,2,14,Nador,6000.0
+Motorcycle,KTM,RC200,2012,37689,Automatic,Petrol,None,5,2,10,Fes,12000.0
+Car,Kia,Sorento,2002,243966,Manual,Diesel,None,4,5,247,Safi,12000.0
+Car,Fiat,Tipo,2003,206220,Manual,Electric,None,4,2,122,Safi,14000.0
+Car,Chevrolet,Captiva,2003,63882,Automatic,Petrol,None,5,6,203,Taza,25000.0
+Car,Toyota,Avensis,2000,24842,Automatic,Hybrid,Minor,2,3,224,Safi,37000.0
+Car,Kia,Optima,2023,109494,Manual,Petrol,None,4,4,80,Khouribga,111000.0
+Motorcycle,Vespa,LX,2006,235623,Automatic,Electric,None,1,2,12,Khouribga,4000.0
+Motorcycle,BMW,G310GS,2018,180037,Manual,Electric,Minor,5,2,18,Tangier,14000.0
+Car,Seat,Toledo,2001,12925,Manual,Diesel,None,1,6,172,Oujda,17000.0
+Motorcycle,BMW,G310GS,2019,177109,Automatic,Electric,None,4,2,17,Agadir,16000.0
+Car,Skoda,Yeti,2003,83808,Automatic,Hybrid,Major,3,3,297,Nador,18000.0
+Car,Dacia,Sandero,2006,237984,Automatic,Electric,Minor,5,4,78,Rabat,15000.0
+Motorcycle,Kawasaki,Vulcan,2015,295895,Manual,Electric,None,2,2,16,El Jadida,8000.0
+Car,Kia,Ceed,2021,270142,Manual,Electric,None,3,7,72,Safi,52000.0
+Car,Ford,Fiesta,2001,113211,Manual,Hybrid,Minor,1,5,99,Tangier,26000.0
+Car,Toyota,Hilux,2008,188740,Automatic,Hybrid,None,3,4,119,Oujda,40000.0
+Car,Opel,Meriva,2024,112912,Manual,Diesel,None,3,4,180,Meknes,136000.0
+Car,Hyundai,i20,2010,175654,Manual,Petrol,None,3,5,147,Meknes,41000.0
+Car,Seat,Cordoba,2009,58951,Manual,Petrol,None,2,2,146,Marrakech,34000.0
+Car,Mitsubishi,L200,2010,249326,Automatic,Petrol,None,5,3,89,Marrakech,21000.0
+Car,Mitsubishi,ASX,2010,261446,Manual,Petrol,Minor,3,3,218,Marrakech,16000.0
+Car,Hyundai,H1,2009,70903,Manual,Electric,None,5,6,268,Rabat,36000.0
+Car,Renault,Express,2000,136799,Manual,Electric,None,3,4,125,Nador,10000.0
+Motorcycle,Bajaj,Discover,2007,150929,Automatic,Electric,Minor,2,2,18,Tangier,1000.0
+Car,Fiat,Panda,2021,93537,Manual,Petrol,Minor,3,2,142,Khouribga,92000.0
+Car,Skoda,Superb,2014,287516,Manual,Electric,Minor,4,4,213,Tangier,28000.0
+Motorcycle,Piaggio,Typhoon,2002,71251,Manual,Petrol,None,1,2,9,Marrakech,5000.0
+Motorcycle,Honda,Vision,2011,163500,Automatic,Electric,None,4,2,17,Kenitra,6000.0
+Car,Hyundai,i30,2011,168337,Automatic,Hybrid,None,5,4,174,Agadir,16000.0
+Car,Hyundai,Getz,2003,107539,Manual,Hybrid,Major,5,7,219,Oujda,14000.0
+Motorcycle,Honda,Wave125,2010,272137,Manual,Electric,None,5,2,13,Khouribga,4000.0
+Motorcycle,Suzuki,GSX-S125,2005,117633,Manual,Petrol,None,4,2,8,Beni Mellal,2000.0
+Motorcycle,Sym,Fiddle,2000,188613,Manual,Petrol,Minor,1,2,19,Tetouan,1000.0
+Car,Peugeot,405,2020,178749,Manual,Petrol,None,3,4,274,Rabat,76000.0
+Car,Skoda,Karoq,2002,277225,Manual,Diesel,Minor,1,2,146,Nador,20000.0
+Motorcycle,Bajaj,Platina,2020,46863,Manual,Petrol,None,4,2,9,Marrakech,6000.0
+Motorcycle,Zontes,R350,2001,92261,Automatic,Petrol,Major,5,2,11,Fes,1000.0
+Motorcycle,Bajaj,V15,2003,261965,Manual,Electric,None,4,2,20,Beni Mellal,1000.0
+Car,Ford,EcoSport,2002,184906,Manual,Diesel,None,3,3,91,Khouribga,11000.0
+Car,Opel,Omega,2001,262611,Manual,Electric,None,5,3,275,Nador,14000.0
+Motorcycle,Kymco,X-Town,2021,148082,Automatic,Electric,None,5,2,12,Beni Mellal,7000.0
+Car,Chevrolet,Orlando,2016,99462,Automatic,Hybrid,None,1,3,72,Agadir,29000.0
+Motorcycle,Vespa,S125,2019,205818,Automatic,Petrol,None,5,2,13,Fes,13000.0
+Car,Renault,Talisman,2008,114782,Manual,Diesel,None,3,3,165,Nador,14000.0
+Motorcycle,Suzuki,GSX-R125,2010,287845,Manual,Petrol,None,4,2,22,Fes,2000.0
+Car,Peugeot,2008,2009,181057,Automatic,Hybrid,None,2,5,121,Rabat,17000.0
+Car,Hyundai,Sonata,2007,196040,Automatic,Hybrid,None,5,4,298,Safi,23000.0
+Car,Skoda,Octavia,2019,281160,Manual,Petrol,None,1,5,205,Oujda,81000.0
+Motorcycle,Honda,Vision,2006,159882,Automatic,Electric,None,4,2,12,Nador,5000.0
+Motorcycle,MBK,Ovetto,2010,265552,Manual,Electric,Minor,2,2,8,Meknes,3000.0
+Motorcycle,Lifan,X-Ride,2003,226926,Manual,Electric,None,5,2,11,Mohammedia,1000.0
+Car,Volkswagen,Polo,2011,102491,Automatic,Diesel,Minor,4,3,281,El Jadida,44000.0
+Car,Mercedes,C300,2003,274412,Automatic,Hybrid,Minor,3,6,268,Nador,243000.0
+Car,Peugeot,308,2015,125473,Manual,Diesel,None,2,4,155,Safi,87000.0
+Car,Mercedes,190,2021,165094,Manual,Hybrid,None,3,3,220,Meknes,759000.0
+Car,Mercedes,C200,2018,27038,Automatic,Electric,None,4,3,185,Meknes,814000.0
+Motorcycle,Piaggio,Medley,2020,194799,Automatic,Electric,Minor,3,2,18,Fes,11000.0
+Car,Ford,Transit,2002,176216,Manual,Diesel,None,5,2,158,Safi,21000.0
+Car,Kia,Ceed,2007,256325,Manual,Diesel,None,1,3,117,Mohammedia,20000.0
+Motorcycle,Keeway,K-Light,2019,125457,Automatic,Petrol,None,1,2,16,Nador,6000.0
+Car,Citroen,Berlingo,2010,126856,Automatic,Electric,None,4,3,194,Marrakech,23000.0
+Car,Renault,Clio,2023,227354,Manual,Diesel,Minor,1,7,287,Safi,66000.0
+Motorcycle,Honda,CB125F,2022,150410,Automatic,Petrol,Minor,1,2,14,Nador,10000.0
+Motorcycle,Vespa,GTS,2002,191516,Automatic,Electric,Major,1,2,10,Tetouan,3000.0
+Car,Opel,Kadett,2010,221351,Manual,Diesel,None,1,3,228,Tangier,37000.0
+Motorcycle,Kymco,X-Town,2009,43717,Manual,Electric,None,1,2,11,Marrakech,3000.0
+Car,Volkswagen,Golf Plus,2008,182766,Manual,Hybrid,None,5,2,82,Khouribga,16000.0
+Motorcycle,Keeway,Target,2016,123481,Manual,Petrol,None,5,2,18,Fes,4000.0
+Car,Volkswagen,Scirocco,2020,205756,Automatic,Electric,None,3,7,253,Agadir,53000.0
+Car,Hyundai,Sonata,2012,186218,Manual,Diesel,Major,1,2,252,Tetouan,19000.0
+Motorcycle,Kawasaki,Versys,2012,250437,Manual,Petrol,Minor,5,2,14,Taza,4000.0
+Car,Chevrolet,Matiz,2019,165884,Manual,Petrol,None,2,5,287,Marrakech,98000.0
+Car,Dacia,Stepway,2019,36555,Automatic,Electric,Major,2,3,73,El Jadida,78000.0
+Car,Peugeot,307,2010,295263,Automatic,Petrol,None,5,7,216,Marrakech,16000.0
+Car,Kia,Ceed,2018,250018,Manual,Hybrid,None,1,5,74,Marrakech,33000.0
+Car,Toyota,Camry,2017,231824,Manual,Diesel,None,3,6,134,Marrakech,30000.0
+Car,Dacia,Sandero,2013,112621,Manual,Electric,None,1,7,208,Khouribga,32000.0
+Motorcycle,Vespa,PX,2006,269276,Automatic,Electric,None,2,2,8,Fes,4000.0
+Car,Dacia,Sandero,2000,259163,Manual,Diesel,None,4,7,100,Khouribga,15000.0
+Car,Hyundai,Accent,2015,42212,Manual,Petrol,None,5,4,94,Agadir,58000.0
+Car,Volkswagen,Jetta,2000,179807,Automatic,Diesel,None,1,4,198,Marrakech,17000.0
+Car,Mitsubishi,ASX,2002,188860,Manual,Electric,None,2,4,187,Oujda,18000.0
+Car,Citroen,C2,2002,241595,Manual,Petrol,Minor,1,5,149,Agadir,22000.0
+Car,Chevrolet,Lacetti,2014,17443,Automatic,Petrol,None,2,7,125,Nador,60000.0
+Car,Mercedes,E220,2008,246873,Automatic,Hybrid,None,4,7,272,Safi,541000.0
+Car,Chevrolet,Spark,2001,29639,Automatic,Diesel,None,3,3,187,El Jadida,35000.0
+Car,Toyota,Hilux,2005,241477,Manual,Hybrid,None,2,3,220,Casablanca,14000.0
+Car,Hyundai,Santa Fe,2021,89734,Automatic,Hybrid,Major,2,3,293,Marrakech,61000.0
+Car,Renault,Logan,2008,5435,Automatic,Hybrid,None,2,3,119,Casablanca,57000.0
+Motorcycle,Keeway,RKV,2019,295554,Automatic,Petrol,Minor,4,2,20,Tangier,2000.0
+Car,Suzuki,Alto,2017,85094,Manual,Hybrid,None,5,6,221,Taza,83000.0
+Car,Ford,Sierra,2007,87305,Manual,Electric,None,4,7,190,Agadir,18000.0
+Motorcycle,Honda,CG125,2007,270202,Automatic,Petrol,Minor,5,2,16,Marrakech,4000.0
+Car,Suzuki,Swift,2011,276621,Automatic,Electric,None,3,3,261,Safi,35000.0
+Car,Mercedes,C250,2005,190831,Automatic,Electric,None,2,3,147,Rabat,209000.0
+Car,Opel,Astra,2012,291322,Manual,Electric,None,2,3,248,Nador,42000.0
+Motorcycle,Lifan,Hunter,2020,241935,Automatic,Petrol,Major,2,2,19,Tangier,3000.0
+Motorcycle,BMW,G310R,2006,98509,Automatic,Electric,None,2,2,20,Marrakech,8000.0
+Car,Chevrolet,Captiva,2006,125173,Manual,Petrol,None,4,5,122,Marrakech,21000.0
+Car,Opel,Combo,2013,138214,Automatic,Hybrid,None,3,4,295,Khouribga,74000.0
+Car,Seat,Ateca,2011,195800,Automatic,Petrol,None,1,4,218,Agadir,52000.0
+Car,Citroen,C-Elysee,2021,72111,Manual,Hybrid,Minor,5,5,205,Kenitra,50000.0
+Car,Dacia,Logan,2023,251605,Manual,Petrol,None,2,5,88,El Jadida,84000.0
+Car,Kia,Optima,2008,98079,Automatic,Petrol,Minor,3,3,219,Taza,32000.0
+Car,Kia,Ceed,2023,282786,Manual,Diesel,None,1,2,94,El Jadida,56000.0
+Car,Fiat,Linea,2017,232506,Automatic,Diesel,Minor,5,4,255,Tangier,28000.0
+Motorcycle,Honda,Vision,2000,107675,Manual,Petrol,None,4,2,14,El Jadida,4000.0
+Motorcycle,Piaggio,MP3,2011,218270,Manual,Petrol,None,5,2,16,Casablanca,6000.0
+Car,Mercedes,C180,2018,44413,Manual,Electric,Minor,4,5,96,Meknes,475000.0
+Motorcycle,Aprilia,Atlantic,2014,253434,Automatic,Electric,None,2,2,16,Beni Mellal,11000.0
+Car,Toyota,Auris,2017,277256,Automatic,Petrol,Major,5,5,196,Safi,37000.0
+Car,Skoda,Karoq,2014,32171,Manual,Petrol,None,3,3,183,Taza,99000.0
+Car,Mercedes,220,2006,76656,Automatic,Petrol,None,2,3,125,Mohammedia,633000.0
+Motorcycle,Lifan,X-Ride,2004,265612,Manual,Petrol,Minor,3,2,9,El Jadida,1000.0
+Car,Seat,Cordoba,2018,203666,Automatic,Petrol,None,3,7,113,Taza,76000.0
+Car,Ford,Fiesta,2001,202086,Automatic,Electric,Major,5,2,254,Casablanca,12000.0
+Car,Seat,Cordoba,2023,147155,Automatic,Electric,Major,5,6,103,Khouribga,71000.0
+Car,Hyundai,Tucson,2013,56649,Automatic,Electric,None,5,4,298,Tetouan,38000.0
+Car,Mercedes,220,2018,203521,Manual,Electric,Minor,2,4,114,Tangier,592000.0
+Motorcycle,Piaggio,Liberty,2003,39140,Manual,Electric,None,2,2,24,Beni Mellal,7000.0
+Motorcycle,Aprilia,Scarabeo,2008,156223,Automatic,Electric,None,4,2,10,Beni Mellal,5000.0
+Car,Kia,Optima,2005,13400,Manual,Electric,Minor,5,3,126,Tangier,20000.0
+Car,Kia,Carens,2022,204813,Automatic,Electric,None,2,7,209,Nador,58000.0
+Car,Mitsubishi,Lancer,2009,4352,Manual,Electric,None,5,2,109,Safi,16000.0
+Car,Chevrolet,Orlando,2011,212129,Automatic,Hybrid,None,4,3,158,Kenitra,44000.0
+Motorcycle,Lifan,V16,2021,244284,Manual,Petrol,Minor,5,2,23,Marrakech,2000.0
+Car,Renault,Express,2004,162704,Manual,Electric,Major,1,7,119,Kenitra,22000.0
+Motorcycle,Keeway,Target,2019,199941,Manual,Electric,None,4,2,11,Casablanca,4000.0
+Car,Fiat,Linea,2003,43811,Automatic,Petrol,None,4,7,273,Meknes,37000.0
+Car,Mercedes,250,2019,292387,Manual,Hybrid,None,5,6,263,Kenitra,984000.0
+Car,Ford,Mondeo,2015,131464,Automatic,Diesel,None,2,7,158,Khouribga,26000.0
